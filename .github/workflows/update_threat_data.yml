@@ -16,7 +16,9 @@ jobs:
     # This specifies that the job will run on a virtual machine running the latest version of Ubuntu Linux.
     runs-on: ubuntu-latest
     
+    # --- THIS IS THE MOST IMPORTANT FIX ---
     # This block explicitly grants the job permission to write to the repository's contents.
+    # Without this, the git push step will silently fail.
     permissions:
       contents: write
       
