@@ -11,8 +11,13 @@ load_dotenv()
 
 # --- CONFIGURATION ---
 OTX_API_KEY = os.getenv('OTX_API_KEY', 'YOUR_ALIENVAULT_OTX_API_KEY')
-OUTPUT_FILE = '../docs/data.json'
-# --- UPGRADE: Dynamic Limits ---
+
+# --- THIS IS THE FIX ---
+# This creates a robust, absolute path to data.json that works everywhere.
+OUTPUT_FILE = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), '..', 'docs', 'data.json')
+)
+
 GEO_LOOKUP_LIMIT = random.randint(60, 80)
 TOTAL_INDICATOR_LIMIT = random.randint(2000, 2100)
 OTX_PULSE_LIMIT = 50
