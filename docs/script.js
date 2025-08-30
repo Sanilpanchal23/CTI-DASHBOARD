@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
     L.Control.Home = L.Control.extend({
         onAdd: function(map) {
             const btn = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
-            btn.innerHTML = '&#127968;'; // Home emoji
+            btn.innerHTML = '&#127968;';
             btn.title = 'Reset View';
             btn.onclick = function(e) { e.stopPropagation(); map.flyTo(INITIAL_CENTER, INITIAL_ZOOM); }
             return btn;
@@ -68,11 +68,19 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // --- UPGRADE: Simplified function to calculate next update by adding 30 minutes ---
+    // --- UPGRADE: New function to calculate and display the next update time ---
     function displayNextUpdate(lastUpdateTime) {
+        const minutes = lastUpdateTime.getMinutes();
         const nextUpdate = new Date(lastUpdateTime.getTime());
-        nextUpdate.setMinutes(lastUpdateTime.getMinutes() + 30); // Add 30 minutes
-        
+        // Set seconds and milliseconds to 0 to ensure clean rounding
+        nextUpdate.setSeconds(0, 0);
+
+        if (minutes < 30) {
+            nextUpdate.setMinutes(30); // Next update is at the 30-minute mark
+        } else {
+            // Next update is at the start of the next hour
+            nextUpdate.setHours(lastUpdateTime.getHours() + 1, 0); 
+        }
         document.getElementById('next-update').innerText = nextUpdate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
         document.getElementById('status-indicator').style.opacity = '1';
     }
