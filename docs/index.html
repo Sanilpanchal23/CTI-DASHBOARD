@@ -21,7 +21,13 @@
     <div class="container mx-auto p-4 md:p-6">
         <header class="mb-6">
             <h1 class="text-3xl font-bold text-cyan-400">Cyber Threat Intelligence Dashboard</h1>
-            <p class="text-gray-400">Last updated: <span id="last-updated">Loading...</span></p>
+            <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-gray-400 mt-1">
+                <span>Last updated: <span id="last-updated">Loading...</span></span>
+                <span id="status-indicator" class="flex items-center gap-2 text-xs opacity-0 transition-opacity duration-500">
+                    <span class="online-indicator"></span>
+                    <span>Next update: <span id="next-update">Calculating...</span></span>
+                </span>
+            </div>
         </header>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-6">

@@ -5,7 +5,7 @@ name: Update CTI Threat Data
 on:
   # This runs the workflow on a schedule. The cron syntax means "at minute 0, every 4th hour".
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '*/30 * * * *'
   
   # This adds a button on the Actions tab, allowing you to run the workflow manually at any time.
   workflow_dispatch:

@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
     L.Control.Home = L.Control.extend({
         onAdd: function(map) {
             const btn = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
-            btn.innerHTML = '&#127968;'; // Home emoji
+            btn.innerHTML = '&#127968;';
             btn.title = 'Reset View';
             btn.onclick = function(e) { e.stopPropagation(); map.flyTo(INITIAL_CENTER, INITIAL_ZOOM); }
             return btn;
@@ -25,15 +25,11 @@ document.addEventListener('DOMContentLoaded', function() {
         'domain': L.divIcon({ className: 'custom-div-icon marker-domain' }),
         'URL': L.divIcon({ className: 'custom-div-icon marker-url' })
     };
-
     const markers = L.markerClusterGroup({ chunkedLoading: true, maxClusterRadius: 50 });
-
     let allIndicators = [];
     let currentPage = 1;
     const rowsPerPage = 100;
     let markerLookup = {};
-    
-    // --- UPGRADE: Auto-Refresh Logic ---
     let currentDataTimestamp = null;
     let refreshInterval = null;
 
@@ -48,25 +44,22 @@ document.addEventListener('DOMContentLoaded', function() {
         domain: `<svg class="w-8 h-8 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9V3m0 18a9 9 0 009-9m-9 9a9 9 0 00-9-9"></path></svg>`
     };
 
-    // Initial data fetch
     fetchData();
 
     async function fetchData() {
         try {
-            // Use cache-busting to always get the latest file
             const response = await fetch(`data.json?v=${new Date().getTime()}`);
             if (!response.ok) throw new Error(`Network response error`);
             const data = await response.json();
             
-            // Set the timestamp and start checking for updates if this is the first load
-            if (!currentDataTimestamp) {
-                startAutoRefreshCheck();
-            }
-            currentDataTimestamp = data.last_updated_utc;
+            const lastUpdatedDate = new Date(data.last_updated_utc);
+            document.getElementById('last-updated').innerText = lastUpdatedDate.toLocaleString();
             
-            document.getElementById('last-updated').innerText = new Date(data.last_updated_utc).toLocaleString();
+            displayNextUpdate(lastUpdatedDate);
+            
+            if (!currentDataTimestamp) { startAutoRefreshCheck(); }
+            currentDataTimestamp = data.last_updated_utc;
             allIndicators = data.indicators || [];
-
             renderStatsAndMap(allIndicators);
             renderTablePage();
         } catch (error) {
@@ -75,10 +68,25 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // --- UPGRADE: Auto-Refresh Functions ---
+    // --- UPGRADE: New function to calculate and display the next update time ---
+    function displayNextUpdate(lastUpdateTime) {
+        const minutes = lastUpdateTime.getMinutes();
+        const nextUpdate = new Date(lastUpdateTime.getTime());
+        // Set seconds and milliseconds to 0 to ensure clean rounding
+        nextUpdate.setSeconds(0, 0);
+
+        if (minutes < 30) {
+            nextUpdate.setMinutes(30); // Next update is at the 30-minute mark
+        } else {
+            // Next update is at the start of the next hour
+            nextUpdate.setHours(lastUpdateTime.getHours() + 1, 0); 
+        }
+        document.getElementById('next-update').innerText = nextUpdate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+        document.getElementById('status-indicator').style.opacity = '1';
+    }
+
     function startAutoRefreshCheck() {
-        if (refreshInterval) clearInterval(refreshInterval); // Clear any existing interval
-        // Check for new data every 2 minutes (120,000 milliseconds)
+        if (refreshInterval) clearInterval(refreshInterval);
         refreshInterval = setInterval(checkForUpdates, 120000);
     }
 
@@ -86,12 +94,11 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log("Checking for new threat data...");
         try {
             const response = await fetch(`data.json?v=${new Date().getTime()}`);
-            if (!response.ok) return; // Silently fail if check fails
+            if (!response.ok) return;
             const data = await response.json();
-
             if (data.last_updated_utc && data.last_updated_utc !== currentDataTimestamp) {
                 console.log("New data found! Refreshing dashboard...");
-                fetchData(); // New data is available, so re-run the main fetch and render function
+                fetchData();
             } else {
                 console.log("No new data.");
             }
@@ -99,7 +106,6 @@ document.addEventListener('DOMContentLoaded', function() {
             console.error("Error during update check:", error);
         }
     }
-    // --- End of Upgrade ---
 
     function renderStatsAndMap(indicators) {
         document.getElementById('total-indicators').innerText = indicators.length;
@@ -113,15 +119,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
         markers.clearLayers();
         markerLookup = {};
-
         indicators.forEach((indicator) => {
             if (indicator.geo) {
                 const icon = icons[indicator.type] || icons['IPv4'];
                 const marker = L.marker([indicator.geo.lat, indicator.geo.lon], { icon: icon });
-                
                 const popupContent = `<b>${indicator.type}:</b> ${escapeHtml(indicator.value)}<br><b>Location:</b> ${indicator.geo.city || 'N/A'}, ${indicator.geo.country || 'N/A'}<br><b>Source:</b> ${indicator.source}<br><b>Description:</b> ${escapeHtml(indicator.description || 'N/A')}`;
                 marker.bindPopup(popupContent);
-                
                 marker.on('click', () => highlightTableRow(indicator.value));
                 markerLookup[indicator.value] = marker;
                 markers.addLayer(marker);
@@ -137,13 +140,11 @@ document.addEventListener('DOMContentLoaded', function() {
         const start = (currentPage - 1) * rowsPerPage;
         const end = start + rowsPerPage;
         const paginatedIndicators = allIndicators.slice(start, end);
-
         paginatedIndicators.forEach(indicator => {
             if (!indicator) return;
             const row = tableBody.insertRow();
             row.className = 'bg-gray-800/50 border-b border-gray-700/50 hover:bg-gray-700/50 transition-colors duration-150';
             row.dataset.indicatorValue = indicator.value;
-
             if (indicator.geo) {
                 row.style.cursor = 'pointer';
                 row.addEventListener('click', () => {
@@ -154,7 +155,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     highlightTableRow(indicator.value);
                 });
             }
-
             const typeClass = indicator.type === 'IPv4' ? 'text-red-400' : (indicator.type === 'URL' ? 'text-yellow-400' : 'text-blue-400');
             row.innerHTML = `<td class="px-4 py-2 font-medium ${typeClass}">${indicator.type || 'N/A'}</td><td class="px-4 py-2 font-mono text-xs break-all">${escapeHtml(indicator.value)}</td><td class="px-4 py-2">${indicator.source || 'N/A'}</td><td class="px-4 py-2">${escapeHtml(indicator.description || 'N/A')}</td>`;
         });
