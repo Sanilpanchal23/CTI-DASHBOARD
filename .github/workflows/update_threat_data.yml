@@ -3,20 +3,23 @@ name: Update CTI Threat Data
 
 # This section defines when the workflow will run.
 on:
-  # This runs the workflow on a schedule. The 'cron' syntax '0 */6 * * *' means "at minute 0, every 6th hour".
+  # This runs the workflow on a schedule. The cron syntax means "at minute 0, every 4th hour".
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */4 * * *'
   
   # This adds a button on the Actions tab, allowing you to run the workflow manually at any time.
   workflow_dispatch:
 
 # A workflow is made up of one or more "jobs" that can run sequentially or in parallel.
 jobs:
-  # We're defining a single job called "build-and-deploy".
   build-and-deploy:
     # This specifies that the job will run on a virtual machine running the latest version of Ubuntu Linux.
     runs-on: ubuntu-latest
     
+    # This block explicitly grants the job permission to write to the repository's contents.
+    permissions:
+      contents: write
+      
     # A job is made up of a sequence of "steps". Each step is a command or an action.
     steps:
       # Step 1: Check out your repository's code onto the virtual machine.
@@ -37,8 +40,7 @@ jobs:
 
       # Step 4: Run your main Python script to fetch the new data.
       - name: Run threat fetch script
-        # This is the crucial part for security. It creates an environment variable named OTX_API_KEY
-        # and populates it with the secret value you stored in your repository's settings.
+        # This securely uses the secret API key you stored in your repository's settings.
         env:
           OTX_API_KEY: ${{ secrets.OTX_API_KEY }}
         run: python backend/fetch_threats.py
