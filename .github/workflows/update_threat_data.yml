@@ -1,0 +1,63 @@
+# A friendly name for your workflow, which will appear in the "Actions" tab of your GitHub repository.
+name: Update CTI Threat Data
+
+# This section defines when the workflow will run.
+on:
+  # This runs the workflow on a schedule. The 'cron' syntax '0 */6 * * *' means "at minute 0, every 6th hour".
+  schedule:
+    - cron: '0 */6 * * *'
+  
+  # This adds a button on the Actions tab, allowing you to run the workflow manually at any time.
+  workflow_dispatch:
+
+# A workflow is made up of one or more "jobs" that can run sequentially or in parallel.
+jobs:
+  # We're defining a single job called "build-and-deploy".
+  build-and-deploy:
+    # This specifies that the job will run on a virtual machine running the latest version of Ubuntu Linux.
+    runs-on: ubuntu-latest
+    
+    # A job is made up of a sequence of "steps". Each step is a command or an action.
+    steps:
+      # Step 1: Check out your repository's code onto the virtual machine.
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up a Python environment for the script to run in.
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # Step 3: Install the Python libraries your script needs (requests and python-dotenv).
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv
+
+      # Step 4: Run your main Python script to fetch the new data.
+      - name: Run threat fetch script
+        # This is the crucial part for security. It creates an environment variable named OTX_API_KEY
+        # and populates it with the secret value you stored in your repository's settings.
+        env:
+          OTX_API_KEY: ${{ secrets.OTX_API_KEY }}
+        run: python backend/fetch_threats.py
+
+      # Step 5: Commit the newly generated data.json file back to your repository.
+      - name: Commit and push if there are changes
+        run: |
+          # Configure Git with a generic bot user name and email.
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Add the specific file that was changed.
+          git add docs/data.json
+          
+          # This command checks if there are any actual changes to the file. If not, it does nothing.
+          # If there are changes, it creates a commit and pushes it to your main branch.
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated CTI data update"
+            git push
+          fi

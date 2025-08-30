@@ -11,7 +11,7 @@ load_dotenv()
 
 # --- CONFIGURATION ---
 OTX_API_KEY = os.getenv('OTX_API_KEY', 'YOUR_ALIENVAULT_OTX_API_KEY')
-OUTPUT_FILE = '../frontend/data.json'
+OUTPUT_FILE = '../docs/data.json'
 # --- UPGRADE: Dynamic Limits ---
 GEO_LOOKUP_LIMIT = random.randint(60, 80)
 TOTAL_INDICATOR_LIMIT = random.randint(2000, 2100)
