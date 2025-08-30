@@ -16,9 +16,7 @@ jobs:
     # This specifies that the job will run on a virtual machine running the latest version of Ubuntu Linux.
     runs-on: ubuntu-latest
     
-    # --- THIS IS THE MOST IMPORTANT FIX ---
     # This block explicitly grants the job permission to write to the repository's contents.
-    # Without this, the git push step will silently fail.
     permissions:
       contents: write
       
@@ -54,7 +52,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Add the specific file that was changed.
+          # Add the specific file that was changed, using the correct 'docs' folder path.
           git add docs/data.json
           
           # This command checks if there are any actual changes to the file. If not, it does nothing.
