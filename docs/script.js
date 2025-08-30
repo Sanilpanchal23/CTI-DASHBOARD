@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // --- UPGRADE: Define initial map state ---
     const INITIAL_CENTER = [20, 0];
     const INITIAL_ZOOM = 2.5;
 
@@ -8,23 +7,18 @@ document.addEventListener('DOMContentLoaded', function() {
         attribution: '&copy; OpenStreetMap &copy; CARTO',
     }).addTo(map);
 
-    // --- UPGRADE: Home Button Control -----
     L.Control.Home = L.Control.extend({
         onAdd: function(map) {
             const btn = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
             btn.innerHTML = '&#127968;'; // Home emoji
             btn.title = 'Reset View';
-            btn.onclick = function(e) {
-                e.stopPropagation(); // prevent map click
-                map.flyTo(INITIAL_CENTER, INITIAL_ZOOM);
-            }
+            btn.onclick = function(e) { e.stopPropagation(); map.flyTo(INITIAL_CENTER, INITIAL_ZOOM); }
             return btn;
         },
         onRemove: function(map) {}
     });
     L.control.home = function(opts) { return new L.Control.Home(opts); }
     L.control.home({ position: 'topleft' }).addTo(map);
-    // --- End of Upgrade ---
 
     const icons = {
         'IPv4': L.divIcon({ className: 'custom-div-icon marker-ipv4' }),
@@ -32,34 +26,43 @@ document.addEventListener('DOMContentLoaded', function() {
         'URL': L.divIcon({ className: 'custom-div-icon marker-url' })
     };
 
-    const markers = L.markerClusterGroup({
-        chunkedLoading: true,
-        maxClusterRadius: 50
-    });
+    const markers = L.markerClusterGroup({ chunkedLoading: true, maxClusterRadius: 50 });
 
     let allIndicators = [];
     let currentPage = 1;
     const rowsPerPage = 100;
     let markerLookup = {};
+    
+    // --- UPGRADE: Auto-Refresh Logic ---
+    let currentDataTimestamp = null;
+    let refreshInterval = null;
 
     const prevButton = document.getElementById('prev-page');
     const nextButton = document.getElementById('next-page');
     const pageInfo = document.getElementById('page-info');
 
     const svgIcons = {
-        total: `<svg class="w-8 h-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>`,
-        geo: `<svg class="w-8 h-8 text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>`,
-        url: `<svg class="w-8 h-8 text-yellow-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"></path></svg>`,
-        domain: `<svg class="w-8 h-8 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9V3m0 18a9 9 0 009-9m-9 9a9 9 0 00-9-9"></path></svg>`
+        total: `<svg class="w-8 h-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>`,
+        geo: `<svg class="w-8 h-8 text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>`,
+        url: `<svg class="w-8 h-8 text-yellow-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"></path></svg>`,
+        domain: `<svg class="w-8 h-8 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9V3m0 18a9 9 0 009-9m-9 9a9 9 0 00-9-9"></path></svg>`
     };
 
+    // Initial data fetch
     fetchData();
 
     async function fetchData() {
         try {
-            const response = await fetch('data.json');
+            // Use cache-busting to always get the latest file
+            const response = await fetch(`data.json?v=${new Date().getTime()}`);
             if (!response.ok) throw new Error(`Network response error`);
             const data = await response.json();
+            
+            // Set the timestamp and start checking for updates if this is the first load
+            if (!currentDataTimestamp) {
+                startAutoRefreshCheck();
+            }
+            currentDataTimestamp = data.last_updated_utc;
             
             document.getElementById('last-updated').innerText = new Date(data.last_updated_utc).toLocaleString();
             allIndicators = data.indicators || [];
@@ -71,6 +74,32 @@ document.addEventListener('DOMContentLoaded', function() {
             document.getElementById('last-updated').innerText = "Failed to load data.";
         }
     }
+
+    // --- UPGRADE: Auto-Refresh Functions ---
+    function startAutoRefreshCheck() {
+        if (refreshInterval) clearInterval(refreshInterval); // Clear any existing interval
+        // Check for new data every 2 minutes (120,000 milliseconds)
+        refreshInterval = setInterval(checkForUpdates, 120000);
+    }
+
+    async function checkForUpdates() {
+        console.log("Checking for new threat data...");
+        try {
+            const response = await fetch(`data.json?v=${new Date().getTime()}`);
+            if (!response.ok) return; // Silently fail if check fails
+            const data = await response.json();
+
+            if (data.last_updated_utc && data.last_updated_utc !== currentDataTimestamp) {
+                console.log("New data found! Refreshing dashboard...");
+                fetchData(); // New data is available, so re-run the main fetch and render function
+            } else {
+                console.log("No new data.");
+            }
+        } catch (error) {
+            console.error("Error during update check:", error);
+        }
+    }
+    // --- End of Upgrade ---
 
     function renderStatsAndMap(indicators) {
         document.getElementById('total-indicators').innerText = indicators.length;
@@ -95,7 +124,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 marker.on('click', () => highlightTableRow(indicator.value));
                 markerLookup[indicator.value] = marker;
-
                 markers.addLayer(marker);
             }
         });
@@ -121,9 +149,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 row.addEventListener('click', () => {
                     const marker = markerLookup[indicator.value];
                     if (marker) {
-                        markers.zoomToShowLayer(marker, () => {
-                            marker.openPopup();
-                        });
+                        markers.zoomToShowLayer(marker, () => marker.openPopup());
                     }
                     highlightTableRow(indicator.value);
                 });
@@ -143,9 +169,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 rowToHighlight.classList.add('highlight-row');
                 rowToHighlight.scrollIntoView({ behavior: 'smooth', block: 'center' });
             }
-        } catch (e) {
-            console.error("Could not highlight row:", e);
-        }
+        } catch (e) { console.error("Could not highlight row:", e); }
     }
 
     function updatePaginationControls() {
