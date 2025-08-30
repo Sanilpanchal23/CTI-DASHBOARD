@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         attribution: '&copy; OpenStreetMap &copy; CARTO',
     }).addTo(map);
 
-    // --- UPGRADE: Home Button Control ---
+    // --- UPGRADE: Home Button Control -----
     L.Control.Home = L.Control.extend({
         onAdd: function(map) {
             const btn = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
