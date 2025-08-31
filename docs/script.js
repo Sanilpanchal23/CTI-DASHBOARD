@@ -32,6 +32,9 @@ document.addEventListener('DOMContentLoaded', function() {
     let markerLookup = {};
     let currentDataTimestamp = null;
     let refreshInterval = null;
+    
+    // --- ADDITION: State for type filter ---
+    let currentTypeFilter = 'all';
 
     const prevButton = document.getElementById('prev-page');
     const nextButton = document.getElementById('next-page');
@@ -55,7 +58,8 @@ document.addEventListener('DOMContentLoaded', function() {
             const lastUpdatedDate = new Date(data.last_updated_utc);
             document.getElementById('last-updated').innerText = lastUpdatedDate.toLocaleString();
             
-            displayNextUpdate(lastUpdatedDate);
+            // Replaced displayNextUpdate with updateStatusDisplays
+            updateStatusDisplays(lastUpdatedDate);
             
             if (!currentDataTimestamp) { startAutoRefreshCheck(); }
             currentDataTimestamp = data.last_updated_utc;
@@ -68,21 +72,15 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // --- UPGRADE: New function to calculate and display the next update time ---
-    function displayNextUpdate(lastUpdateTime) {
-        const minutes = lastUpdateTime.getMinutes();
-        const nextUpdate = new Date(lastUpdateTime.getTime());
-        // Set seconds and milliseconds to 0 to ensure clean rounding
-        nextUpdate.setSeconds(0, 0);
-
-        if (minutes < 30) {
-            nextUpdate.setMinutes(30); // Next update is at the 30-minute mark
-        } else {
-            // Next update is at the start of the next hour
-            nextUpdate.setHours(lastUpdateTime.getHours() + 1, 0); 
-        }
-        document.getElementById('next-update').innerText = nextUpdate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+    // --- ADDITION: New function to set Online status and +40 min estimate ---
+    function updateStatusDisplays(lastUpdateTime) {
+        // Set the static "Online" status indicator to visible
         document.getElementById('status-indicator').style.opacity = '1';
+
+        // Calculate and display the estimated next update time
+        const estimatedUpdate = new Date(lastUpdateTime.getTime());
+        estimatedUpdate.setMinutes(estimatedUpdate.getMinutes() + 40);
+        document.getElementById('estimated-update').innerText = estimatedUpdate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
     }
 
     function startAutoRefreshCheck() {
@@ -133,13 +131,29 @@ document.addEventListener('DOMContentLoaded', function() {
         map.addLayer(markers);
     }
 
+    // --- MODIFIED: renderTablePage now filters data and updates pagination ---
     function renderTablePage() {
         if (!Array.isArray(allIndicators)) return;
+        
+        // 1. Filter data based on the current filter state
+        let processedIndicators = allIndicators;
+        if (currentTypeFilter !== 'all') {
+            processedIndicators = allIndicators.filter(ind => ind.type === currentTypeFilter);
+        }
+
+        // 2. Update pagination controls based on the filtered data
+        const totalPages = Math.ceil(processedIndicators.length / rowsPerPage) || 1;
+        pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+        prevButton.disabled = currentPage === 1;
+        nextButton.disabled = currentPage >= totalPages; // Use >= to be safe
+
+        // 3. Paginate and render the table
         const tableBody = document.getElementById('indicators-table-body');
         tableBody.innerHTML = '';
         const start = (currentPage - 1) * rowsPerPage;
         const end = start + rowsPerPage;
-        const paginatedIndicators = allIndicators.slice(start, end);
+        const paginatedIndicators = processedIndicators.slice(start, end);
+        
         paginatedIndicators.forEach(indicator => {
             if (!indicator) return;
             const row = tableBody.insertRow();
@@ -158,7 +172,6 @@ document.addEventListener('DOMContentLoaded', function() {
             const typeClass = indicator.type === 'IPv4' ? 'text-red-400' : (indicator.type === 'URL' ? 'text-yellow-400' : 'text-blue-400');
             row.innerHTML = `<td class="px-4 py-2 font-medium ${typeClass}">${indicator.type || 'N/A'}</td><td class="px-4 py-2 font-mono text-xs break-all">${escapeHtml(indicator.value)}</td><td class="px-4 py-2">${indicator.source || 'N/A'}</td><td class="px-4 py-2">${escapeHtml(indicator.description || 'N/A')}</td>`;
         });
-        updatePaginationControls();
     }
 
     function highlightTableRow(indicatorValue) {
@@ -171,18 +184,38 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         } catch (e) { console.error("Could not highlight row:", e); }
     }
-
-    function updatePaginationControls() {
-        if (!Array.isArray(allIndicators)) return;
-        const totalPages = Math.ceil(allIndicators.length / rowsPerPage) || 1;
-        pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
-        prevButton.disabled = currentPage === 1;
-        nextButton.disabled = currentPage === totalPages;
-    }
-
-    prevButton.addEventListener('click', () => { if (currentPage > 1) { currentPage--; renderTablePage(); } });
-    nextButton.addEventListener('click', () => { if (currentPage < Math.ceil(allIndicators.length / rowsPerPage)) { currentPage++; renderTablePage(); } });
     
+    // --- REMOVED updatePaginationControls function as its logic is now inside renderTablePage ---
+
+    prevButton.addEventListener('click', () => { if (!prevButton.disabled) { currentPage--; renderTablePage(); } });
+    nextButton.addEventListener('click', () => { if (!nextButton.disabled) { currentPage++; renderTablePage(); } });
+    
+    // --- ADDITION: Event listeners for the new filter dropdown ---
+    const typeHeaderButton = document.getElementById('type-header-button');
+    const typeFilterDropdown = document.getElementById('type-filter-dropdown');
+    
+    typeHeaderButton.addEventListener('click', (e) => {
+        e.stopPropagation(); // Prevents the window click listener from firing immediately
+        typeFilterDropdown.classList.toggle('hidden');
+    });
+
+    // Close dropdown if clicked outside
+    window.addEventListener('click', () => {
+        if (!typeFilterDropdown.classList.contains('hidden')) {
+            typeFilterDropdown.classList.add('hidden');
+        }
+    });
+
+    document.querySelectorAll('.filter-option').forEach(option => {
+        option.addEventListener('click', function(e) {
+            e.preventDefault();
+            currentTypeFilter = this.dataset.type;
+            currentPage = 1; // Reset to page 1 on filter change
+            renderTablePage();
+            typeFilterDropdown.classList.add('hidden'); // Hide dropdown after selection
+        });
+    });
+
     function escapeHtml(unsafe) {
         if (typeof unsafe !== 'string') return '';
         return unsafe.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
