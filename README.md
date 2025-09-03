@@ -29,7 +29,7 @@ This project provides a **single pane of glass** for security analysts, SOC team
 
 ## 🌐 Live Demo
 
-🔗 **[View the Dashboard](YOUR_GITHUB_PAGES_URL_HERE)**
+🔗 **[View the Dashboard](https://sanilpanchal23.github.io/CTI-DASHBOARD/)**
 
 ---
 
@@ -39,19 +39,7 @@ This project provides a **single pane of glass** for security analysts, SOC team
 | ---------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![CTI Dashboard Overview](assets/screenshot-dashboard.png) | ![Global Threat Map](assets/screenshot-map.png) | ![Indicator Table](assets/screenshot-table.png) |
 
-**Save screenshots in your `assets` folder with these names:**
 
-* `screenshot-dashboard.png`
-* `screenshot-map.png`
-* `screenshot-table.png`
-
-Project path:
-
-```
-C:\Users\sanil\Projects\CTI-DASHBOARD\assets
-```
-
----
 
 ## 🎯 Project Purpose
 
@@ -149,6 +137,3 @@ Built to empower **SOC teams and cyber analysts** with a **clear, automated, and
 
 ✨ **CTI Dashboard – Real-time Cyber Threat Intelligence, Automated and Visualised.**
 
----
-
-Would you like me to also design a **consistent project cover banner** (`assets/cover.png`) for this dashboard, so it matches *Cloud Architect Pro* and gives both repos a uniform, professional look for your graduate portfolio?
