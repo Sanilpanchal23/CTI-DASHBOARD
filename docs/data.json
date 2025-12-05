@@ -1,8 +1,140 @@
 {
-  "last_updated_utc": "2025-12-05T19:35:23.722882+00:00",
+  "last_updated_utc": "2025-12-05T20:15:07.895496+00:00",
   "indicators": [
     {
-      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/294963487589906/",
+      "value": "http://pub-01172c7af5fb43ef8b41409136ae32ed.r2.dev/state.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://notifyhubss.net/40405dab3udeb94b5cl98eaf883lb4201469.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/209157956363467/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://xnbvr3716ey4qcwejpk.zthc.de/xNBvR/ey4QcWejpK/EwfnWYJ7qRr2mPH0H9Tv4D9qgen/xNBvR/ey4QcWejpK/Sales/3716/tradingacademy.com/EwfnWYJ7qRr2mPH0H9Tv",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://amazonclone-two-gamma.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "http://le.lrtkzy18.shop/LfhWDf/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://investing-secure-coinbase.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "https://ipfs.io/ipfs/bafybeibykkylylydqulzfepzxux3enyghdw7dpbqkrkrfpqt32lbfvjiqa",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.79,
+        "lon": -122.401
+      }
+    },
+    {
+      "value": "https://rbfcu-star.azurewebsites.net/(S(lwws0udbikbat23qs1iwuocs))/Main/Login/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Antonio",
+        "country": "United States",
+        "lat": 29.4167,
+        "lon": -98.5
+      }
+    },
+    {
+      "value": "http://www.spotify-clone-iota-ashen.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://portals-coinbase-signin.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://m4v8f2511gamhpzgjkb.zthc.de/M4v8f/GamhpzgJKB/MFOuscolbZiJjTh4e8xb4D9qgen/M4v8f/GamhpzgJKB/Sales/2511/moxiworks.com/MFOuscolbZiJjTh4e8xb",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://alyanmn-paylterfrom.smallowxyz.biz.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/224996321466428/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -26,7 +158,7 @@
       }
     },
     {
-      "value": "https://lv-alton-peralta.pages.dev/help/contact/47274572577599/",
+      "value": "https://metamassk.pages.dev/%22/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -38,69 +170,33 @@
       }
     },
     {
-      "value": "51.210.96.48",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)",
-      "geo": {
-        "city": "Gravelines",
-        "country": "France",
-        "lat": 50.9871,
-        "lon": 2.12554
-      }
-    },
-    {
-      "value": "https://jaeep8221u2ltdc3mrt.leqw.de/jAEep/U2LtDC3MRt/Xcf8h3fcVnFeQKAheD434D9qgen/jAEep/U2LtDC3MRt/Sales/8221/seia.com/Xcf8h3fcVnFeQKAheD43/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://shortlink.st/Ni-16NTi",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Frankfurt am Main",
-        "country": "Germany",
-        "lat": 50.1109,
-        "lon": 8.68213
-      }
-    },
-    {
-      "value": "http://pub-e4c53bdf02a545d68ca063656fc04061.r2.dev/index.html?bb62486664091b452383eb435e14fa",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://maryamr25.github.io/fb-signup/",
+      "value": "https://rbfcu-star.azurewebsites.net/(S(rnue34ovczbn2id5zrptfarm))/Main/Login/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.jiolatest.vercel.app/",
+      "value": "https://coinbaspro-sso-auth.daftpage.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Cleveland",
+        "city": "Walnut",
         "country": "United States",
-        "lat": 41.5059,
-        "lon": -81.689
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "http://www.www-fifa22.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Hong Kong",
+        "country": "Hong Kong",
+        "lat": 22.267,
+        "lon": 114.188
       }
     },
     {
@@ -116,10 +212,100 @@
       }
     },
     {
-      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/209157956363467/",
+      "value": "http://roblox.com.ml/communities/3444678915/adopt-me-giving",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "R\u00fcmlang",
+        "country": "Switzerland",
+        "lat": 47.4505,
+        "lon": 8.5255
+      }
+    },
+    {
+      "value": "https://abaga-gwk2m4pmz8.edgeone.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Tucumcari",
+        "country": "United States",
+        "lat": 34.957,
+        "lon": -103.729
+      }
+    },
+    {
+      "value": "http://uniswap-interface-uniswap.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "http://www.bitvavo.com.nl.services.l46rqlmxutj18mnhbtcafqabattx5yxxmnyhaabxpwpguuegzzem.niyikolawole.com/contact_support.php?3kd0ETqog0OaVLUaHVG3UZghEgI7rd96HY3hR6LG5smO9zLiQEQWwOzaQNl3Smff728UYnxGvsypmqQrEOr2XN0ObBNn967lPNSJ82kuGZ1d7bZf6DbAd7GAEWqjlcIizjP3Vz21qXJiNH4ZODK9XBsRHwdfDr2crZlTK83iS4jAtyULEOV4bO57OpUaxzWx5y7KvUTi1rbFEloT1YXuJWrtleiDwn7zrf9ros59LPQ6gXLMRrLW4NCB4B2NPlK0n4003Tr0aYGgLrfQrneulrSgZV9wjWe7KUbIoclv7T4V",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Provo",
+        "country": "United States",
+        "lat": 40.2066,
+        "lon": -111.643
+      }
+    },
+    {
+      "value": "152.89.239.34",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (Emotet)",
+      "geo": {
+        "city": "Gifhorn",
+        "country": "Germany",
+        "lat": 52.4791,
+        "lon": 10.544
+      }
+    },
+    {
+      "value": "https://lv-alton-peralta.pages.dev/help/contact/723581794696428/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://maryamr25.github.io/fb-signup/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
+    },
+    {
+      "value": "https://en-us-coinbase-pro.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
     },
     {
       "value": "http://www.signmeta-inmaask00.godaddysites.com/",
@@ -134,403 +320,13 @@
       }
     },
     {
-      "value": "http://le.lrtkzy18.shop/LfhWDf/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://lago.click/wp-includes/js/source.html?eta=info@google.com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "London",
-        "country": "United Kingdom",
-        "lat": 51.5081,
-        "lon": -0.1278
-      }
-    },
-    {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/362479331003498/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://roblox.com.ge/users/6795870140/profile/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ge/users/7453023584/profile/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://booking.guest-52.com/OYJ8Y4UW4",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://engr-oli.github.io/251205-amazon.com-oli/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
-        "country": "United States",
-        "lat": 37.7823,
-        "lon": -122.391
-      }
-    },
-    {
-      "value": "http://booking.guest-52.com/36DMP484O",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://secure-coinbase-en-auth.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://lnk.ink/lhttpss.www.robIox.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://shortlink.st/gUs-tfco",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pub-0029e75091b24011855463da244a4530.r2.dev/newnew.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/224996321466428/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://welcome-coinbasehelp-docs.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "http://deejayjerry.github.io/instagram-login",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://com-coinbase-web.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://click-now-appeal.page.gd/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Gosforth",
-        "country": "United Kingdom",
-        "lat": 55.01,
-        "lon": -1.62193
-      }
-    },
-    {
-      "value": "https://qavgm4201zb7ve02ovu.suao.de/QAvgM/zB7vE02Ovu/W8C9bhZ0yQz6jMQN1VSZ4D9qgen/QAvgM/zB7vE02Ovu/Accountspayable/4201/accerapharma.com/W8C9bhZ0yQz6jMQN1VSZ/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://aii-chuirokin-or-jp.net/web/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Osaka",
-        "country": "Japan",
-        "lat": 34.6937,
-        "lon": 135.5022
-      }
-    },
-    {
-      "value": "https://kishvandnews.ir/wp-includes/wpp/index.php/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Nuremberg",
-        "country": "Germany",
-        "lat": 49.4527,
-        "lon": 11.0783
-      }
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(s4ghqx5raffz4lplvt2eubrc))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Antonio",
-        "country": "United States",
-        "lat": 29.4167,
-        "lon": -98.5
-      }
-    },
-    {
-      "value": "https://lv-alton-peralta.pages.dev/help/contact/622262527201394/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ipfs.io/ipfs/bafybeiabhh7uwtdmzmc64acycfbq6v25mqunpxnzaxztnmz57n5jlglmxe/pagt.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
-        "country": "United States",
-        "lat": 37.79,
-        "lon": -122.401
-      }
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(rnue34ovczbn2id5zrptfarm))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(g1nunroiuhxt4qjszyx1fje2))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://alyanmn-paylterfrom.smallowxyz.biz.id/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://itunesapple.applestore.workers.dev/in/watch/cellular/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://steancomnnnunity.com/tradeofer/new/?partner=216937179&token=-XvYio4992s1122",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://stitchcarton.2ix.ch/stiteshcartones/app/login.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Bremen",
-        "country": "Germany",
-        "lat": 53.0976,
-        "lon": 8.76022
-      }
-    },
-    {
-      "value": "https://www.easy-bank-landing-page-pi.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "15.204.219.215",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)",
-      "geo": {
-        "city": "Reston",
-        "country": "United States",
-        "lat": 38.9609,
-        "lon": -77.3429
-      }
-    },
-    {
-      "value": "https://site-coinbase-web-com.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "http://amateursnearby.com/pshnx/mob1/us8",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Los Angeles",
-        "country": "United States",
-        "lat": 34.0549,
-        "lon": -118.243
-      }
-    },
-    {
-      "value": "https://disney-support.gotdns.ch/DE/login.php/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
       "value": "https://lv-alton-peralta.pages.dev/help/contact/647020493209504/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://roblox.com.ly/users/3166279030/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sso-faq-coinbaspro.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.offense-protected-archive.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://wi6ndloch0bei.sbs/auth/login.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Frankfurt am Main",
-        "country": "Germany",
-        "lat": 50.1169,
-        "lon": 8.6837
-      }
-    },
-    {
-      "value": "http://raunak1022.github.io/my-first-project",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://davaevrakbankasi.org/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ktydp3014let57uw6md.vuai.de/kTydp/let57Uw6md/LSbfpmfsVeGaEEvZ2iZA4D9qgen/kTydp/let57Uw6md/Accountspayable/3014/tri-stateoffice.com/LSbfpmfsVeGaEEvZ2iZA/",
+      "value": "https://x6rfv8305jbxkjjoxxc.peou.de/X6Rfv/jbxkJJOxxC/L8RlKoKMv6CqxCf6ZWRU4D9qgen/X6Rfv/jbxkJJOxxC/Accountspayable/8305/pizzaexpress.com/L8RlKoKMv6CqxCf6ZWRU/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -540,90 +336,6 @@
         "lat": 43.6532,
         "lon": -79.3832
       }
-    },
-    {
-      "value": "https://muondithailenquabayoi.pages.dev/robots.txt/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sites.google.com/view/gvcxfdr03/accueil",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Los Angeles",
-        "country": "United States",
-        "lat": 34.0549,
-        "lon": -118.243
-      }
-    },
-    {
-      "value": "https://lv-alton-peralta.pages.dev/help/contact/43625864063352/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://booking.guest-52.com/T1CLTO92J",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://east-app-73c39d3b.azurewebsites.net/common/SAS/ProcessAuth",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Zurich",
-        "country": "Switzerland",
-        "lat": 47.37204,
-        "lon": 8.54094
-      }
-    },
-    {
-      "value": "https://pro-coinbase-web-us.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pujanthakur83.github.io/Amazon_clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://base-learn-coinbase.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://roblox.com.ag/login?returnUrl=5633705675179358",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
     },
     {
       "value": "https://mail.webadmin-email.net/education_redirect_second/8c5781c2-7b1e-4035-b1d7-990e269e5380/",
@@ -638,25 +350,25 @@
       }
     },
     {
-      "value": "http://robinhood-login-review-cdn.github.io/en-us",
+      "value": "https://www.roblox.com.ml/users/8186211820/profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://wi6ndloch0bei.sbs/",
+      "value": "http://halakhaoftheday.org/one/?uid=3mail@a.b.c0",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Jacksonville",
+        "country": "United States",
+        "lat": 30.2493,
+        "lon": -81.5268
+      }
     },
     {
-      "value": "http://rbfcu-star.azurewebsites.net/(S(aehwynvjnynk51jabjmzhmfu))/Main/Login",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dbwgy2075iro6tuyhef.wrdy.de/DbWGY/iro6tUyheF/I964zhFwDRRFRylHhNAG4D9qgen/DbWGY/iro6tUyheF/Accounts/2075/jmcrecycling.com/I964zhFwDRRFRylHhNAG",
+      "value": "https://orca-app-53vd4.ondigitalocean.app/netflix",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -668,13 +380,43 @@
       }
     },
     {
-      "value": "https://lv-alton-peralta.pages.dev/help/contact/824273186412057/",
+      "value": "https://wwwmicrososft-passwordless.bowrnan.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Slough",
+        "country": "United Kingdom",
+        "lat": 51.5177,
+        "lon": -0.6215
+      }
+    },
+    {
+      "value": "http://nafih2007.github.io/static-website-2",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://lv-alton-peralta.pages.dev/help/contact/723581794696428/",
+      "value": "http://lzada.dmpet.digital/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://deejayjerry.github.io/instagram-login",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ledger-wallet-cdn.vercel.app/ledger%20form/index.html/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -692,13 +434,649 @@
       }
     },
     {
+      "value": "https://dmpet.digital/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://esdgte2.pages.dev/-/zh/gp/video/detail/B00DIAQ0IA/ref=atv_dp_amz_c_TS8274d9_1_1?jic=16%7CCgNhbGwSA2FsbA==/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://securesmandt.vercel.app/main.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://itunesapple.applestore.workers.dev/in/watch/cellular/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://ramudu25.github.io/netflixclone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://webo-coinsstat-web.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "http://rbfcu-star.azurewebsites.net/(S(aehwynvjnynk51jabjmzhmfu))/Main/Login",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://secureportal-irs-support.pages.dev/contact-my-local-office-internationally.html/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://mac-kobe.github.io/netflix/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
+    },
+    {
+      "value": "http://rentrise.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Cleveland",
+        "country": "United States",
+        "lat": 41.5059,
+        "lon": -81.689
+      }
+    },
+    {
+      "value": "https://muondithailenquabayoi.pages.dev/robots.txt/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://robinhoodimaging.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Austin",
+        "country": "United States",
+        "lat": 30.2681,
+        "lon": -97.7462
+      }
+    },
+    {
+      "value": "https://nf722.github.io/spoti/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://web-coinpro-websites.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ly/communities/8333635261/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1109,
+        "lon": 8.68213
+      }
+    },
+    {
+      "value": "https://sso-coinbse-cdn.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ragend7.github.io/netflix",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://redrabbit.hopto.org/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://robinhood-login-review-cdn.github.io/en-us",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
+    },
+    {
+      "value": "https://about-coinbasehelp-cdn.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-alton-peralta.pages.dev/help/contact/754827014943879/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://ronald22lancha.github.io/instagram.githup.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.coinbase-login-eight.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rbfcu-star.azurewebsites.net/(S(za25vjjywfs5lnxaar554da1))/Main/Login/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-alton-peralta.pages.dev/help/contact/43625864063352/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://help-coinbase-pro-en.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "https://auth-coinbasse-x-learn.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://saddullah2004.github.io/facebook-login-",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lnk.ink/lhttpss.www.robIox.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/283448232788174/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://aii-ib-chuirokin-or-jp.net/web",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://pub-0029e75091b24011855463da244a4530.r2.dev/newnew.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://roblox.sytes.net/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://coinbsd-web-auth.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://new-app-secure-base.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://booking.guest-52.com/36DMP484O",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://kishvandnews.ir/wp-includes/wpp/index.php/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Nuremberg",
+        "country": "Germany",
+        "lat": 49.4527,
+        "lon": 11.0783
+      }
+    },
+    {
+      "value": "https://mail.webadmin-email.net/education_redirect_second?8c5781c2-7b1e-4035-b1d7-990e269e5380",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://pub-60feb3b0da144b72b0f8c76714a15abf.r2.dev/index.html?error",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://portal-coinbase-cdn-auth.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://davaevrakbankasi.org/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://secure-coinhelp-cdn.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://site-coinbase-web-com.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://pub-f31c58a60d314dd3916990ca6cde67a5.r2.dev/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/447654821309175/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://eepr51033g7bw30cztd.wrdy.de/eePR5/g7Bw30cztD/R5cRf7bcNoYVKuWDKZhD4D9qgen/eePR5/g7Bw30cztD/Accountspayable/1033/silverbackexp.com/R5cRf7bcNoYVKuWDKZhD",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://roblox.com.ge/communities/5210998380/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://nd66.vip/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Kwun Tong",
+        "country": "Hong Kong",
+        "lat": 22.31,
+        "lon": 114.223
+      }
+    },
+    {
+      "value": "https://web3-ledger-live-login.vercel.app/ledger%20form/index.html/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "http://orders.intravu.com/wp",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Tempe",
+        "country": "United States",
+        "lat": 33.3359,
+        "lon": -111.894
+      }
+    },
+    {
+      "value": "http://roberto984-roberto.github.io/netflix",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
       "value": "https://pub-ac064ff2af834eee98837c0902676279.r2.dev/webmail-oxcs-networksolutionsemail.html?eta=3mail@a.b.c0/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://roblox.com.ge/communities/5210998380/",
+      "value": "http://steancomnnnunity.com/tradeofer/new/?partner=216937179&token=-XvYio4992s1122",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/616876927530412/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://amateursnearby.com/pshnx/mob1/us8",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Jose",
+        "country": "United States",
+        "lat": 37.3387,
+        "lon": -121.885
+      }
+    },
+    {
+      "value": "http://premiumcricketline.in/A/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Tokyo",
+        "country": "Japan",
+        "lat": 35.6893,
+        "lon": 139.6899
+      }
+    },
+    {
+      "value": "https://metewmu-skk-qlog10.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://booking.guest-52.com/OYJ8Y4UW4",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://easybanktheface.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "https://www.order-specificationfiles.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.chasebanklog-in.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rbfcu-star.azurewebsites.net/(S(y21c5c2uq1krpwhpf3bnvd43))/Main/Login/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://webde-100268.weeblysite.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Oakland",
+        "country": "United States",
+        "lat": 37.8086,
+        "lon": -122.269
+      }
+    },
+    {
+      "value": "https://lv-alton-peralta.pages.dev/help/contact/784356045136346/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://wi6ndloch0bei.sbs/auth/login.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1169,
+        "lon": 8.6837
+      }
+    },
+    {
+      "value": "https://booking.guest-52.com/T1CLTO92J",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://ktydp3014let57uw6md.vuai.de/kTydp/let57Uw6md/LSbfpmfsVeGaEEvZ2iZA4D9qgen/kTydp/let57Uw6md/Accountspayable/3014/tri-stateoffice.com/LSbfpmfsVeGaEEvZ2iZA/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://aii-chuirokin-or-jp.net/web/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://web-coinbasepro.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://wi6ndloch0bei.sbs/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ge/users/7453023584/profile/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://teegardenvodka.avromic.com/capital/anoscap.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Falkenstein",
+        "country": "Germany",
+        "lat": 50.4777,
+        "lon": 12.3649
+      }
+    },
+    {
+      "value": "http://sites.google.com/view/gvcxfdr03/accueil",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4231,
+        "lon": -122.084
+      }
+    },
+    {
+      "value": "https://mineuye28400-zxaa21.pages.dev/robots.txt/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://metas-acccountscenter-verify-stand.pages.dev/es/login/10076721589827623/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://www.easybanktheface.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-alton-peralta.pages.dev/help/contact/70086476486828/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -710,7 +1088,631 @@
       "description": "Active Phishing URL"
     },
     {
+      "value": "http://www.amazon-clone-sable-nu.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://shortlink.st/gUs-tfco",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.py/communities/8213234659/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://rbx4fre.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://avukat-dosyam.com/giris.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ledger-recover-italia.com/ledgerDiagnosis.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://click-now-appeal.page.gd/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://meatamask_us_logi.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://pub-d46888327b374bab872de3d8445dbdab.r2.dev/owa-m2out-qwertyuioplkjhgfdsaqwerty.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://kuqqwoiinlgin.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://rbfcu-star.azurewebsites.net/(S(4oez2obqkdvyglk1eruuxf4s))/Main/Login",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://booking.guest-52.com/MME77UHPX",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://com-coinbase-web.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://stitchcarton.2ix.ch/stiteshcartones/app/login.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://pub-e4c53bdf02a545d68ca063656fc04061.r2.dev/index.html?bb62486664091b452383eb435e14fa",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://raunak1022.github.io/my-first-project",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/614437045618696/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ipfs.io/ipfs/bafkreidbeufzm2fhyxihkppfpkaglytazpbzictcfzo2xwpy3n6owg6d2e?filename=outslodeli.htm",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://coinbase-cdn-eng.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://wildcard.facture-rapide.fr/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/381548673346/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://veristart.company/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/733701297143687/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://welcome-coin-docs.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.easy-bank-landing-page-pi.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://zfkrq1055kalklxmvox.peou.de/zFkRq/KALKlXMVOX/Wjp2LbWDf9YMp2dp8nZK4D9qgen/zFkRq/KALKlXMVOX/Finance/1055/renditionhomes.com/Wjp2LbWDf9YMp2dp8nZK",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://homepage-coinbase.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://coinbase-pro-secure.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.allegrobuy.vip/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rbfcu-star.azurewebsites.net/(S(pmy2fwkwhzkvgm4uzvttqfto))/Main/Login/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://riffxd.github.io/zam",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://psychic-umbrella-lac.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://noshad33.github.io/fb-signup/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://rahul-kumar112max.github.io/amazon-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-alton-peralta.pages.dev/help/contact/47274572577599/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://welcome-coinbasehelp-docs.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.fretchlop.pro/index.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://booking.arrival-pendingr2.com/xN3P8Wh0",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://33cqm8650emoduathga.zthc.de/33CqM/EModUaThga/GMzyydv2V0i8jyl2jxiB4D9qgen/33CqM/EModUaThga/Accountspayable/8650/avanticorporate.com/GMzyydv2V0i8jyl2jxiB",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://sso-faq-coinbaspro.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://monthly-service-renewal.pages.dev/profile.html/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/294963487589906/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://wlecome-coinbase-cdn-en.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dbwgy2075iro6tuyhef.wrdy.de/DbWGY/iro6tUyheF/I964zhFwDRRFRylHhNAG4D9qgen/DbWGY/iro6tUyheF/Accounts/2075/jmcrecycling.com/I964zhFwDRRFRylHhNAG",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://learn-coinbase-pros.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://iquvl35692ltm2mloej.vuai.de/iquVL/2lTM2mlOej/0qL7y9YXGgSshuQ3HHMv4D9qgen/iquVL/2lTM2mlOej/Sales/3569/sweed.com/0qL7y9YXGgSshuQ3HHMv/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://signmeta-inmaask00.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://help-coin-bsse-cdn.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mannatevencodes.github.io/Amazon/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rbfcu-star.azurewebsites.net/(S(fk2h2brg4oblcwaktb5df0wz))/Main/Login/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://fihakhir.clan.rip/chmopdel/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://pub-7b9dc54f172c4efbb2c731d4aa2f884a.r2.dev/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://shortlink.st/Ni-16NTi",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://eovda8653wg2gnog5km.leqw.de/EOvdA/wg2gNOg5kM/puN4FznBPVWzQe9Cnvmo4D9qgen/EOvdA/wg2gNOg5kM/Finance/8653/paragonoutcomes.com/puN4FznBPVWzQe9Cnvmo/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://app-coiincom-base-en.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rbfcu-star.azurewebsites.net/(S(t1ltnxw2pdftagalnae13phq))/Main/Login/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ddeepakgoutam2005.github.io/spotify_clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/475000983174846/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://manish-nagar-000.github.io/resume/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.jiolatest.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://pujanthakur83.github.io/Amazon_clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ipfs.io/ipfs/bafkreihgbsq67rg3iojkc2pmwxsgm3zb74g6doqphue5nzxddch53ylmmy",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mxx168.net/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://spotify-clone-iota-ashen.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://orca-app-53vd4.ondigitalocean.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "162.243.103.246",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (Emotet)"
+    },
+    {
+      "value": "https://lago.click/wp-includes/js/source.html?eta=info@google.com",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rbfcu-star.azurewebsites.net/(S(g1nunroiuhxt4qjszyx1fje2))/Main/Login/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://secure-coinbase-t-auth.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://booking.guest-52.com/OMRJWEFNC/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-alton-peralta.pages.dev/help/contact/289333897225777/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://bymnoczjdbpon7g.duckdns.org/en/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/892123195492131/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://rbfcu-star.azurewebsites.net/(S(s4ghqx5raffz4lplvt2eubrc))/Main/Login",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/112957023885625/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://hosts-coinbase.com/captcha?redirect_to=/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://bwhyour-pending27.com/6642776247",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://f1.7bdb.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
       "value": "https://midlutp.github.io/netflixwebsite/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://bj3om19077jyckqvpfb.zthc.de/bj3om/7jyckqVpFb/QUSl7DJuZiwYEeOMHwc54D9qgen/bj3om/7jyckqVpFb/Accountspayable/1907/trioscs.com/QUSl7DJuZiwYEeOMHwc5",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://prime-secure-log-base.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://docomo-ne.com/h5/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://roblox.com.ag/login?returnUrl=5633705675179358",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://credit.paisaassist.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-alton-peralta.pages.dev/help/contact/824273186412057/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.special-telegram-eosin.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://robuxvault.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://roblox.com.ml/users/2205260101/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://pro-login-coinbase.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://noisy-sun-c829.izupanel.workers.dev/*/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "15.204.219.215",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "https://help-ledger-support.vercel.app/ledger%20form/index.html/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://learn-en-basse.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://east-app-73c39d3b.azurewebsites.net/common/SAS/ProcessAuth",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://auth-coinbasse-doc.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://bit.bitenve.cc/info",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://roblox.com.ge/users/4863339339/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ledger-recover-italia.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://pub-e2f6341451ca4b26ac23c6bea7b95d1d.r2.dev/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ge/users/6795870140/profile/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://magar-gaurav.github.io/fb_",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/563153879483020/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ronald22lancha.github.io/instagram.githup.io",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.py/games/2753915549/Event-Blox-Fruits?privateServerLinkCode=82225086016404246839823776124821",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://site-coinbasewalet-web.daftpage.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -728,1261 +1730,13 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://pub-01172c7af5fb43ef8b41409136ae32ed.r2.dev/state.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.order-specificationfiles.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Atlanta",
-        "country": "United States",
-        "lat": 33.8541,
-        "lon": -84.3791
-      }
-    },
-    {
-      "value": "https://lv-alton-peralta.pages.dev/help/contact/289333897225777/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bymnoczjdbpon7g.duckdns.org/en/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Seoul",
-        "country": "South Korea",
-        "lat": 37.5658,
-        "lon": 126.978
-      }
-    },
-    {
-      "value": "https://dmpet.digital/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://pub-f31c58a60d314dd3916990ca6cde67a5.r2.dev/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://orca-app-53vd4.ondigitalocean.app/netflix",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://noisy-sun-c829.izupanel.workers.dev/*/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://coinbsd-web-auth.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://nd66.vip/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Kwun Tong",
-        "country": "Hong Kong",
-        "lat": 22.31,
-        "lon": 114.223
-      }
-    },
-    {
-      "value": "http://ramudu25.github.io/netflixclone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://stramconmunity.ru/id/765331372132634",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://easybanktheface.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://uniswap-interface-uniswap.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "http://credit.paisaassist.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Los Angeles",
-        "country": "United States",
-        "lat": 34.0522,
-        "lon": -118.244
-      }
-    },
-    {
-      "value": "https://prime-secure-log-base.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://customer-web.business-minagne.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://orca-app-53vd4.ondigitalocean.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://lzada.dmpet.digital/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/490125895242000/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.spotify-clone-iota-ashen.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://stramconmunity.ru/id/765331372132634/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://booking.guest-52.com/OMRJWEFNC/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://esdgte2.pages.dev/-/zh/gp/video/detail/B00DIAQ0IA/ref=atv_dp_amz_c_TS8274d9_1_1?jic=16%7CCgNhbGwSA2FsbA==/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://ts9se9809rpy5xpz8oe.leqw.de/Ts9sE/RPy5XPZ8Oe/6USJ3Flm8vC70eNpmS1Q4D9qgen/Ts9sE/RPy5XPZ8Oe/Accountspayable/9809/fitlifebrands.com/6USJ3Flm8vC70eNpmS1Q",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://uphold-us_login6.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ipfs.io/ipfs/bafybeibykkylylydqulzfepzxux3enyghdw7dpbqkrkrfpqt32lbfvjiqa",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://booking.guest-52.com/BRRNO3N9L/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/475000983174846/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://www.special-telegram-eosin.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://roblox.com.ge/users/4863339339/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://com-singinbase-web.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "162.243.103.246",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (Emotet)",
-      "geo": {
-        "city": "Secaucus",
-        "country": "United States",
-        "lat": 40.7876,
-        "lon": -74.06
-      }
-    },
-    {
-      "value": "http://www.1111365wz.cc/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Tokyo",
-        "country": "Japan",
-        "lat": 35.6761,
-        "lon": 139.6503
-      }
-    },
-    {
-      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/765601675484553/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://pub-d46888327b374bab872de3d8445dbdab.r2.dev/owa-m2out-qwertyuioplkjhgfdsaqwerty.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ltz7d9384oj7waqxstq.peou.de/lTz7D/Oj7waqXstQ/vPywUvhyjrdLuJGCc2Vl4D9qgen/lTz7D/Oj7waqXstQ/Finance/9384/space519.com/vPywUvhyjrdLuJGCc2Vl",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.robiox.com.py/users/255821544187/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "London",
-        "country": "United Kingdom",
-        "lat": 51.5072,
-        "lon": -0.127586
-      }
-    },
-    {
-      "value": "https://booking.guest-52.com/MME77UHPX",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://avukat-dosyam.com/giris.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://notifyhubss.net/40405dab3udeb94b5cl98eaf883lb4201469.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://m3tazhijaze.github.io/azoz/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mastermindguddu12.github.io/instgram.free.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/445747356154711/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://alstecacontabilidade.com.br/dopa/app",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Jacksonville",
-        "country": "United States",
-        "lat": 30.2493,
-        "lon": -81.5268
-      }
-    },
-    {
-      "value": "https://webo-coinsstat-web.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(pmy2fwkwhzkvgm4uzvttqfto))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/892123195492131/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://helpcoinbase-pros.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.fretchlop.pro/index.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Los Angeles",
-        "country": "United States",
-        "lat": 34.0356,
-        "lon": -118.442
-      }
-    },
-    {
-      "value": "http://f1.7bdb.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://ddeepakgoutam2005.github.io/spotify_clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pub-e2f6341451ca4b26ac23c6bea7b95d1d.r2.dev/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/283448232788174/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://notifyhubss.net/4748e8530u7b6e41bdlb30a9f2bl45c2fc21.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://docomo-ne.com/h5/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Hong Kong",
-        "country": "Hong Kong",
-        "lat": 22.3193,
-        "lon": 114.169
-      }
-    },
-    {
-      "value": "https://mineuye28400-zxaa21.pages.dev/robots.txt/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://wildcard.facture-rapide.fr/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Ashburn",
-        "country": "United States",
-        "lat": 39.0438,
-        "lon": -77.4874
-      }
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(t1ltnxw2pdftagalnae13phq))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ronald22lancha.github.io/instagram.githup.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://auth-coinbasse-x-learn.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ge/users/2080902816/profile/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://homepage-coinbase.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://about-coinbasehelp-cdn.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://bwhyour-pending27.com/6642776247",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://roblox.com.py/users/9936545468/profile/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://wwwmicrososft-passwordless.bowrnan.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://33cqm8650emoduathga.zthc.de/33CqM/EModUaThga/GMzyydv2V0i8jyl2jxiB4D9qgen/33CqM/EModUaThga/Accountspayable/8650/avanticorporate.com/GMzyydv2V0i8jyl2jxiB",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://rentrise.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.py/games/2753915549/Event-Blox-Fruits?privateServerLinkCode=82225086016404246839823776124821",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.robiox.com.py/users/381548673346/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/330138197141987/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://roblox.com.ml/users/2205260101/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ipfs.io/ipfs/bafkreidbeufzm2fhyxihkppfpkaglytazpbzictcfzo2xwpy3n6owg6d2e?filename=outslodeli.htm",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://amazonclone-two-gamma.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://app-coiincom-base-en.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ledger-wallet-cdn.vercel.app/ledger%20form/index.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://x6rfv8305jbxkjjoxxc.peou.de/X6Rfv/jbxkJJOxxC/L8RlKoKMv6CqxCf6ZWRU4D9qgen/X6Rfv/jbxkJJOxxC/Accountspayable/8305/pizzaexpress.com/L8RlKoKMv6CqxCf6ZWRU/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/447654821309175/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bj3om19077jyckqvpfb.zthc.de/bj3om/7jyckqVpFb/QUSl7DJuZiwYEeOMHwc54D9qgen/bj3om/7jyckqVpFb/Accountspayable/1907/trioscs.com/QUSl7DJuZiwYEeOMHwc5",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://riffxd.github.io/zam",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://secureportal-irs-support.pages.dev/contact-my-local-office-internationally.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://monthly-service-renewal.pages.dev/profile.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://hosts-coinbase.com/captcha?redirect_to=/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://manish-nagar-000.github.io/resume/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://upholld-public-log.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
       "value": "http://adobepdf-crostata-material.netlify.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.solid-fishstick-pearl.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://learn-coinbase-pros.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://nafih2007.github.io/static-website-2",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://metewmu-skk-qlog10.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.chasebanklog-in.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://aktfkanformdanapaylterx.forcenice.my.id/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.bitvavo.com.nl.services.l46rqlmxutj18mnhbtcafqabattx5yxxmnyhaabxpwpguuegzzem.niyikolawole.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://web3-ledger-live-login.vercel.app/ledger%20form/index.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sso-coinbse-cdn.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://spotify-clone-iota-ashen.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://web-coinbasepro.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://moparthimanasa.github.io/netflix",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://robuxvault.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://preetamp6000.github.io/netflix-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://rbxcdn.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://robinhoodimaging.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mxx168.net/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(dnrbqq3ccsh5b55cn0f45h2l))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://eepr51033g7bw30cztd.wrdy.de/eePR5/g7Bw30cztD/R5cRf7bcNoYVKuWDKZhD4D9qgen/eePR5/g7Bw30cztD/Accountspayable/1033/silverbackexp.com/R5cRf7bcNoYVKuWDKZhD",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.bitvavo.com.nl.services.l46rqlmxutj18mnhbtcafqabattx5yxxmnyhaabxpwpguuegzzem.niyikolawole.com/contact_support.php?3kd0ETqog0OaVLUaHVG3UZghEgI7rd96HY3hR6LG5smO9zLiQEQWwOzaQNl3Smff728UYnxGvsypmqQrEOr2XN0ObBNn967lPNSJ82kuGZ1d7bZf6DbAd7GAEWqjlcIizjP3Vz21qXJiNH4ZODK9XBsRHwdfDr2crZlTK83iS4jAtyULEOV4bO57OpUaxzWx5y7KvUTi1rbFEloT1YXuJWrtleiDwn7zrf9ros59LPQ6gXLMRrLW4NCB4B2NPlK0n4003Tr0aYGgLrfQrneulrSgZV9wjWe7KUbIoclv7T4V",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://meatamask_us_logi.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(fk2h2brg4oblcwaktb5df0wz))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://eng-coinbasepro-learn.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://investing-secure-coinbase.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lv-alton-peralta.pages.dev/help/contact/784356045136346/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.easybanktheface.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://redrabbit.hopto.org/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mellow-pithivier-d0afe1.netlify.app/?user-agent=mozilla/5.0/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://portal-coinbase-cdn-auth.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/112957023885625/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.py/communities/2390584271/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://webde-100268.weeblysite.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bymnoczjdbpon7g.duckdns.org/ja/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://portal-coinbase-wallet-com.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/132459758825549/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://b45094.com/fish/197",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://welcome-coin-docs.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ly/communities/8333635261/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ledger-recover-italia.com/ledgerDiagnosis.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://aii-ib-chuirokin-or-jp.net/web",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://wlecome-coinbase-cdn-en.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(y21c5c2uq1krpwhpf3bnvd43))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://roblox.com.ml/communities/3444678915/adopt-me-giving",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://mail.resul.team/webmail/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://datagivers.com/j608200296ddfc4de76a08baa4erc74e3d46.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://xnbvr3716ey4qcwejpk.zthc.de/xNBvR/ey4QcWejpK/EwfnWYJ7qRr2mPH0H9Tv4D9qgen/xNBvR/ey4QcWejpK/Sales/3716/tradingacademy.com/EwfnWYJ7qRr2mPH0H9Tv",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.roblox.tc/games/75007449985844/Steal-Obby-Vibe-2?privateServerLinkCode=09406432997899195365396839409956",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://rbox10.netlify.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://rbfcu-star.azurewebsites.net/(S(s4ghqx5raffz4lplvt2eubrc))/Main/Login",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://veristart.company/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://abaga-gwk2m4pmz8.edgeone.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://0eazr6138sbwmz6gutj.suao.de/0eazr/sbwMZ6gUtJ/4BHxYigtoxg4TQyPQPBK4D9qgen/0eazr/sbwMZ6gUtJ/Accountspayable/6138/carchex.com/4BHxYigtoxg4TQyPQPBK/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://nf722.github.io/spoti/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://martinosabri.github.io/netflix",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pub-60feb3b0da144b72b0f8c76714a15abf.r2.dev/index.html?error",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.www-fifa22.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/614437045618696/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lv-alton-peralta.pages.dev/help/contact/70086476486828/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://teegardenvodka.avromic.com/capital/anoscap.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pub-7b9dc54f172c4efbb2c731d4aa2f884a.r2.dev/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://iquvl35692ltm2mloej.vuai.de/iquVL/2lTM2mlOej/0qL7y9YXGgSshuQ3HHMv4D9qgen/iquVL/2lTM2mlOej/Sales/3569/sweed.com/0qL7y9YXGgSshuQ3HHMv/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://roblox.com.py/games/606849621/Jewelry-Jailbreak?privateServerLinkCode=51120080177180495200440867334114",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(0a4mp4zfkvc5dkztlkudad5f))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/563153879483020/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://metas-acccountscenter-verify-stand.pages.dev/es/login/10076721589827623/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/616876927530412/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://noshad33.github.io/fb-signup/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bitvavo.com.nl.services.l46rqlmxutj18mnhbtcafqabattx5yxxmnyhaabxpwpguuegzzem.niyikolawole.com/contact_support.php?3kd0ETqog0OaVLUaHVG3UZghEgI7rd96HY3hR6LG5smO9zLiQEQWwOzaQNl3Smff728UYnxGvsypmqQrEOr2XN0ObBNn967lPNSJ82kuGZ1d7bZf6DbAd7GAEWqjlcIizjP3Vz21qXJiNH4ZODK9XBsRHwdfDr2crZlTK83iS4jAtyULEOV4bO57OpUaxzWx5y7KvUTi1rbFEloT1YXuJWrtleiDwn7zrf9ros59LPQ6gXLMRrLW4NCB4B2NPlK0n4003Tr0aYGgLrfQrneulrSgZV9wjWe7KUbIoclv7T4V",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://pro-login-coinbase.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://rbx4fre.netlify.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.roblox.com.ml/users/8186211820/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://rabbit231.github.io/bliss",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(lwws0udbikbat23qs1iwuocs))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://stains.oridash.fr/uk/6b142b47b21fdcf0ebaa03b45f73a94c/home.php/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://portals-coinbase-signin.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.amazon-clone-sable-nu.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://premiumcricketline.in/A/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://fihakhir.clan.rip/chmopdel/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/420149375725981/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pub-ffebc89527c34624b07a3358e969f5c1.r2.dev/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mail.webadmin-email.net/education_redirect_second?8c5781c2-7b1e-4035-b1d7-990e269e5380",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://web-coinpro-websites.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://secure-coinbase-t-auth.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://auth-coinbasse-doc.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://crypt-ledger-live-login.vercel.app/ledger%20form/index.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://ronald22lancha.github.io/instagram.githup.io",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://new-app-secure-base.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://magar-gaurav.github.io/fb_",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ladger-live-login.vercel.app/ledger%20form/index.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://overview-coinbase-pro.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mannatevencodes.github.io/Amazon/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bitvavo.com.nl.services.l46rqlmxutj18mnhbtcafqabattx5yxxmnyhaabxpwpguuegzzem.niyikolawole.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://learn-en-basse.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://signmeta-inmaask00.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lv-alton-peralta.pages.dev/help/contact/754827014943879/",
+      "value": "https://lv-alton-peralta.pages.dev/help/contact/622262527201394/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -1994,61 +1748,55 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://auth-basecom-cdn.daftpage.com/",
+      "value": "https://stramconmunity.ru/id/765331372132634/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://booking.arrival-pendingr2.com/xN3P8Wh0",
+      "value": "https://crypt-ledger-live-login.vercel.app/ledger%20form/index.html/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://psychic-umbrella-lac.vercel.app/",
+      "value": "http://rbox10.netlify.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://securesmandt.vercel.app/main.html",
+      "value": "https://rbfcu-star.azurewebsites.net/(S(dnrbqq3ccsh5b55cn0f45h2l))/Main/Login/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://saddullah2004.github.io/facebook-login-",
+      "value": "http://stramconmunity.ru/id/765331372132634",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://help-coinbase-pro-en.daftpage.com/",
+      "value": "https://jaeep8221u2ltdc3mrt.leqw.de/jAEep/U2LtDC3MRt/Xcf8h3fcVnFeQKAheD434D9qgen/jAEep/U2LtDC3MRt/Sales/8221/seia.com/Xcf8h3fcVnFeQKAheD43/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://ledger-recover-italia.com/",
+      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/445747356154711/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://boxworld.dk/in-g/Archive/login.php",
+      "value": "https://helpcoinbase-pros.daftpage.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://mac-kobe.github.io/netflix/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://secure-coinhelp-cdn.daftpage.com/",
+      "value": "https://www.solid-fishstick-pearl.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -2060,127 +1808,73 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://coinbase-cdn-eng.daftpage.com/",
+      "value": "https://qavgm4201zb7ve02ovu.suao.de/QAvgM/zB7vE02Ovu/W8C9bhZ0yQz6jMQN1VSZ4D9qgen/QAvgM/zB7vE02Ovu/Accountspayable/4201/accerapharma.com/W8C9bhZ0yQz6jMQN1VSZ/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/733701297143687/",
+      "value": "http://bymnoczjdbpon7g.duckdns.org/ja/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://coinbase-pro-secure.daftpage.com/",
+      "value": "https://secure-coinbase-en-auth.daftpage.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://metamassk.pages.dev/%22/",
+      "value": "http://www.1111365wz.cc/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://roblox.com.py/communities/8213234659/",
+      "value": "https://roblox.com.py/users/9936545468/profile/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://en-us-coinbase-pro.daftpage.com/",
+      "value": "http://www.bitvavo.com.nl.services.l46rqlmxutj18mnhbtcafqabattx5yxxmnyhaabxpwpguuegzzem.niyikolawole.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://cr-honey.com/clyde/logon.html?eta=3mail@a.b.c0",
+      "value": "http://bitvavo.com.nl.services.l46rqlmxutj18mnhbtcafqabattx5yxxmnyhaabxpwpguuegzzem.niyikolawole.com/contact_support.php?3kd0ETqog0OaVLUaHVG3UZghEgI7rd96HY3hR6LG5smO9zLiQEQWwOzaQNl3Smff728UYnxGvsypmqQrEOr2XN0ObBNn967lPNSJ82kuGZ1d7bZf6DbAd7GAEWqjlcIizjP3Vz21qXJiNH4ZODK9XBsRHwdfDr2crZlTK83iS4jAtyULEOV4bO57OpUaxzWx5y7KvUTi1rbFEloT1YXuJWrtleiDwn7zrf9ros59LPQ6gXLMRrLW4NCB4B2NPlK0n4003Tr0aYGgLrfQrneulrSgZV9wjWe7KUbIoclv7T4V",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://zfkrq1055kalklxmvox.peou.de/zFkRq/KALKlXMVOX/Wjp2LbWDf9YMp2dp8nZK4D9qgen/zFkRq/KALKlXMVOX/Finance/1055/renditionhomes.com/Wjp2LbWDf9YMp2dp8nZK",
+      "value": "https://pro-coinbase-web-us.daftpage.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://help-ledger-support.vercel.app/ledger%20form/index.html/",
+      "value": "http://www.roblox.tc/games/75007449985844/Steal-Obby-Vibe-2?privateServerLinkCode=09406432997899195365396839409956",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://coinbaspro-sso-auth.daftpage.com/",
+      "value": "http://preetamp6000.github.io/netflix-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://site-coinbasewalet-web.daftpage.com/",
+      "value": "https://stains.oridash.fr/uk/6b142b47b21fdcf0ebaa03b45f73a94c/home.php/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://eovda8653wg2gnog5km.leqw.de/EOvdA/wg2gNOg5kM/puN4FznBPVWzQe9Cnvmo4D9qgen/EOvdA/wg2gNOg5kM/Finance/8653/paragonoutcomes.com/puN4FznBPVWzQe9Cnvmo/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://kuqqwoiinlgin.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rbfcu-star.azurewebsites.net/(S(za25vjjywfs5lnxaar554da1))/Main/Login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.coinbase-login-eight.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://orders.intravu.com/wp",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://minakshivyavahare.github.io/netflix-clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://welcome-secure-baspro.daftpage.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.allegrobuy.vip/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://bit.bitenve.cc/info",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://ipfs.io/ipfs/bafkreihgbsq67rg3iojkc2pmwxsgm3zb74g6doqphue5nzxddch53ylmmy",
+      "value": "http://roblox.com.py/games/606849621/Jewelry-Jailbreak?privateServerLinkCode=51120080177180495200440867334114",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -2192,7 +1886,199 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://rahul-kumar112max.github.io/amazon-clone",
+      "value": "https://boxworld.dk/in-g/Archive/login.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/132459758825549/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "51.210.96.48",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "http://martinosabri.github.io/netflix",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://disney-support.gotdns.ch/DE/login.php/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ts9se9809rpy5xpz8oe.leqw.de/Ts9sE/RPy5XPZ8Oe/6USJ3Flm8vC70eNpmS1Q4D9qgen/Ts9sE/RPy5XPZ8Oe/Accountspayable/9809/fitlifebrands.com/6USJ3Flm8vC70eNpmS1Q",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/362479331003498/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://bitvavo.com.nl.services.l46rqlmxutj18mnhbtcafqabattx5yxxmnyhaabxpwpguuegzzem.niyikolawole.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://uphold-us_login6.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rbfcu-star.azurewebsites.net/(S(0a4mp4zfkvc5dkztlkudad5f))/Main/Login/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://notifyhubss.net/4748e8530u7b6e41bdlb30a9f2bl45c2fc21.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://customer-web.business-minagne.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://m3tazhijaze.github.io/azoz/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/55503015881212/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mastermindguddu12.github.io/instgram.free.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://0eazr6138sbwmz6gutj.suao.de/0eazr/sbwMZ6gUtJ/4BHxYigtoxg4TQyPQPBK4D9qgen/0eazr/sbwMZ6gUtJ/Accountspayable/6138/carchex.com/4BHxYigtoxg4TQyPQPBK/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://eng-coinbasepro-learn.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ladger-live-login.vercel.app/ledger%20form/index.html/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://alstecacontabilidade.com.br/dopa/app",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://com-singinbase-web.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ge/users/2080902816/profile/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://aktfkanformdanapaylterx.forcenice.my.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/330138197141987/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/420149375725981/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.py/communities/2390584271/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://cr-honey.com/clyde/logon.html?eta=3mail@a.b.c0",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://booking.guest-52.com/BRRNO3N9L/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://upholld-public-log.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/255821544187/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rbfcu-star.azurewebsites.net/(S(s4ghqx5raffz4lplvt2eubrc))/Main/Login/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://engr-oli.github.io/251205-amazon.com-oli/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ly/users/3166279030/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.offense-protected-archive.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -2204,55 +2090,109 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "152.89.239.34",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (Emotet)"
-    },
-    {
-      "value": "https://mariana-noreply-sp1100879.pages.dev/help/contact/55503015881212/",
+      "value": "http://rbxcdn.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://halakhaoftheday.org/one/?uid=3mail@a.b.c0",
+      "value": "https://mellow-pithivier-d0afe1.netlify.app/?user-agent=mozilla/5.0/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://roblox.sytes.net/",
+      "value": "http://pub-ffebc89527c34624b07a3358e969f5c1.r2.dev/index.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://roberto984-roberto.github.io/netflix",
+      "value": "https://base-learn-coinbase.daftpage.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://m4v8f2511gamhpzgjkb.zthc.de/M4v8f/GamhpzgJKB/MFOuscolbZiJjTh4e8xb4D9qgen/M4v8f/GamhpzgJKB/Sales/2511/moxiworks.com/MFOuscolbZiJjTh4e8xb",
+      "value": "https://datagivers.com/j608200296ddfc4de76a08baa4erc74e3d46.html/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://rbfcu-star.azurewebsites.net/(S(4oez2obqkdvyglk1eruuxf4s))/Main/Login",
+      "value": "http://rabbit231.github.io/bliss",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://ragend7.github.io/netflix",
+      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/765601675484553/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://help-coin-bsse-cdn.daftpage.com/",
+      "value": "https://overview-coinbase-pro.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://portal-coinbase-wallet-com.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lv-jeffries-stuart.pages.dev/help/contact/490125895242000/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ltz7d9384oj7waqxstq.peou.de/lTz7D/Oj7waqXstQ/vPywUvhyjrdLuJGCc2Vl4D9qgen/lTz7D/Oj7waqXstQ/Finance/9384/space519.com/vPywUvhyjrdLuJGCc2Vl",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://welcome-secure-baspro.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://moparthimanasa.github.io/netflix",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://mail.resul.team/webmail/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://auth-basecom-cdn.daftpage.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://minakshivyavahare.github.io/netflix-clone/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://b45094.com/fish/197",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ipfs.io/ipfs/bafybeiabhh7uwtdmzmc64acycfbq6v25mqunpxnzaxztnmz57n5jlglmxe/pagt.html/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
