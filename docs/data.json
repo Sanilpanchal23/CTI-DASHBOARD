@@ -1,122 +1,20 @@
 {
-  "last_updated_utc": "2026-04-04T10:00:49.695009+00:00",
+  "last_updated_utc": "2026-04-04T10:36:23.720906+00:00",
   "indicators": [
     {
-      "value": "https://auth-verify-blockfi.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "singletoncop.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "One Click Away: Inside a LinkedIn Phishing Attack",
       "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://securee-coinsquare.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://roblox.com.py/users/9135234115/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Frankfurt am Main",
-        "country": "Germany",
-        "lat": 50.1109,
-        "lon": 8.68213
-      }
-    },
-    {
-      "value": "https://coiniybessiprrologn.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Montreal",
-        "country": "Canada",
-        "lat": 45.5019,
-        "lon": -73.5674
-      }
-    },
-    {
-      "value": "http://kucoin-login.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://enuganduladineshkumar.github.io/Netflix-Clone-Landing-page/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
+        "city": "Chicago",
         "country": "United States",
-        "lat": 37.7823,
-        "lon": -122.391
+        "lat": 41.8835,
+        "lon": -87.6305
       }
     },
     {
-      "value": "https://roblox.com.ge/users/154180346/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://nubexx776.github.io/fishing/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
-        "country": "United States",
-        "lat": 37.7823,
-        "lon": -122.391
-      }
-    },
-    {
-      "value": "http://show.diwke.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "London",
-        "country": "United Kingdom",
-        "lat": 51.5081,
-        "lon": -0.1278
-      }
-    },
-    {
-      "value": "http://sofiyamasthan1317.github.io/Netflix_clone_website",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
-        "country": "United States",
-        "lat": 37.7823,
-        "lon": -122.391
-      }
-    },
-    {
-      "value": "https://aniket9547.github.io/Amazon_clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.amazon-clone-only-frontend.vercel.app/",
+      "value": "https://easybank-com.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -128,31 +26,7 @@
       }
     },
     {
-      "value": "http://aigemini.zeabur.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Jose",
-        "country": "United States",
-        "lat": 37.3394,
-        "lon": -121.895
-      }
-    },
-    {
-      "value": "http://robiox.com.py/games/109983668079237/SOON-Steal-a-Brainrot?privateServerLinkCode=479142797126472144065645741472",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Belize City",
-        "country": "Belize",
-        "lat": 17.5018,
-        "lon": -88.1956
-      }
-    },
-    {
-      "value": "https://fednow.cash/",
+      "value": "https://kucoiguunellin.webflow.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -164,103 +38,19 @@
       }
     },
     {
-      "value": "https://roblox.com.py/communities/8196550229/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Frankfurt am Main",
-        "country": "Germany",
-        "lat": 50.1109,
-        "lon": 8.68213
-      }
-    },
-    {
-      "value": "http://www.netflix-clone-alpha-nine.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://dpd.trackdepartx.cfd/com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "162.243.103.246",
+      "value": "195.5.171.242",
       "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (Emotet)",
+      "source": "AlienVault OTX",
+      "description": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
       "geo": {
-        "city": "Secaucus",
-        "country": "United States",
-        "lat": 40.7876,
-        "lon": -74.06
+        "city": "Zurich",
+        "country": "Switzerland",
+        "lat": 47.3591,
+        "lon": 8.55294
       }
     },
     {
-      "value": "http://vipvideosxxx.binzaminrandow.site/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://lrg-eqf-dqr-qve-exq-ruq-wen.netlify.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Ashburn",
-        "country": "United States",
-        "lat": 39.0438,
-        "lon": -77.4874
-      }
-    },
-    {
-      "value": "https://lms.khurasan.edu.af/2/login.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Ashburn",
-        "country": "United States",
-        "lat": 39.018,
-        "lon": -77.539
-      }
-    },
-    {
-      "value": "https://outlookc-fr.weebly.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Oakland",
-        "country": "United States",
-        "lat": 37.8086,
-        "lon": -122.269
-      }
-    },
-    {
-      "value": "http://5kvisionhub.com/",
+      "value": "http://www.coiniybessiprrologn.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -272,13 +62,19 @@
       }
     },
     {
-      "value": "https://shagunmishra26.github.io/Amazon-Clone/",
+      "value": "http://img.spoolsv.cc/seed.php",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor"
     },
     {
-      "value": "https://didianeensing-fft-oshehun.pages.dev/help/contact/314943121371618/",
+      "value": "human-check.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "North Korean Lazarus Group Now Working With Medusa Ransomware"
+    },
+    {
+      "value": "http://events-mobilelegends-coms.game-m.biz.id/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -290,25 +86,37 @@
       }
     },
     {
-      "value": "https://cloneofair.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "serenitygovsupplys.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service",
       "geo": {
-        "city": "Atlanta",
-        "country": "United States",
-        "lat": 33.8541,
-        "lon": -84.3791
+        "city": "Lauterbourg",
+        "country": "France",
+        "lat": 48.9742,
+        "lon": 8.1851
       }
     },
     {
-      "value": "http://kukinlougyen.webflow.io/",
+      "value": "https://az-blob.110.nz/update/s1",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
     },
     {
-      "value": "http://netflix-clone-theta-eight.vercel.app/",
+      "value": "http://91.92.242.30/ece0f208u7uqhs6x",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer",
+      "geo": {
+        "city": "Amsterdam",
+        "country": "The Netherlands",
+        "lat": 52.3759,
+        "lon": 4.8975
+      }
+    },
+    {
+      "value": "http://www.netflix-gui-clone.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -320,15 +128,45 @@
       }
     },
     {
-      "value": "https://br.shopesbr.shop/",
+      "value": "https://roblox.com.py/games/106048753014399/Weird-Sussy-Game-UPDATE?privateServerLinkCode=06609322525627131988738568376468",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Dallas",
-        "country": "United States",
-        "lat": 32.7766,
-        "lon": -96.7969
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1109,
+        "lon": 8.68213
+      }
+    },
+    {
+      "value": "https://sso-itrust-capital--com-auth.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.gs/games/121864768012064/UPD-Fish-It?privateServerLinkCode=53688552518478891171313514016489",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "yourlnk.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://t2.asalenx.icu/trs",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8558,
+        "lon": 2.3494
       }
     },
     {
@@ -344,157 +182,7 @@
       }
     },
     {
-      "value": "http://archana-a-d.github.io/Netflix-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://localizadorapple.com/ICL26/?xmbc2SgQN5PGCBlhf18Q2SDSUvdKGr5CxwVhC5jUaRQupMIJd8OtAzQNt1VPmsb3y0VJzpgMEEumSOFIzGghmUqQQCpyigzz5Y1AtLZDa9C2RQlXHHFZ1SHtRShJYYGDJzU33slNFh5Dpdm8v9kyP1jHi1k6Zg23hH9F9Z3CyW=",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Nuremberg",
-        "country": "Germany",
-        "lat": 49.405,
-        "lon": 11.1617
-      }
-    },
-    {
-      "value": "http://creditagricole-mescompte.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Islamabad",
-        "country": "Pakistan",
-        "lat": 33.6941,
-        "lon": 73.0538
-      }
-    },
-    {
-      "value": "https://shreya-dixit210.github.io/Netflix-clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://campanattk.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.robiox.com.py/users/324834118351/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ssl.webaccess-email.mx/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Ashburn",
-        "country": "United States",
-        "lat": 39.0438,
-        "lon": -77.4874
-      }
-    },
-    {
-      "value": "http://www.amazon-io.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pelicanaviation.in/web3/adobe.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Nagpur",
-        "country": "India",
-        "lat": 21.1124,
-        "lon": 79.1038
-      }
-    },
-    {
-      "value": "http://www.easy-bank-gamma.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://ledfzxsdav-mbnchyrt.gensoftone.li/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Reykjavik",
-        "country": "Iceland",
-        "lat": 64.147,
-        "lon": -21.9408
-      }
-    },
-    {
-      "value": "https://netflix-gui-clone.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://sso-io-ndaxx-auth.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://instagram-clone-topaz-two.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "http://www.easybank-landing-page-otabek-coder.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://indonsiaan-laymanid.marivost.biz.id/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.netflix-gamma-orpin.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://events-mobilelegends-coms.game-m.biz.id/verify.php",
+      "value": "http://www.is.gd/cchw3S/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -506,22 +194,16 @@
       }
     },
     {
-      "value": "https://www.legder-update.com/legder/home/connect.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "framebound.cloud",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service",
       "geo": {
-        "city": "V\u00e4ster\u00e5s",
-        "country": "Sweden",
-        "lat": 59.6099,
-        "lon": 16.5448
+        "city": "Atlanta",
+        "country": "United States",
+        "lat": 33.7501,
+        "lon": -84.3885
       }
-    },
-    {
-      "value": "http://kucoin_-login.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
     },
     {
       "value": "https://ourtime.link-members-app.workers.dev/v3/datingtips/",
@@ -536,13 +218,151 @@
       }
     },
     {
-      "value": "https://harikalolla.github.io/form-webpage/",
+      "value": "http://www.unisvap.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://vrmirror.pages.dev/prozess/webobjects/prozesscenter.woa/wa/default?path=/pk_sp/de/tnv/st01_tnr_anfordern/",
+      "value": "hotelbiloxi.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "eventcalender-schedule.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service",
+      "geo": {
+        "city": "London",
+        "country": "United Kingdom",
+        "lat": 51.6094,
+        "lon": -0.15121
+      }
+    },
+    {
+      "value": "https://roblox.com.py/communities/2044802329/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://shopeeid567.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
+      }
+    },
+    {
+      "value": "http://www.netflix-clone-cyan-nine.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "109.248.24.177",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government",
+      "geo": {
+        "city": "Manila",
+        "country": "Philippines",
+        "lat": 14.5971,
+        "lon": 120.9798
+      }
+    },
+    {
+      "value": "adressinvalidepostescanada-enligne38846.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "myrbcsecureddevice.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://www.legder-update.com/legder/home/connect.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "V\u00e4ster\u00e5s",
+        "country": "Sweden",
+        "lat": 59.6099,
+        "lon": 16.5448
+      }
+    },
+    {
+      "value": "cra-signin-partner-id.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "musiclivetrack.website",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://account-coinsquare.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "zybbzlast.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://dhruvsingh-1.github.io/Netflix_home_pg/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
+    },
+    {
+      "value": "https://kucoidilogin.gitbook.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -554,31 +374,19 @@
       }
     },
     {
-      "value": "https://sso-itrust-capital--com-auth.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "sfrclak.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside the Axios supply chain compromise - one RAT to rule them all"
     },
     {
-      "value": "http://miftaholnafi.github.io/Facebook-login",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "httpsecured.im",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
     },
     {
-      "value": "https://www.robiox.com.py/users/273721714082/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://atharva-tiwari12.github.io/Netflix-Clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ead.current-news-alerts.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+      "value": "https://dzisiejszebiezacewydarzenia.pl/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -590,46 +398,124 @@
       }
     },
     {
-      "value": "http://dds-georgia.zaueb.life/pay/",
+      "value": "https://bucket.service.generate.110.nz/2025-12-19/7d1d49a8d8c1fa7b4b743ed551fa338c112268e1/udev.rules",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
     },
     {
-      "value": "https://notifyhubss.net/efbcae4f0wb08a48b7ea94c4a99q0fa63c19.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://roblox.gs/users/5221734636/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "invitezone.space",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats",
       "geo": {
         "city": "Frankfurt am Main",
         "country": "Germany",
-        "lat": 50.1109,
-        "lon": 8.68213
+        "lat": 50.1169,
+        "lon": 8.6837
       }
     },
     {
-      "value": "http://www.discord-login-page.vercel.app/",
+      "value": "http://aviraj2002.github.io/Netflix_Clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.py/communities/8196550229/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://socifiapp.com/api/reports/upload",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "rbclogin-digital.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://wxfinityy.weebly.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Oakland",
+        "country": "United States",
+        "lat": 37.8086,
+        "lon": -122.269
+      }
+    },
+    {
+      "value": "206.206.77.224",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
+      "geo": {
+        "city": "Singapore",
+        "country": "Singapore",
+        "lat": 1.35208,
+        "lon": 103.82
+      }
+    },
+    {
+      "value": "http://pub-a5d28f531b364a168e13a47a4ce49b08.r2.dev/alldomindexworklogs.html?eta=3mail@a.b.c0",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "aqyaqua.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://cdn.jsdelivr.vip/jquery.min-3.7.0.js",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks",
+      "geo": {
+        "city": "Lai Chi Kok",
+        "country": "Hong Kong",
+        "lat": 22.3372,
+        "lon": 114.151
+      }
+    },
+    {
+      "value": "https://coinsquaareelogi.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "158.94.209.29",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats",
+      "geo": {
+        "city": "Amsterdam",
+        "country": "The Netherlands",
+        "lat": 52.3759,
+        "lon": 4.8975
+      }
     },
     {
       "value": "https://mail.nhanqua-vipff1.sbs/Oq3xmi36DSktk1yaI7Y0ziRR180vHhxD0s9JTcfO1QHuGdEtFK2TyXLMNRoWHhrOdoHKLNN6Owyd9vfkyvww6XVnmGpNJSF5oktiGDRlV11WsNGGyPz2FRewWwXdV6E8ULnkfzRlN84IfABFPEk0XdJjBI5MJLXagLMwQXOf5R92VVdIRfX3LA8UCGcyREUgwWTEyxReKvlEBzJt6ZuJh7fBFdWA6pCMXGD.html",
@@ -644,82 +530,16 @@
       }
     },
     {
-      "value": "http://roblox.com.py/users/3050255140/profile",
+      "value": "http://shubham25b01010593.github.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://roblox.com.ge/users/2664643693/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Frankfurt am Main",
-        "country": "Germany",
-        "lat": 50.1109,
-        "lon": 8.68213
-      }
-    },
-    {
-      "value": "http://mit-amasklof-gen.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.gs/games/121864768012064/UPD-Fish-It?privateServerLinkCode=53688552518478891171313514016489",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ynabioueconus-meriescs-experinces-t.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sameeraliwd739.github.io/Clone_Netflix/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://nbb888898.weebly.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://jpmnp.wealthwiseassets.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Falkenstein",
-        "country": "Germany",
-        "lat": 50.4777,
-        "lon": 12.3649
-      }
-    },
-    {
-      "value": "https://service-degitale.space/easy/web/login.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Lauterbourg",
-        "country": "France",
-        "lat": 48.9742,
-        "lon": 8.1851
-      }
-    },
-    {
-      "value": "http://lucky-silence-22d8.bdalueoeqtsmnndktseafel.workers.dev/facebook.com-1027275509",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "government1.icu",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
       "geo": {
         "city": "Toronto",
         "country": "Canada",
@@ -728,106 +548,58 @@
       }
     },
     {
-      "value": "https://facilities-information.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.py/users/4274147751/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dishaagrawal-tech.github.io/Netflix_clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://nishantparihar1102.github.io/Netflix-clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.netflix-gui-clone.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://buyukeczane.org/cgi-bin/https/mail/quota/upgrade/25GB/index.php/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "boost-core.today",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats",
       "geo": {
-        "city": "Istanbul",
-        "country": "Turkey",
-        "lat": 41.0082,
-        "lon": 28.9784
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
       }
     },
     {
-      "value": "https://amazon-clone-mocha-nine.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "etransfer-auth-cra.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
     },
     {
-      "value": "http://kukoincomlogin.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://metamsklogiin.github.io/",
+      "value": "http://www.discord-login-page.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "San Francisco",
+        "city": "Walnut",
         "country": "United States",
-        "lat": 37.7823,
-        "lon": -122.391
+        "lat": 34.0119,
+        "lon": -117.86
       }
     },
     {
-      "value": "http://harshbagwan.github.io/Netflix-Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.jpmnp.wealthwiseassets.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://webookmarks.com/story6895901/egds",
+      "value": "https://netflix-clone-6.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
       }
     },
     {
-      "value": "https://roblox.com.py/games/110499395965114/Bubble-Gum-Simulator?privateServerLinkCode=54059291634000050782242985421548",
+      "value": "http://mettha-mask-logi-in.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://steamcomumnity.com/tradeoffer/new/partner=783662133token=l4hhebGA21838",
+      "value": "https://4a-m.al/ConvertedFile.txtStage",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "source": "AlienVault OTX",
+      "description": "A Technique-Based Approach to Hunting Web-Delivered Malware",
       "geo": {
         "city": "Frankfurt am Main",
         "country": "Germany",
@@ -836,67 +608,127 @@
       }
     },
     {
-      "value": "http://anjaneyulu-01.github.io/amazon-clone-project",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "canadapostshipment.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats",
+      "geo": {
+        "city": "Amsterdam",
+        "country": "The Netherlands",
+        "lat": 52.3759,
+        "lon": 4.8975
+      }
     },
     {
-      "value": "https://discord-login-page.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.processcentre-exudos-servicedesk.vercel.app/",
+      "value": "http://coddhelp.simdev.ru/css/sga/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Cleveland",
-        "country": "United States",
-        "lat": 41.5059,
-        "lon": -81.689
+        "city": "Ulyanovsk",
+        "country": "Russia",
+        "lat": 54.3307,
+        "lon": 48.3888
       }
     },
     {
-      "value": "https://service-degitale.space/easy/",
+      "value": "sfrclak.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Supply-Chain Compromise of axios npm Package"
+    },
+    {
+      "value": "gigadat-claiminterac.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "webcrystal.lol",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features"
+    },
+    {
+      "value": "http://img.spoolsv.net/seed.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor",
+      "geo": {
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "lat": 54.6872,
+        "lon": 25.2797
+      }
+    },
+    {
+      "value": "honknft.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://www.70759.xyz/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Zhengzhou",
+        "country": "China",
+        "lat": 34.7208,
+        "lon": 113.794
+      }
+    },
+    {
+      "value": "estrategicadesenvolvimento.com.br",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats",
+      "geo": {
+        "city": "Rio Grande",
+        "country": "Brazil",
+        "lat": -32.0754,
+        "lon": -52.3526
+      }
+    },
+    {
+      "value": "http://seemi-ahmed.github.io/amazon-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://webonline1-010426.xyz/signin.php",
+      "value": "your-lnk.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "azgrvfra.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://auth-secure.me/9eScmwGZjkx9NA?/schindler/post/id=dmljdGltdXNlckBjb21wYW55LmNvbQ?",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Ashburn",
-        "country": "United States",
-        "lat": 39.0438,
-        "lon": -77.4874
+        "city": "Helsinki",
+        "country": "Finland",
+        "lat": 60.1647,
+        "lon": 24.9108
       }
     },
     {
-      "value": "https://seulimiterenovadoo.s3.us-east-005.backblazeb2.com/aumento.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Reston",
-        "country": "United States",
-        "lat": 38.9586,
-        "lon": -77.357
-      }
-    },
-    {
-      "value": "https://kennynaty1662-del.github.io/netflix/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ee02d1ec.outlookliveprotectionaccess.pages.dev/",
+      "value": "http://gazing.pp.ua/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -908,37 +740,49 @@
       }
     },
     {
-      "value": "http://divyanshi-gif.github.io/Netflix-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "rbcdevice-login.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
     },
     {
-      "value": "http://financialalertsystem.com/landing/form/caa9b8e3-9266-4682-8341-0c5940e84b69",
+      "value": "http://robiox.com.py/games/109983668079237/SOON-Steal-a-Brainrot?privateServerLinkCode=479142797126472144065645741472",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Dublin",
-        "country": "Ireland",
-        "lat": 53.3498,
-        "lon": -6.26031
+        "city": "Belize City",
+        "country": "Belize",
+        "lat": 17.5018,
+        "lon": -88.1956
       }
     },
     {
-      "value": "https://easybank-com.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "strong-tips.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats",
+      "geo": {
+        "city": "Chicago",
+        "country": "United States",
+        "lat": 41.8835,
+        "lon": -87.6305
+      }
     },
     {
-      "value": "https://roblox.com.ge/communities/9312264601/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "almacensantangel.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "From Inbox to Intrusion: Multi\u2011Stage Remcos RAT and C2\u2011Delivered Payloads in Network",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://www.recoveryticket-11345.com/",
+      "value": "https://easybank-wine.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -950,49 +794,19 @@
       }
     },
     {
-      "value": "https://unisvap.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://hamidsamad.github.io/facebook/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://surajswarnkar.github.io/Ecommerce-UI-Demo/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://netflix-clone-6.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://nxk.slj.mybluehost.me/website_9112afcf/pasos/primer-paso.php",
+      "value": "https://cloneofair.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.8072,
-        "lon": -79.5946
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
       }
     },
     {
-      "value": "http://tharunkumar53007.github.io/Netflix-Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mmapplicationshub-bhi.pages.dev/select",
+      "value": "https://fednow.cash/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -1004,31 +818,181 @@
       }
     },
     {
-      "value": "http://codersat.github.io/Netflixclone",
+      "value": "http://tiktok.91boris.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://ahmedsoumri.github.io/NETFLIX/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.robiox.com.py/games/142823291/Murder-Mystery-2?privateServerLinkCode=935266561552684784233764278863",
+      "value": "https://az-blob.110.nz/update/s4",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "83.142.209.11",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
+      "geo": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.4504,
+        "lon": 30.5245
+      }
+    },
+    {
+      "value": "https://atharva-tiwari12.github.io/Netflix-Clone/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://vijinavnair.github.io/Netflix-clone",
+      "value": "callnrwise.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Axios Front-End Library npm Supply Chain Poisoning Alert",
+      "geo": {
+        "city": "Seattle",
+        "country": "United States",
+        "lat": 47.4941,
+        "lon": -122.294
+      }
+    },
+    {
+      "value": "interac-gigadat0012.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://dishaagrawal-tech.github.io/Netflix_clone/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://easybank-wine.vercel.app/",
+      "value": "https://roblox.com.py/games/17625359962/RIVALS?privateServerLinkCode=65782130561325902681092299032696",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1109,
+        "lon": 8.68213
+      }
+    },
+    {
+      "value": "bnc-websecurity.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://www.64502.xyz/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://facebooklinksk.blogspot.com/",
+      "value": "http://httpss-roblox.co/communities/545015728",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Singapore",
+        "country": "Singapore",
+        "lat": 1.32123,
+        "lon": 103.695
+      }
+    },
+    {
+      "value": "click-link.space",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "goyppg06.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "fedexca-orderstatus.link",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "anycourse.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Operation DualScript: Multi-Stage PowerShell Malware Targets Crypto",
+      "geo": {
+        "city": "Tempe",
+        "country": "United States",
+        "lat": 33.3359,
+        "lon": -111.894
+      }
+    },
+    {
+      "value": "http://kinsqarlogon.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ge/communities/6554796292/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1109,
+        "lon": 8.68213
+      }
+    },
+    {
+      "value": "your-link.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://cdnjs.clondflare.com/jquery.min-3.7.8.1.js",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks",
+      "geo": {
+        "city": "Mong Kok",
+        "country": "Hong Kong",
+        "lat": 22.3205,
+        "lon": 114.168
+      }
+    },
+    {
+      "value": "http://www.facebooklogin2022.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -1040,493 +1004,97 @@
       }
     },
     {
-      "value": "http://sadmatanza.com/css/Msk/MetaMask/",
+      "value": "amazonfiso.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "North Korean Lazarus Group Now Working With Medusa Ransomware"
+    },
+    {
+      "value": "https://www.allianzhub.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "121.127.232.253",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers",
+      "geo": {
+        "city": "Hung Hom",
+        "country": "Hong Kong",
+        "lat": 22.3097,
+        "lon": 114.188
+      }
+    },
+    {
+      "value": "https://www.roblox.com.et/users/275739578207/profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Rosario",
-        "country": "Argentina",
-        "lat": -32.954,
-        "lon": -60.6634
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
       }
     },
     {
-      "value": "https://pancakeswapfinances.pages.dev/r@2.webp/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dpd.parcelarrivalflow.cfd/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "34.204.119.63",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
-    },
-    {
-      "value": "https://thunder2344w.github.io/Netflix-clone2/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://amazon-io.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://colombia-alianzahub.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.py/games/121864768012064/Fish-It?privateServerLinkCode=06308862469570832095799397170651",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://balaji92244.github.io/netflix-clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://telkomsamailler.weebly.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.easybank-com.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://backing-supportiveaid-m9q2qt.pages.dev/business.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ccwav.zeabur.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.robiox.com.ps/users/6528622062/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dzisiejszebiezacewydarzenia.pl/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://hohogalookahji.us-iad-10.linodeobjects.com/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://service-degitale.space/easy/web/index.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://gazing.pp.ua/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://risushakya.github.io/Rishabh.amazon/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://f.digitalmaillane.com/igit/4/3205tyjCo60btyit93C6yjCjysbj83Ce17C65xCgtC9C2",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://kucainluginc.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.fullaski.com/longman/ourtimepge/v3/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dhruvsingh-1.github.io/Netflix_home_pg/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://mandiiinc.com/?t=3mail@a.b.c0",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sowmyacheluvaraj.github.io/amazom_frontend-Clone-/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.py/games/106048753014399/Weird-Sussy-Game-UPDATE?privateServerLinkCode=06609322525627131988738568376468",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.facebooklinksk.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.netflix-clone-azure-ten.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://kucoiguunellin.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://aman7raj.github.io/Netflix-Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://connectplus.agency-partnerhub-platform.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.py/communities/2044802329/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.70759.xyz/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://aviraj2002.github.io/Netflix_Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "27.133.154.218",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
-    },
-    {
-      "value": "https://linkurl.pk/urfcrAzR",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.coiniybessiprrologn.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://spybeast07.github.io/netflix-onboarding-page-clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://shiiwvv.github.io/Netflix-UI-Clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://web-mail00.standard.us-east-1.oortstorages.com/doc/index.cvz?signature=c9e9f35b19a0689f5026a6dd9f0da8ee494cd4668de6c57e25ee5a143abba4c4c1868edc6c2f9c3fb0b70c87116295271b1b31e142bd2d236240700c49dfaf60230212a4d89255c2b9bab69eb4e65bea&provider=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pasakojimas.weebly.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.netflix-clone-cyan-nine.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ge/users/737734752/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://webookmarks.com/story6850602/sodium-stearoyllactylate",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://store.workshopcommunityrated.com/sharedfiles/filesdetails/id=3368312734",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://mohamedbasithvp.github.io/Netflix_Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://coinsquarreelogin.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.py/games/89369694419805/Slap-Fighting-972003?privateServerLinkCode=59758319577226529882710409115891",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://kinsqarlogon.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ge/users/643745649/profile/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://tiktokappfreecoins-hyq85iej8l.edgeone.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.64433.xyz/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://gmxauthe.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.py/games/123556543080705/game?privateServerLinkCode=66887107112475356641998066071541",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://coinsqquuarelogin.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://malmekwps.buras.biz.id/verify.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.robiox.com.py/users/271819868431/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://your-car-freight-check.xyz/ja/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://maneesh004-code.github.io/netflix-clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://wxfinityy.weebly.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sekhariam.github.io/Netflix-Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.gf/users/4694000952/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://t2.asalenx.icu/trs",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://coinaqareloginnn.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://mitta-ma-us-klogig-iin.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://linkurl.pk/wL5-6MOU",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://taisasantiago.github.io/Projeto-Netflix/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.robiox.com.py/users/410217565881/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://roblox.com.ge/users/7169229202/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ge/communities/8420044133/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dpd.expressroutehub.cfd/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://support10.agency-partner-platform.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "ucaboodle.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "https://www.robiox.com.gr/users/6949921785/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.robiox.com.py/users/321513040817/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://boies.us-southeast-1.linodeobjects.com/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://auth-secure.me/9eScmwGZjkx9NA?/schindler/post/id=dmljdGltdXNlckBjb21wYW55LmNvbQ?",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "salinasrent.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
     },
     {
-      "value": "http://www.project-delta-brown.vercel.app/",
+      "value": "https://khoiho0806.github.io/khoi-netflix/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
     },
     {
-      "value": "https://thecourierguy-delivery-za.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "lastpas.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store",
+      "geo": {
+        "city": "Las Vegas",
+        "country": "United States",
+        "lat": 36.1716,
+        "lon": -115.139
+      }
     },
     {
-      "value": "http://www.ynabioueconus-meriescs-experinces-t.vercel.app/",
+      "value": "http://www.easy-bank-gamma.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://dd0.qzz.io/dana/Vk7/",
+      "value": "http://192-3-27-141.host.colocrossing.com:8087",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "From Inbox to Intrusion: Multi\u2011Stage Remcos RAT and C2\u2011Delivered Payloads in Network"
     },
     {
-      "value": "http://mettha-mask-logi-in.godaddysites.com/",
+      "value": "https://shreya-dixit210.github.io/Netflix-clone/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -1538,49 +1106,73 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://cdnbridge.wixstudio.com/us-en",
+      "value": "https://ts334.co/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Hong Kong",
+        "country": "Hong Kong",
+        "lat": 22.267,
+        "lon": 114.188
+      }
+    },
+    {
+      "value": "spoolsv.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor"
+    },
+    {
+      "value": "http://www.64433.xyz/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://wildcard.humanresources-group.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "prcservis.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service",
+      "geo": {
+        "city": "Arnavutk\u00f6y",
+        "country": "Turkey",
+        "lat": 41.118,
+        "lon": 29.0081
+      }
     },
     {
-      "value": "https://pawanbhowate04.github.io/NETFLIX-CLONE/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "103.210.238.29",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
+      "geo": {
+        "city": "Chai Wan",
+        "country": "Hong Kong",
+        "lat": 22.2661,
+        "lon": 114.247
+      }
     },
     {
-      "value": "https://shopeeid567.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "holzveredler247.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
     },
     {
-      "value": "https://dpd.expressroutezone.cfd/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "notificationsmanagersec.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service",
+      "geo": {
+        "city": "Ogden",
+        "country": "United States",
+        "lat": 41.2214,
+        "lon": -111.9624
+      }
     },
     {
-      "value": "https://serve-liftuphelp-p6m4qt.pages.dev/business.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ipfs.io/ipfs/bafkreidt3wvollyyytkxdnp5j2boka5xwcsjywx4qdo3urf3emlux47gpm/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://blue-lake-b690.aajtnogvfiheeisetiarhya.workers.dev/help",
+      "value": "http://mettamusksign0inx.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -1592,142 +1184,64 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://httpss-roblox.co/communities/545015728",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "pelangiservice.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service",
+      "geo": {
+        "city": "Los Angeles",
+        "country": "United States",
+        "lat": 34.0356,
+        "lon": -118.442
+      }
     },
     {
-      "value": "https://easybank-landing-page-otabek-coder.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "buwxkiy.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://contact-4u9.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "jyroda.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store",
+      "geo": {
+        "city": "San Diego",
+        "country": "United States",
+        "lat": 32.7173,
+        "lon": -117.157
+      }
     },
     {
-      "value": "https://cutt.cx/pemullhan-akunn-danaa-netzs",
+      "value": "http://91.92.242.30/l5ou8r739pc48rwi",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
     },
     {
-      "value": "https://buenaventuramission.verifytoken.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+      "value": "http://www.facebooklende.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
+      }
     },
     {
-      "value": "https://roblox.com.py/users/658478761/profile",
+      "value": "http://91.92.242.30/dx2w5j5bka6qkwxi",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.py/users/3102848736/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ge/users/9634698710/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://receivelink0lx.cfd/processing/5A2FA9A0E",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://dapp.metacorehealth.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://ali268.cc/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.is.gd/cchw3S/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sahana-saini.github.io/view-vibes",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://get-started-desktop.wixstudio.com/en-us",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sachinbhauryal.github.io/Netflix_clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://amazon-clone-only-frontend.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ingredients-probability-pixel-signals.trycloudflare.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.py/games/8737899170/Pet-Simulator-99?privateServerLinkCode=78599015222174040163196419788391",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://trezzor-suite-help.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://empowersafetybc.one/ov2net",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ge/games/121864768012064/UPD-Fish-It?privateServerLinkCode=46351275700098882094309314382264",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sahityasarokar.com/lopj/pages/login.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://netflix-clone-khaki-seven.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
     },
     {
       "value": "http://pub-3b2161932db04c4eaa01be3fb152244b.r2.dev/sweetjan.html?email=3mail@b.c",
@@ -1736,151 +1250,73 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.unisvap.godaddysites.com/",
+      "value": "http://91.92.242.30/1v07y9e1m6v7thl6",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
+    },
+    {
+      "value": "https://apac.orbitor.dev/ipfs/bafkreihxkhc3zqivf7yc4ii5no5a7wuzk7j3rqg25dvwt4w6k3gd7tgmyi/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://roblox.com.ge/games/121864768012064/UPD-Fish-It?privateServerLinkCode=46351275700098882094309314382264",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://account-coinsquare.webflow.io/",
+      "value": "https://aniket9547.github.io/Amazon_clone/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
     },
     {
-      "value": "https://ipfs.io/ipfs/QmXzYEFq68w1qyYFztdJsssyzxrkJHPFtjHmo5BjHsSpNZ/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "backdoor-hub.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
     },
     {
-      "value": "https://www.robiox.com.gr/login?returnUrl=2034852716831952",
+      "value": "http://safe-scan.info/",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
     },
     {
-      "value": "https://ipfs.io/ipfs/bafkreia34hv5rniwfhh4siupbzhcczdpoq7p25ldzlngqxwwbyoia2quwi?eta=3mail@a.b.c0",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "ntcx.pro",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
     },
     {
-      "value": "https://coinsquaareelogi.webflow.io/",
+      "value": "http://91.92.242.30/6wioz8285kcbax6v",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
     },
     {
-      "value": "http://homepege--blackfi--login--usa.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dpd.parcelstakzt.bond/uk",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://id12.agency-partner-hub.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ltri15591-arch.github.io/roblox/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://blue-lake-b690.aajtnogvfiheeisetiarhya.workers.dev/help.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://easy-bank-gamma.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://salleryonlnejbhomessite.net/m/login",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ts334.co/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.www-roblox.co/discovers/?Keyword=",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://events-mobilelegends-coms.game-m.biz.id/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://divyapatilx.github.io/Amazon/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://kucoidilogin.gitbook.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.shopeeid567.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://jeanvi12.github.io/spotify-imersao-front-end/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://browseratomic.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://empowersafetybc.one/ov2net/page.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "carbatterygurgaon.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
     },
     {
       "value": "http://www.roblox.com.kz/users/192245539/profile/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.allianzhub.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://tiktok.91boris.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -1892,253 +1328,31 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://roblox.com.py/games/17625359962/RIVALS?privateServerLinkCode=65782130561325902681092299032696",
+      "value": "https://3snzh72om4.apifox.cn",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
     },
     {
-      "value": "http://robiox.com.ps/users/7209464278/profile",
+      "value": "suctwocesonesstory.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "breachforums.co",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "BreachForums Data Leaks: Technical Analysis and Timeline Attribution (2022\u20132026)"
+    },
+    {
+      "value": "http://91.92.242.30/q0c7ew2ro8l2cfqp",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
     },
     {
-      "value": "https://empowersafetybb.one/5vkt0c",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://bet440.cc/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ge/users/2512568486/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pub-a5d28f531b364a168e13a47a4ce49b08.r2.dev/alldomindexworklogs.html?eta=3mail@a.b.c0",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://seemi-ahmed.github.io/amazon-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://reurl.cc/7EDgLN",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://upgolld-lugnex.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://learn-bridge.wixstudio.com/bridge",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://rbox10.netlify.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/xXx.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dpd.deliveryportalpoint.cfd/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://email-member-and-password-update.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.robiox.com.py/users/221929521243/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://mettamusksign0inx.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://jayantchaudhary1980.github.io/OTT-Platform-UI/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://apac.orbitor.dev/ipfs/bafkreihxkhc3zqivf7yc4ii5no5a7wuzk7j3rqg25dvwt4w6k3gd7tgmyi/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://ecommerce-clone-gules.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ge/communities/6554796292/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://creditagricole-mescompte.com/pages/asset.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ge/users/8966142158/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.facebooklende.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://metamsk_loogii.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "50.16.16.211",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
-    },
-    {
-      "value": "https://www.robiox.com.py/games/8361340768/shhhhhhhh?privateServerLinkCode=762283724525347138091548885955",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://anirudh845.github.io/Streaming-Platform-UI/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://shubhammishra804.github.io/Netflix-UI/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://roblox.mq/users/4171915286/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.64502.xyz/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.jpmnp.wealthwiseassets.com/login",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://youthingstrategies.com/cloud/api/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://project-delta-brown.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://52479-santander.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rblox.me/s/VKvl9R",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sso--netcoins-en--com-ca.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rinsiya.github.io/netflixx/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://khoiho0806.github.io/khoi-netflix/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://shubham25b01010593.github.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://kalaoffice.com/wp-content/uploads/e1mkgwi/nhewrzb/gvfqsnr/content/rebrandedchina/index.php/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://coinbase.hepai-inc.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.facebooklogin2022.blogspot.com/",
+      "value": "https://steamcomumnity.com/tradeoffer/new/partner=783662133token=l4hhebGA21838",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -2150,34 +1364,46 @@
       "description": "Botnet C2 (QakBot)"
     },
     {
-      "value": "https://pub-223719251411456dae7d3253c35184c9.r2.dev/index.html?e5d369973354befd9ae19925681469",
+      "value": "http://roblox.com.py/users/9135234115/profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://peringatan-pembatalan-akun-anda001.weebly.com/",
+      "value": "ailyun-oss.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://www.netflix-clone-azure-ten.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.ledfzxsdav-mbnchyrt.gensoftone.li/",
+      "value": "https://roblox.com.py/games/110499395965114/Bubble-Gum-Simulator?privateServerLinkCode=54059291634000050782242985421548",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://coddhelp.simdev.ru/css/sga/",
+      "value": "https://roblox.com.ge/users/2512568486/profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.roblox.com.et/users/275739578207/profile",
+      "value": "web14.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
+    },
+    {
+      "value": "http://91.92.242.30/lamq4uerkruo6ssm",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
     },
     {
       "value": "http://appieru.help/",
@@ -2186,16 +1412,3034 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://ahmedsoumri.github.io/NETFLIX/",
+      "value": "https://facilities-information.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://show.diwke.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "62.60.178.163",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://project-delta-brown.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "linkhub1.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/321513040817/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "anythingshere.shop",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
+    },
+    {
+      "value": "maccmsp.la",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "https://empowersafetybc.one/ov2net",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "jexyni.top",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "authentifybmo.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://dpd.trackdepartx.cfd/com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://coinbase.hepai-inc.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "eqfit.co.za",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "https://4a-m.al/ConvertedFile.txt.",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "A Technique-Based Approach to Hunting Web-Delivered Malware"
+    },
+    {
+      "value": "https://receivelink0lx.cfd/processing/5A2FA9A0E",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://blue-lake-b690.aajtnogvfiheeisetiarhya.workers.dev/help",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "orcanmedikal.com.tr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A Technique-Based Approach to Hunting Web-Delivered Malware"
+    },
+    {
+      "value": "https://amazon-clone-only-frontend.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "cooldece.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://archana-a-d.github.io/Netflix-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "gigadat-interac-0910.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://connectplus.agency-partnerhub-platform.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rblox.me/s/VKvl9R",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "newmobilepolojean.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "mygroceries2costco.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "mirzanyapi.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "sfrclak.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Axios NPM Distribution Compromised in Supply Chain Attack"
+    },
+    {
+      "value": "https://bucket.service.generate.110.nz/2025-12-19/7d1d49a8d8c1fa7b4b743ed551fa338c112268e1/kernel.so",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://mohamedbasithvp.github.io/Netflix_Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://plist.ztyfv.com/d/4F48MCiqtsjDCS7QOWs3KU.plist",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "jaceviu.shop",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "adb-pro.design",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
+    },
+    {
+      "value": "https://ingredients-probability-pixel-signals.trycloudflare.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "hyakio.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "https://netflix-gui-clone.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://hamidsamad.github.io/facebook/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://indonsiaan-laymanid.marivost.biz.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sadmatanza.com/css/Msk/MetaMask/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.project-delta-brown.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://az-blob.110.nz/update/s2",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "62.60.226.248",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "inedin.digital",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "One Click Away: Inside a LinkedIn Phishing Attack"
+    },
+    {
+      "value": "girlsbags.shop",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
+    },
+    {
+      "value": "https://pancakeswapfinances.pages.dev/r@2.webp/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://shagunmishra26.github.io/Amazon-Clone/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "mebeliotmasiv.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "palshona.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "http://91.92.242.30/6x8c0trkp4l9uugo",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
+    },
+    {
+      "value": "http://mitta-ma-us-klogig-iin.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "tutupytua.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "https://img.spoolsv.cc/sss.mp5",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor"
+    },
+    {
+      "value": "promoswm.shop",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://backing-supportiveaid-m9q2qt.pages.dev/business.html/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "escaperoomhub.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/271819868431/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "ywdtwss.icu",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "https://orcanmedikal.com.tr/tool.htaStage",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "A Technique-Based Approach to Hunting Web-Delivered Malware"
+    },
+    {
+      "value": "moxymodiy.cc",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://ali268.cc/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ipfs.io/ipfs/QmXzYEFq68w1qyYFztdJsssyzxrkJHPFtjHmo5BjHsSpNZ/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "hublink4.space",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "smstltle.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "https://roblox.com.ge/users/154180346/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://service-degitale.space/easy/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "50.16.16.211",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "newtotalca.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://4a-m.al/ConvertedFile.txt",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "A Technique-Based Approach to Hunting Web-Delivered Malware"
+    },
+    {
+      "value": "illycoffee.my",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "North Korean Lazarus Group Now Working With Medusa Ransomware"
+    },
+    {
+      "value": "promoswf.shop",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://img.spoolsv.net/seed.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor"
+    },
+    {
+      "value": "27.133.154.218",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "https://www.robiox.com.gr/users/6949921785/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dpd.deliveryportalpoint.cfd/com",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "menclub.it",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
+    },
+    {
+      "value": "http://pelicanaviation.in/web3/adobe.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "bksgcefzqyb.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers"
+    },
+    {
+      "value": "shepinspect.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government"
+    },
+    {
+      "value": "https://sachinbhauryal.github.io/Netflix_clone/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ge/users/9634698710/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "justtalken.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "https://trezzor-suite-help.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://fruitbrat.com:443",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "The Latest PlugX Variant Executed by STATICPLUGIN"
+    },
+    {
+      "value": "https://events-mobilelegends-coms.game-m.biz.id/verify.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "bmosecure-webportal.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "tyjmbeexa.cn",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "debianhacks.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://130.94.6.228/update.tar.gz",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Disrupting the GRIDTIDE Global Cyber Espionage Campaign"
+    },
+    {
+      "value": "https://orcanmedikal.com.tr/tool.hta",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "A Technique-Based Approach to Hunting Web-Delivered Malware"
+    },
+    {
+      "value": "dhlmanagemypack0099.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://bet440.cc/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://your-car-freight-check.xyz/ja/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sfrclak.com:8000/6202033",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Axios Front-End Library npm Supply Chain Poisoning Alert"
+    },
+    {
+      "value": "https://enuganduladineshkumar.github.io/Netflix-Clone-Landing-page/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://kalaoffice.com/wp-content/uploads/e1mkgwi/nhewrzb/gvfqsnr/content/rebrandedchina/index.php/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "illycafe.my",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "North Korean Lazarus Group Now Working With Medusa Ransomware"
+    },
+    {
+      "value": "https://web-mail00.standard.us-east-1.oortstorages.com/doc/index.cvz?signature=c9e9f35b19a0689f5026a6dd9f0da8ee494cd4668de6c57e25ee5a143abba4c4c1868edc6c2f9c3fb0b70c87116295271b1b31e142bd2d236240700c49dfaf60230212a4d89255c2b9bab69eb4e65bea&provider=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "someotherbox.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://sso--netcoins-en--com-ca.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "macmamo.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "https://easy-bank-gamma.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://mandiiinc.com/?t=3mail@a.b.c0",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "invitationlink.space",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://kucainluginc.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.pgaurdroute.me/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "chickencoinwin.website",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ..."
+    },
+    {
+      "value": "https://bucket.service.generate.110.nz/udev.sh",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "eodrggi.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers"
+    },
+    {
+      "value": "http://www.easybank-com.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sofiyamasthan1317.github.io/Netflix_clone_website",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://anjaneyulu-01.github.io/amazon-clone-project",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "63.251.162.11",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure"
+    },
+    {
+      "value": "life-booste.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://risushakya.github.io/Rishabh.amazon/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "quietfostdio.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "hayesmed.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "govbrk.shop",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "pacificlimited.mw",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
+    },
+    {
+      "value": "stone110.store",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
+    },
+    {
+      "value": "https://webookmarks.com/story6850602/sodium-stearoyllactylate",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "spoolsv.cc",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor"
+    },
+    {
+      "value": "https://roblox.com.ge/users/737734752/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "totalhomesafe.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "http://cdnjs.jsdclivr.com/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css?v=3.7.8.2",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://aigemini.zeabur.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ge/communities/8420044133/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://sowmyacheluvaraj.github.io/amazom_frontend-Clone-/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://nishantparihar1102.github.io/Netflix-clone/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dpd.expressroutezone.cfd/com",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://coinsquarreelogin.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://divyanshi-gif.github.io/Netflix-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.easybank-landing-page-otabek-coder.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://pawanbhowate04.github.io/NETFLIX-CLONE/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "suxady.top",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://bucket.service.generate.110.nz/2025-12-19/7d1d49a8d8c1fa7b4b743ed551fa338c112268e1/module.so",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "coreflow-news.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://colombia-alianzahub.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dpd.parcelstakzt.bond/uk",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "freefoodaid.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Pawn Storm Campaign Deploys PRISMEX, Targets Government and Critical Infrastructure Entities"
+    },
+    {
+      "value": "https://learn-bridge.wixstudio.com/bridge",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.www-roblox.co/discovers/?Keyword=",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "parceltrackdelfedex.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://shubhammishra804.github.io/Netflix-UI/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://metamsklogiin.github.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "laichingte.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government"
+    },
+    {
+      "value": "trending-now.today",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://lrg-eqf-dqr-qve-exq-ruq-wen.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://thecourierguy-delivery-za.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://cdnbridge.wixstudio.com/us-en",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://img.spoolsv.cc/seed.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor"
+    },
+    {
+      "value": "webcrystal.sbs",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features"
+    },
+    {
+      "value": "https://anirudh845.github.io/Streaming-Platform-UI/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "promoswn.shop",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "jariosos.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "infinitechai.org",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "https://install.app-distribution.net/setup/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
+    },
+    {
+      "value": "mydhl725378-order442-online.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://www.facebooklinksk.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://netflix-clone-khaki-seven.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "curated-nest.pro",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "hublink2.space",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://salleryonlnejbhomessite.net/m/login",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ge/users/643745649/profile/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "incometax.biz.id",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "tipboost-info.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "promoswh.shop",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://linkurl.pk/urfcrAzR",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "tdonlineverif.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://spybeast07.github.io/netflix-onboarding-page-clone/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "footballfans.asia",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
+    },
+    {
+      "value": "http://pasakojimas.weebly.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "bdustatic.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://tharunkumar53007.github.io/Netflix-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://cutt.cx/pemullhan-akunn-danaa-netzs",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "thesafarigarden.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "https://coiniybessiprrologn.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "wellnesscaremed.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Pawn Storm Campaign Deploys PRISMEX, Targets Government and Critical Infrastructure Entities"
+    },
+    {
+      "value": "https://roblox.com.py/games/89369694419805/Slap-Fighting-972003?privateServerLinkCode=59758319577226529882710409115891",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "investarmco.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://www.jpmnp.wealthwiseassets.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.robiox.com.ps/users/6528622062/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "ziqiwui.click",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://codersat.github.io/Netflixclone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "interac-gigadat15.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://kukinlougyen.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "cside.site",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
+    },
+    {
+      "value": "markethubuk.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "North Korean Lazarus Group Now Working With Medusa Ransomware"
+    },
+    {
+      "value": "http://blue-lake-b690.aajtnogvfiheeisetiarhya.workers.dev/help.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://support10.agency-partner-platform.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://lucky-silence-22d8.bdalueoeqtsmnndktseafel.workers.dev/facebook.com-1027275509",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://miftaholnafi.github.io/Facebook-login",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.218.19.162",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "http://resources.dawnnewsisl.com/updtdll",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "BRUSHWORM and BRUSHLOGGER uncovered"
+    },
+    {
+      "value": "83.142.209.203",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure"
+    },
+    {
+      "value": "topbuysella.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "xlkconsulting.co.za",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "http://www.ynabioueconus-meriescs-experinces-t.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://update-check.com/m/7d8df27d95d9",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka"
+    },
+    {
+      "value": "https://cdnjs.jsdclivr.com/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css?v=3.7.8.2",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "162.243.103.246",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (Emotet)"
+    },
+    {
+      "value": "https://service-degitale.space/easy/web/login.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ccwav.zeabur.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://facebooklinksk.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ecommerce-clone-gules.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "103.15.29.17",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government"
+    },
+    {
+      "value": "http://securepass.info/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "clondflare.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "https://roblox.com.py/users/4274147751/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://img.spoolsv.cc/snn50.txt",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor"
+    },
+    {
+      "value": "jsdclivr.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "https://roblox.com.py/games/123556543080705/game?privateServerLinkCode=66887107112475356641998066071541",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.upsystems.one/Alex.exe",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers"
+    },
+    {
+      "value": "http://vipvideosxxx.binzaminrandow.site/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "23.142.184.129",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure"
+    },
+    {
+      "value": "4a-m.al",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A Technique-Based Approach to Hunting Web-Delivered Malware"
+    },
+    {
+      "value": "https://outlookc-fr.weebly.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/410217565881/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://browseratomic.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "theuklg.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government"
+    },
+    {
+      "value": "https://roblox.gf/users/4694000952/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.shopeeid567.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "fedexdelivery.ca",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "86.54.24.29",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Phantom Footprints: Tracking GhostSocks Malware"
+    },
+    {
+      "value": "https://youthingstrategies.com/cloud/api/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "fikksvex.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government"
+    },
+    {
+      "value": "cronos.li",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "BreachForums Data Leaks: Technical Analysis and Timeline Attribution (2022\u20132026)"
+    },
+    {
+      "value": "http://store.workshopcommunityrated.com/sharedfiles/filesdetails/id=3368312734",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "qezybu.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://yad.ma/Union/Colony/complete.phphttps[://]www.metrosuitesbellavie.com/crewe/cjo/yte/MsTeams.exe",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
+    },
+    {
+      "value": "the-social-spot.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "iuzndfqr.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers"
+    },
+    {
+      "value": "23.227.202.14",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Pawn Storm Campaign Deploys PRISMEX, Targets Government and Critical Infrastructure Entities"
+    },
+    {
+      "value": "http://rbox10.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.py/users/3102848736/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.robiox.com.gr/login?returnUrl=2034852716831952",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://kennynaty1662-del.github.io/netflix/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.robiox.com.py/games/8361340768/shhhhhhhh?privateServerLinkCode=762283724525347138091548885955",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://didianeensing-fft-oshehun.pages.dev/help/contact/314943121371618/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "terrainane.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://easybank-landing-page-otabek-coder.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.gs/users/5221734636/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "fedoraforums.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "83.142.209.203",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Telnyx Python SDK Compromised to Deliver Credential-Stealing Malware"
+    },
+    {
+      "value": "energy-zone.top",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://metamsk_loogii.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "o-parana.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "zutebo.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "https://divyapatilx.github.io/Amazon/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "72.62.185.31",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Pawn Storm Campaign Deploys PRISMEX, Targets Government and Critical Infrastructure Entities"
+    },
+    {
+      "value": "click-link.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "justweb.click",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
+    },
+    {
+      "value": "https://sso-io-ndaxx-auth.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dpd.parcelarrivalflow.cfd/com",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "sjxcrojzkn.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "https://shiiwvv.github.io/Netflix-UI-Clone/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.processcentre-exudos-servicedesk.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "digitalwealth-au.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://buyukeczane.org/cgi-bin/https/mail/quota/upgrade/25GB/index.php/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://cgf.facturastbs.shop/a/08/150822/au",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unpacking Augmented Marauder\u2019s Multi-Pronged Casbaneiro Campaigns"
+    },
+    {
+      "value": "evobothub.org",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "charityvirtue.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "euclidrent.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "petalsage.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "invitehub.site",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "promoswu.shop",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://sameeraliwd739.github.io/Clone_Netflix/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://aman7raj.github.io/Netflix-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://unisvap.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "103.131.95.107",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government"
+    },
+    {
+      "value": "http://roblox.mq/users/4171915286/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ead.current-news-alerts.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "212.113.98.30",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "The Return of the Kinsing"
+    },
+    {
+      "value": "https://harikalolla.github.io/form-webpage/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "waynelimck.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
+    },
+    {
+      "value": "http://contact-4u9.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "talagram.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "45.150.34.158",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "GlassWorm attack installs fake browser extension for surveillance"
+    },
+    {
+      "value": "http://ledfzxsdav-mbnchyrt.gensoftone.li/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "grupobedfs.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unpacking Augmented Marauder\u2019s Multi-Pronged Casbaneiro Campaigns"
+    },
+    {
+      "value": "govbr.icu",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "https://jpmnp.wealthwiseassets.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "firelategg.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "hodeoc.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "https://mmapplicationshub-bhi.pages.dev/select",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://webonline1-010426.xyz/signin.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "sfrclak.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Axios Front-End Library npm Supply Chain Poisoning Alert"
+    },
+    {
+      "value": "http://kucoin-login.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "sherwoods.ae",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
+    },
+    {
+      "value": "https://dpd.expressroutehub.cfd/com",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://download.joymeet.top/app/2PG/00056321.mobileconfig",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "https://nxk.slj.mybluehost.me/website_9112afcf/pasos/primer-paso.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "fitness-zenew.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "aurineuroth.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "http://83.142.209.203:8080/ringtone.wav",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Telnyx Python SDK Compromised to Deliver Credential-Stealing Malware"
+    },
+    {
+      "value": "https://ee02d1ec.outlookliveprotectionaccess.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://az-blob.110.nz/update/s7",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://www.recoveryticket-11345.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://notifyhubss.net/efbcae4f0wb08a48b7ea94c4a99q0fa63c19.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://mit-amasklof-gen.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://buenaventuramission.verifytoken.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://union.macoms.la/jquery.min-4.0.2.js",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "https://roblox.com.ge/users/2664643693/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "212.71.124.188",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure"
+    },
+    {
+      "value": "http://83.142.209.203:8080/hangup.wav",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Telnyx Python SDK Compromised to Deliver Credential-Stealing Malware"
+    },
+    {
+      "value": "https://roblox.com.py/games/8737899170/Pet-Simulator-99?privateServerLinkCode=78599015222174040163196419788391",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "dailycrepoton.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "gyglowcq.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers"
+    },
+    {
+      "value": "rbcsecurityservices.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://jeanvi12.github.io/spotify-imersao-front-end/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ynabioueconus-meriescs-experinces-t.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "120.89.46.135",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government"
+    },
+    {
+      "value": "https://rinsiya.github.io/netflixx/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://tt.grupobedfs.com/.../gera_pdf.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unpacking Augmented Marauder\u2019s Multi-Pronged Casbaneiro Campaigns"
+    },
+    {
+      "value": "flysky55.me",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "sfrclak.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ..."
+    },
+    {
+      "value": "yankeepine.co",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "https://email-member-and-password-update.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://amazon-io.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "shinyhunte.rs",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "BreachForums Data Leaks: Technical Analysis and Timeline Attribution (2022\u20132026)"
+    },
+    {
+      "value": "top9mediatrk.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://api.bdustatic.com/jquery.min-4.0.12.js",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "ubuntucommands.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "https://empowersafetybb.one/5vkt0c",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.robiox.com.py/games/142823291/Murder-Mystery-2?privateServerLinkCode=935266561552684784233764278863",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://instagram-clone-topaz-two.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "pilyf.life",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "linda-makeup.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "jyagit.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "103.236.63.138",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "https://az-blob.110.nz/update/s3",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://kucoin_-login.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://f.digitalmaillane.com/igit/4/3205tyjCo60btyit93C6yjCjysbj83Ce17C65xCgtC9C2",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "iralfdgs.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://br.shopesbr.shop/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "fyabyq.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "http://vijinavnair.github.io/Netflix-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "83.142.209.203",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM"
+    },
+    {
+      "value": "https://vrmirror.pages.dev/prozess/webobjects/prozesscenter.woa/wa/default?path=/pk_sp/de/tnv/st01_tnr_anfordern/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://wildcard.humanresources-group.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "bumpgames.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "https://az-blob.110.nz/update/init",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "hublink1.space",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "click-link.store",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "meetdatefind.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://surajswarnkar.github.io/Ecommerce-UI-Demo/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "wijgzsfh.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/324834118351/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://pub-223719251411456dae7d3253c35184c9.r2.dev/index.html?e5d369973354befd9ae19925681469",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://harshbagwan.github.io/Netflix-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/xXx.html/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://empowersafetybc.one/ov2net/page.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "trustpdfs.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "North Korean Lazarus Group Now Working With Medusa Ransomware"
+    },
+    {
+      "value": "moplih.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "fajuez.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "http://code.jquecy.com/jquery.min-3.6.8.js",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "9688hopeeasy.cc",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "https://securee-coinsquare.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "costcorebate-groceries2026.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "lolpartyanimals.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "154.36.152.151",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "193.187.148.169",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Pawn Storm Campaign Deploys PRISMEX, Targets Government and Critical Infrastructure Entities"
+    },
+    {
+      "value": "https://coinaqareloginnn.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "nywav.life",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "45.148.10.212",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure"
+    },
+    {
+      "value": "https://discord-login-page.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "crystalxrat.top",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features"
+    },
+    {
+      "value": "http://creditagricole-mescompte.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://amazon-clone-mocha-nine.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "lankystocks.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
+    },
+    {
+      "value": "rujas.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://webookmarks.com/story6895901/egds",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "78.153.140.16",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "The Return of the Kinsing"
+    },
+    {
+      "value": "fruitbrat.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "The Latest PlugX Variant Executed by STATICPLUGIN"
+    },
+    {
+      "value": "https://service-degitale.space/easy/web/index.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "authdocspro.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "https://creditagricole-mescompte.com/pages/asset.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "hublink3.space",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
     },
     {
       "value": "https://52479-santander.com/payment/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "yellowusheart.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://roblox.com.py/users/658478761/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://jayantchaudhary1980.github.io/OTT-Platform-UI/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://static.bytedauce.com/ajax/libs/bootstrap/5.3.3/css/bootstrap-grid.min.css",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "callnrwise.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ..."
+    },
+    {
+      "value": "easyguidepdf.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
+    },
+    {
+      "value": "cuyuzu.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "https://roblox.com.ge/users/8966142158/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://serve-liftuphelp-p6m4qt.pages.dev/business.html/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "34.204.119.63",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "http://dapp.metacorehealth.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "breachforums.hn",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "BreachForums Data Leaks: Technical Analysis and Timeline Attribution (2022\u20132026)"
+    },
+    {
+      "value": "gigadat-interac6302.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://thunder2344w.github.io/Netflix-clone2/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "thewpiratebay.st",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Operation DualScript: Multi-Stage PowerShell Malware Targets Crypto"
+    },
+    {
+      "value": "https://dowoxox.gfewr.com/B9.apk",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "lucycally.me",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://www.fullaski.com/longman/ourtimepge/v3/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://auth-verify-blockfi.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "209.34.235.18",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure"
+    },
+    {
+      "value": "https://img.spoolsv.cc/555.mp5",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor"
+    },
+    {
+      "value": "http://campanattk.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://hohogalookahji.us-iad-10.linodeobjects.com/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://5kvisionhub.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "longsauce.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Pawn Storm Campaign Deploys PRISMEX, Targets Government and Critical Infrastructure Entities"
+    },
+    {
+      "value": "https://nubexx776.github.io/fishing/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://homepege--blackfi--login--usa.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "cibc-registration-access-online.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "103.122.164.106",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government"
+    },
+    {
+      "value": "https://taisasantiago.github.io/Projeto-Netflix/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://91.92.242.30/il24xgriequcys45",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
+    },
+    {
+      "value": "chata2go.com.mx",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
+    },
+    {
+      "value": "linuxdistro.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "https://roblox.com.py/games/121864768012064/Fish-It?privateServerLinkCode=06308862469570832095799397170651",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "crysome.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "CrySome RAT : An Advanced Persistent .NET Remote Access Trojan"
+    },
+    {
+      "value": "http://sfrclak.com:8000/6202033",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ..."
+    },
+    {
+      "value": "http://roblox.com.py/users/3050255140/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "idysuk.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "bncloginsecuriter.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://kukoincomlogin.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "wellnessmedcare.org",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Pawn Storm Campaign Deploys PRISMEX, Targets Government and Critical Infrastructure Entities"
+    },
+    {
+      "value": "http://www.amazon-io.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/273721714082/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "cibcsecurity2fa.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://id12.agency-partner-hub.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lms.khurasan.edu.af/2/login.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "gifowy.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "sictradingc.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "North Korean Lazarus Group Now Working With Medusa Ransomware"
+    },
+    {
+      "value": "ca24watch.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "ailyunoss.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "whghfpytehu.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers"
+    },
+    {
+      "value": "careldutoit-el.co.za",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "http://upgolld-lugnex.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "sunride.com.do",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
+    },
+    {
+      "value": "https://dd0.qzz.io/dana/Vk7/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "qiqaly.top",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "https://peringatan-pembatalan-akun-anda001.weebly.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "149.104.24.24",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+    },
+    {
+      "value": "retseptik.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
+    },
+    {
+      "value": "https://seulimiterenovadoo.s3.us-east-005.backblazeb2.com/aumento.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "regancontrols.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "https://get-started-desktop.wixstudio.com/en-us",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.netflix-clone-alpha-nine.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://malmekwps.buras.biz.id/verify.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "uzelart.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://roblox.com.ge/users/7169229202/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://sahityasarokar.com/lopj/pages/login.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "lecturegenieltd.pro",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iranian APT Infrastructure in Focus: Mapping State-Aligned Clusters During Geopolitical Escalation"
+    },
+    {
+      "value": "http://netflix-clone-theta-eight.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ge/communities/9312264601/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://az-blob.110.nz/update/s9",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "zypras.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "North Korean Lazarus Group Now Working With Medusa Ransomware"
+    },
+    {
+      "value": "http://www.robiox.com.py/users/221929521243/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "gadlkd1.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "tdcommercial-securedlogins.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "kiylox.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "https://ltri15591-arch.github.io/roblox/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "talagram.store",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://robiox.com.ps/users/7209464278/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "bytedauce.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "http://52479-santander.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "focusrecruitment.careers",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ..."
+    },
+    {
+      "value": "burkespitbbq.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://sahana-saini.github.io/view-vibes",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://localizadorapple.com/ICL26/?xmbc2SgQN5PGCBlhf18Q2SDSUvdKGr5CxwVhC5jUaRQupMIJd8OtAzQNt1VPmsb3y0VJzpgMEEumSOFIzGghmUqQQCpyigzz5Y1AtLZDa9C2RQlXHHFZ1SHtRShJYYGDJzU33slNFh5Dpdm8v9kyP1jHi1k6Zg23hH9F9Z3CyW=",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ssl.webaccess-email.mx/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.amazon-clone-only-frontend.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://nbb888898.weebly.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "akcjdrya.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers"
+    },
+    {
+      "value": "retreaw.click",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Phantom Footprints: Tracking GhostSocks Malware"
+    },
+    {
+      "value": "breachforums.vc",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "BreachForums Data Leaks: Technical Analysis and Timeline Attribution (2022\u20132026)"
+    },
+    {
+      "value": "https://balaji92244.github.io/netflix-clone/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "mirsanotolastik.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "https://coinsqquuarelogin.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://financialalertsystem.com/landing/form/caa9b8e3-9266-4682-8341-0c5940e84b69",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "nirbsff.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers"
+    },
+    {
+      "value": "linkhub2.space",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://www.ledfzxsdav-mbnchyrt.gensoftone.li/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.jpmnp.wealthwiseassets.com/login",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://dds-georgia.zaueb.life/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "iviqag.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Blurred Lines: AdTech Abuse Delivers Browser Hijackers Through the Microsoft Store"
+    },
+    {
+      "value": "https://ipfs.io/ipfs/bafkreidt3wvollyyytkxdnp5j2boka5xwcsjywx4qdo3urf3emlux47gpm/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://reurl.cc/7EDgLN",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ipfs.io/ipfs/bafkreia34hv5rniwfhh4siupbzhcczdpoq7p25ldzlngqxwwbyoia2quwi?eta=3mail@a.b.c0",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "distrilyy.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government"
+    },
+    {
+      "value": "https://gmxauthe.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "gyruvi.top",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside Keitaro Abuse Part 2: One Platform, Many Threats"
+    },
+    {
+      "value": "http://91.92.242.30/dyrtvwjfveyxjf23",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
+    },
+    {
+      "value": "http://sekhariam.github.io/Netflix-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "jsdelivr.vip",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "shepherdsestates.uk",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "EtherRAT & SYS_INFO Module: C2 on Ethereum (EtherHiding), Target Selection, CDN-Like Beacons"
+    },
+    {
+      "value": "https://boies.us-southeast-1.linodeobjects.com/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "116.62.172.147",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Illuminating VoidLink: Technical analysis of the VoidLink rootkit framework"
+    },
+    {
+      "value": "youremplregroup.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New widespread EvilTokens kit: device code phishing as-a-service"
+    },
+    {
+      "value": "popnike-share.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government"
+    },
+    {
+      "value": "8.149.128.10",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Illuminating VoidLink: Technical analysis of the VoidLink rootkit framework"
+    },
+    {
+      "value": "eliteautoused-cars.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Signed malware impersonating workplace apps deploys RMM backdoors"
+    },
+    {
+      "value": "realfake909.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks"
+    },
+    {
+      "value": "socifiapp.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer"
+    },
+    {
+      "value": "https://maneesh004-code.github.io/netflix-clone/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://telkomsamailler.weebly.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://linkurl.pk/wL5-6MOU",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.netflix-gamma-orpin.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "rmwztbrr.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Security brief: tax scams aim to steal funds from taxpayers"
+    },
+    {
+      "value": "sfrclak.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "North Korea-Nexus Threat Actor Compromises Widely Used Axios NPM Package in Supply Chain Attack"
+    },
+    {
+      "value": "http://tiktokappfreecoins-hyq85iej8l.edgeone.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "facturastbs.shop",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unpacking Augmented Marauder\u2019s Multi-Pronged Casbaneiro Campaigns"
     }
   ]
 }
