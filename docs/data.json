@@ -1,32 +1,8 @@
 {
-  "last_updated_utc": "2026-04-15T11:33:08.721247+00:00",
+  "last_updated_utc": "2026-04-15T13:00:56.796432+00:00",
   "indicators": [
     {
-      "value": "http://instagram-login738.github.io/Instalogin",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
-        "country": "United States",
-        "lat": 37.7823,
-        "lon": -122.391
-      }
-    },
-    {
-      "value": "http://md-asif-azmi01.github.io/Spotify-usung-html-css-javascript",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
-        "country": "United States",
-        "lat": 37.7823,
-        "lon": -122.391
-      }
-    },
-    {
-      "value": "https://rblx.foo/s/Ip7wXT",
+      "value": "http://coinsquareloginusa.webflow.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -38,193 +14,7 @@
       }
     },
     {
-      "value": "http://lnk.ink/ajAMK1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://roblox.mq/login?returnUrl=7169673461021718",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Frankfurt am Main",
-        "country": "Germany",
-        "lat": 50.1109,
-        "lon": 8.68213
-      }
-    },
-    {
-      "value": "https://lkk-msd-biz-ukx-jfk-sp2ct2.pages.dev/form_submit_appeal/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://halima014.github.io/Spotify",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://kareemtarek133.github.io/nike",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://yraja09.github.io/Spotify-Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://tcaconnect.ac-page.com/toronto-construction-association-inc/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://postaq.eu.cc/ke",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Los Angeles",
-        "country": "United States",
-        "lat": 34.0544,
-        "lon": -118.244
-      }
-    },
-    {
-      "value": "https://marketing-account-audit-console.pages.dev/appeal_form",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://sso-security.com/S_H_zL6sx9gtYYCiRw",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Helsinki",
-        "country": "Finland",
-        "lat": 60.1647,
-        "lon": 24.9108
-      }
-    },
-    {
-      "value": "https://www.nike-cyan-three.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Atlanta",
-        "country": "United States",
-        "lat": 33.8541,
-        "lon": -84.3791
-      }
-    },
-    {
-      "value": "https://robiox.com.ve/users/6175503429/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://info.cloudinfolibrary.com/c/11JcNV7avmnTCwnFh7TrNnzHGK9",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Chicago",
-        "country": "United States",
-        "lat": 41.8781,
-        "lon": -87.6298
-      }
-    },
-    {
-      "value": "https://lnk.ink/syjhf",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sso-security.com/Yfq-PfNlmuYozbQ",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Helsinki",
-        "country": "Finland",
-        "lat": 60.1647,
-        "lon": 24.9108
-      }
-    },
-    {
-      "value": "https://busreykjavik.hostel.club/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://cert04apr.wasmer.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Hillsboro",
-        "country": "United States",
-        "lat": 45.526,
-        "lon": -122.9874
-      }
-    },
-    {
-      "value": "https://sttrt-leddger-strt.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://mdhassan81.github.io/Spotify-Clone-Project",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.nike-tailwind-ivanscarsella.vercel.app/",
+      "value": "https://claiminvites02.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -236,55 +26,49 @@
       }
     },
     {
-      "value": "http://spotify-clone-green.vercel.app/",
+      "value": "https://winup.su/dashboard.html",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation",
       "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.6695,
+        "lon": 23.2912
       }
     },
     {
-      "value": "27.133.154.218",
+      "value": "https://mansfieldpediatrics.com/ledger/live/b2955c54eb0c047463993b379e015e737aabe",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "185.237.166.232",
       "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations",
       "geo": {
-        "city": "Osaka",
-        "country": "Japan",
-        "lat": 34.706,
-        "lon": 135.493
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.458,
+        "lon": 30.5303
       }
     },
     {
-      "value": "http://gurprem0.github.io/Nike-Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://yogeshch06.github.io/E-commerce-Website",
+      "value": "https://www.facebookcolorvisitor.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "San Francisco",
+        "city": "Mountain View",
         "country": "United States",
-        "lat": 37.7823,
-        "lon": -122.391
+        "lat": 37.4225,
+        "lon": -122.085
       }
     },
     {
-      "value": "http://adityayadav176.github.io/Spotify-Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://inhouseplumbingcompany-sewer.pages.dev/dp/B0CFPHSTDD",
+      "value": "https://trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vaXBmcy5pby9pcGZzL2JhZnliZWlmc3lodWt3eHJkZ3dnaWZkdjJnbXhtcm9uejd0YWRrZGZ6bXVrYzd4ZWpjZGRmdmZkNzQ0IiwiZW1haWxJZCI6ImRiMGJlODJlLTNkMTAtNGU1ZC04ZDc2LTJhNGI1Yjc0MzUwNiIsImlhdCI6MTc3NTU5NjQ1MH0.L1qkntKNoBNsX2GlB_g6xu_0QiRTuuD3jlwpJS2kfsQ&r=euc1",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -296,22 +80,10 @@
       }
     },
     {
-      "value": "https://sso-security.com/YaJZUQnjw2YF",
+      "value": "http://api.mywalletsss.store/api/validate/system-info",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Helsinki",
-        "country": "Finland",
-        "lat": 60.1647,
-        "lon": 24.9108
-      }
-    },
-    {
-      "value": "https://pub-19897d254f8b4ae8ab54968a53c9ecb8.r2.dev/index.html?cpleas9yv9pwk9bpejdi9uixabhk/tyt89dlusdztnqyxehandpngfrpfl4ksk6vio6kinj0llg/mi45wz26wclgcg/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "source": "AlienVault OTX",
+      "description": "Polymarket Trader Funds at Risk: DPRK npm Package Steals Wallet Keys and Installs SSH Backdoor",
       "geo": {
         "city": "Toronto",
         "country": "Canada",
@@ -320,466 +92,22 @@
       }
     },
     {
-      "value": "https://sso-security.com/5-1KWFOY9-7VCQ",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://metamask-login-us.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://cloudinfolibrary.com/reports/gc-aibusinesstrendsjp314form.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Tulsa",
-        "country": "United States",
-        "lat": 36.1527,
-        "lon": -95.9902
-      }
-    },
-    {
-      "value": "https://hr-notification.github.io/congenial-palm-tree",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://saranagam.github.io/Spotify-Clone-",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://music-application-flax.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lnk.ink/kretV",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://amazon-clone-part-1.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Cleveland",
-        "country": "United States",
-        "lat": 41.5059,
-        "lon": -81.689
-      }
-    },
-    {
-      "value": "https://susobhande9-byte.github.io/netsusobhan/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://prianshuamarkhalde.github.io/SPOTIFY-CLONE",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sso-security.com/YdPxmvTBsjs",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Helsinki",
-        "country": "Finland",
-        "lat": 60.1647,
-        "lon": 24.9108
-      }
-    },
-    {
-      "value": "http://adityasharma0011.github.io/spotify",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://shanyakakkar.github.io/Amazon-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://nike-phasin.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://shivamshelke-dev.github.io/spotifyclone.githhub.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://live-lebger.wixstudio.com/us-en",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Kansas City",
-        "country": "United States",
-        "lat": 39.0997,
-        "lon": -94.5785
-      }
-    },
-    {
-      "value": "http://i-devaj.github.io/spotify-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://kyxn.dev/s/Y9ukCQ",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://adity4-4.github.io/spotify-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dave2005adrian.github.io/Facebook/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lnk.ink/scvds",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.nike-project-kappa.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://lagherlviapp.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://sso-security.com/506gF-LMu_IHO3MZFw",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://account-securecheck.com/195776619/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://paras4308.github.io/Spotify-Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://customer-support-system-claim-help-center.pages.dev/appeal_form",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://sso-security.com/0vRbgDrTSe0",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sso-security.com/o1MykL0kqe4",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.lnk.ink/isAIJF/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sso-security.com/rvwPJza7V782",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://acessopedagiodigital.buzz/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Ottawa",
-        "country": "Canada",
-        "lat": 45.4153,
-        "lon": -75.6894
-      }
-    },
-    {
-      "value": "https://marinamessage07apr.wasmer.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Hillsboro",
-        "country": "United States",
-        "lat": 45.526,
-        "lon": -122.9874
-      }
-    },
-    {
-      "value": "https://uzairatta.github.io/netflix-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://kesopost.qpon/ke",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Fo Tan",
-        "country": "Hong Kong",
-        "lat": 22.3976,
-        "lon": 114.193
-      }
-    },
-    {
-      "value": "https://facebook-project-seven.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://help.appealvalve.com/id/76561198062900760",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "lat": 52.2832,
-        "lon": 4.7521
-      }
-    },
-    {
-      "value": "https://hubs-desktoplive.wixstudio.com/en-us",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pub-e1e4d0b4665d4d8996bf04516d898fb2.r2.dev/ddhjkindex.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://docusign-jn7.relbilling-reltdz-com-s-account.workers.dev/27f1b1a2c476b9f9",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "178.62.3.223",
+      "value": "144.172.99.81",
       "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)",
+      "source": "AlienVault OTX",
+      "description": "Tracking an OtterCookie Infostealer Campaign Across npm",
       "geo": {
-        "city": "Slough",
-        "country": "United Kingdom",
-        "lat": 51.5177,
-        "lon": -0.6215
-      }
-    },
-    {
-      "value": "https://surajpandey-09124.github.io/Amazon_clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lnk.ink/sjhkx",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://rupeshanand7.github.io/NetflixClone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://harshu639.github.io/NikeShoes",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://docusign-dzz.gemeyal280-izkat-com-s-account.workers.dev/266cbb53924f0802",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://rhythm-rb.github.io/Netflixproj/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://nikhil7897.github.io/Netflix-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://p84v-4cdn-twbk.dgardner-allergyasthmanetwork-org-s-account.workers.dev/2a633fde7ff49ba9?email=3mail@a.b.c0",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://nike-aykhan85.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://harpreet-singh22.github.io/SpotifyClone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
+        "city": "Staten Island",
         "country": "United States",
-        "lat": 37.7823,
-        "lon": -122.391
+        "lat": 40.6063,
+        "lon": -74.1774
       }
     },
     {
-      "value": "https://redirect-109be65e.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://nike-tailwind-ivanscarsella.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://thewabisabinook.com/wp-content/nf74nd/china/?email=3mail@a.b.c0",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Chiyoda City",
-        "country": "Japan",
-        "lat": 35.6916,
-        "lon": 139.768
-      }
-    },
-    {
-      "value": "https://souvik2857.github.io/Netflix-ui-clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://tolk.shorturl.lk/DjezFw",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "45.148.10.212",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
       "geo": {
         "city": "Amsterdam",
         "country": "Netherlands",
@@ -788,31 +116,7 @@
       }
     },
     {
-      "value": "http://swatii-git.github.io/Landing-Page",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pub-873fc6a3edb941c6a17f50911dfca518.r2.dev/dbm.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lnk.ink/ke1ax",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://imaayushkumar.github.io/IMAayush.github.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://docusign-ekn.daniel-siragusa-hubintrenational-com-s-account.workers.dev/e457bd5242113805",
+      "value": "http://kucoienlginx.webflow.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -824,13 +128,37 @@
       }
     },
     {
-      "value": "http://kap2228.github.io/Spotify",
+      "value": "http://blockchain-logiine.webflow.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://grcopthornewaterfrontsgapore.spahotel.guru/",
+      "value": "veltrixcapital.ai",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Fake recruiter campaign targets crypto developers with RAT",
+      "geo": {
+        "city": "Los Angeles",
+        "country": "United States",
+        "lat": 34.0515,
+        "lon": -118.2707
+      }
+    },
+    {
+      "value": "217.156.122.12",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+      "geo": {
+        "city": "Chisinau",
+        "country": "Moldova",
+        "lat": 47.0042,
+        "lon": 28.8574
+      }
+    },
+    {
+      "value": "http://prod2.konmune.de/k4wz5mohewfi1kq1",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -842,13 +170,211 @@
       }
     },
     {
-      "value": "http://yash2031v.github.io/Netflix-Clone-Deploy",
+      "value": "185.237.166.65",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations",
+      "geo": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.458,
+        "lon": 30.5303
+      }
+    },
+    {
+      "value": "185.237.166.241",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations",
+      "geo": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.458,
+        "lon": 30.5303
+      }
+    },
+    {
+      "value": "http://cloudapi.stream/uninstall/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure",
+      "geo": {
+        "city": "St Louis",
+        "country": "United States",
+        "lat": 38.6364,
+        "lon": -90.1985
+      }
+    },
+    {
+      "value": "185.237.166.242",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations",
+      "geo": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.458,
+        "lon": 30.5303
+      }
+    },
+    {
+      "value": "http://mines.cloudapi.stream/user_info",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure",
+      "geo": {
+        "city": "Lauterbourg",
+        "country": "France",
+        "lat": 48.9742,
+        "lon": 8.1851
+      }
+    },
+    {
+      "value": "83.142.209.11",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+      "geo": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.4504,
+        "lon": 30.5245
+      }
+    },
+    {
+      "value": "http://top.rodeo/server/remote3.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://offsai690-pixel.github.io/Amazon.Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
+    },
+    {
+      "value": "http://172.111.200.133:8090/login",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.0813,
+        "lon": 8.62711
+      }
+    },
+    {
+      "value": "http://upwoldiqloinhg-us.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Montreal",
+        "country": "Canada",
+        "lat": 45.5019,
+        "lon": -73.5674
+      }
+    },
+    {
+      "value": "91.193.17.117",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Threat Actor Targets Arabian Gulf Region With PlugX",
+      "geo": {
+        "city": "London",
+        "country": "United Kingdom",
+        "lat": 51.5123,
+        "lon": -0.0909
+      }
+    },
+    {
+      "value": "http://sailajpradhan.github.io/dema",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
+    },
+    {
+      "value": "http://tg.cloudapi.stream/get_sessions.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://roblox.com.ge/users/9763078609/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1109,
+        "lon": 8.68213
+      }
+    },
+    {
+      "value": "http://javed-tech-creator.github.io/LinkedIn-Login-Form",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.spotify-clone-silk-rho.vercel.app/",
+      "value": "android-protect.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Canis C2 Exposed: Previously Undocumented Cross-Platform ...",
+      "geo": {
+        "city": "Kansas City",
+        "country": "United States",
+        "lat": 39.0997,
+        "lon": -94.5785
+      }
+    },
+    {
+      "value": "27.102.138.45",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger",
+      "geo": {
+        "city": "Seongnam-si",
+        "country": "South Korea",
+        "lat": 37.4078,
+        "lon": 127.079
+      }
+    },
+    {
+      "value": "https://tiny-weekend-559341.framer.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3719,
+        "lon": 4.8829
+      }
+    },
+    {
+      "value": "http://netflix-clone-olive-two.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -860,61 +386,139 @@
       }
     },
     {
-      "value": "http://noor-1457.github.io/Spotify-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://bunch07apr.wasmer.app/",
+      "value": "https://ephemeral-marshmallow-93eeb9.netlify.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Hillsboro",
+        "city": "San Jose",
         "country": "United States",
-        "lat": 45.526,
-        "lon": -122.9874
+        "lat": 37.3394,
+        "lon": -121.895
       }
     },
     {
-      "value": "https://deutsh-apps-accounts.exciting-hodgkin.45-88-108-231.plesk.page/dbs/dkb/login.php",
+      "value": "http://sfrclak.com:8000/6202033",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack"
+    },
+    {
+      "value": "185.237.166.234",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations",
+      "geo": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.458,
+        "lon": 30.5303
+      }
+    },
+    {
+      "value": "pn-connection.pro",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "185.237.166.59",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations",
+      "geo": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.458,
+        "lon": 30.5303
+      }
+    },
+    {
+      "value": "http://45.74.4.179:3000/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1224,
+        "lon": 8.73979
+      }
+    },
+    {
+      "value": "https://136.0.141.138:8406/rcv/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Obfuscation Without Effort: Breaking a GIFTEDCROOK Stealer",
+      "geo": {
+        "city": "Haarlem",
+        "country": "Netherlands",
+        "lat": 52.3891,
+        "lon": 4.6563
+      }
+    },
+    {
+      "value": "aquasecurtiy.org",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK"
+    },
+    {
+      "value": "https://pusat-shopee1212.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Bremen",
-        "country": "Germany",
-        "lat": 53.1008,
-        "lon": 8.85483
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
       }
     },
     {
-      "value": "https://himanshu8in.github.io/netflix-clone/",
+      "value": "http://amazon-clone-lemon-eta.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://vishvgiri-gosai.github.io/AMAZON",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "216.128.9.226",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria",
+      "geo": {
+        "city": "Milan",
+        "country": "Italy",
+        "lat": 45.4642,
+        "lon": 9.1899
+      }
     },
     {
-      "value": "http://karam-samer.github.io/SemiCode-Nike",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "185.234.73.62",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations",
+      "geo": {
+        "city": "Poznan",
+        "country": "Poland",
+        "lat": 52.3791,
+        "lon": 16.9688
+      }
     },
     {
-      "value": "http://www.lnk.ink/sccvx/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "americanexpress-site.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Canis C2 Exposed: Previously Undocumented Cross-Platform ...",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://www.sassostatement.weebly.com/",
+      "value": "https://453689185217777.weebly.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -926,55 +530,97 @@
       }
     },
     {
-      "value": "https://sso-security.com/TW-TTAxa3vp5ihc",
+      "value": "http://www.web-dev-two-mu.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://azambeigh.github.io/Amazon-Clone/",
+      "value": "ivanti-vpn.org",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "https://winup.su/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "144.126.140.33",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
+      "geo": {
+        "city": "St Louis",
+        "country": "United States",
+        "lat": 38.6364,
+        "lon": -90.1985
+      }
+    },
+    {
+      "value": "http://netflix-clone-mauve-beta.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://membersercivemain.wasmer.app/",
+      "value": "142.11.206.73",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Detections for the Axios supply chain compromise",
+      "geo": {
+        "city": "Seattle",
+        "country": "United States",
+        "lat": 47.4941,
+        "lon": -122.294
+      }
+    },
+    {
+      "value": "http://zjoi87800-art.github.io/Rashid-violations-new",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://kcinnlogan.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "ndibstersoft.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Stolen Service Accounts Lead to Rogue Workstations and Deep AD Compromise"
     },
     {
-      "value": "http://thirumaleshdev.github.io/Spotify-Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "cloudapi.stream",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
     },
     {
-      "value": "https://g95x.xyz/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "cheekiez.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+      "geo": {
+        "city": "Syktyvkar",
+        "country": "Russia",
+        "lat": 61.6639,
+        "lon": 50.8163
+      }
     },
     {
-      "value": "http://faiza-03.github.io/spotify-clone",
+      "value": "https://solicitelimiteextradisponivelnu.s3.us-east-005.backblazeb2.com/aumento.html",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Washington",
+        "country": "United States",
+        "lat": 38.9072,
+        "lon": -77.0369
+      }
     },
     {
-      "value": "http://pradeepsoni8564.github.io/netflix-clone-practice-project",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://secure-kucooin_learn.typedream.app/",
+      "value": "https://metansechroaeaxtns.gitbook.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -986,43 +632,139 @@
       }
     },
     {
-      "value": "https://c.cerrajerialaspiedras.uy/dse_na4n/file.html?eta=galorz@b20fd3c1b124ff2ae6c058ddbeca103d44b6.net",
+      "value": "app-metrics-cdn.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Bogus website fakes virus scan, installs Venom Stealer instead",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "com-ae.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Hack-for-Hire Campaign Targets Journalists Across MENA Region"
+    },
+    {
+      "value": "https://igacorp.conohawing.com/auth-west/css/ping/secure/web.auth-webmail-web-con-secure-account-west.htm?eta=email@example.com",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "North Bergen",
-        "country": "United States",
-        "lat": 40.7964,
-        "lon": -74.0203
+        "city": "Chiyoda City",
+        "country": "Japan",
+        "lat": 35.6916,
+        "lon": 139.768
       }
     },
     {
-      "value": "http://www.program-shopee14.blogspot.com/",
+      "value": "http://www.linktr.ee/adoptmeplayserver7/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Mountain View",
+        "city": "Dallas",
         "country": "United States",
-        "lat": 37.4225,
-        "lon": -122.085
+        "lat": 32.7797,
+        "lon": -96.8022
       }
     },
     {
-      "value": "http://tanisharai21.github.io/Spotify_clone",
+      "value": "http://pietrocs18.github.io/Clone-Home-Page-Insta",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.lnk.ink/slodd/",
+      "value": "managew.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+      "geo": {
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "lat": 54.6876,
+        "lon": 25.2806
+      }
+    },
+    {
+      "value": "https://transitopalermo.com/config/hwmonitor/HWiNFO_Monitor_Setup.exe",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack",
+      "geo": {
+        "city": "Tampa",
+        "country": "United States",
+        "lat": 28.0109,
+        "lon": -82.4948
+      }
+    },
+    {
+      "value": "happyglamper.ro",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Investigating a new Click-fix variant",
+      "geo": {
+        "city": "Sf\u00e2ntu Gheorghe",
+        "country": "Romania",
+        "lat": 45.8609,
+        "lon": 25.7886
+      }
+    },
+    {
+      "value": "https://dryvecar.com/curl/04566d1d3f9717b2e7e6b643775d9ca72cef942f6df9ce075cf8c73a1bd2565a",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ClickFix Malware Uses macOS Script Editor to Deliver Atomic Stealer"
+    },
+    {
+      "value": "http://huzaifa-devpk.github.io/Amazon-UI",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://hub-allianz.vercel.app/",
+      "value": "103.140.186.148",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations",
+      "geo": {
+        "city": "Singapore",
+        "country": "Singapore",
+        "lat": 1.35208,
+        "lon": 103.82
+      }
+    },
+    {
+      "value": "http://sujaldhanwani.github.io/Netflix-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://api.mywalletsss.store/api/validate/system-info",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Polymarket Trader Funds at Risk: DPRK npm Package Steals Wallet Keys and Installs SSH Backdoor"
+    },
+    {
+      "value": "https://roblox.com.ge/games/109983668079237/SKIBIDI-Steal-a-Brainrot?privateServerLinkCode=23321253791728337152504588810031",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1109,
+        "lon": 8.68213
+      }
+    },
+    {
+      "value": "https://claiminvites07.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -1034,319 +776,61 @@
       }
     },
     {
-      "value": "http://thisisraif.github.io/spotify-clone1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://note-access-nj2w.rob-c2d.workers.dev/l/6zZdfiHej-k/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://dano36860.github.io/discord-login-page-clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "50.16.16.211",
+      "value": "144.172.99.248",
       "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)",
+      "source": "AlienVault OTX",
+      "description": "Tracking an OtterCookie Infostealer Campaign Across npm",
       "geo": {
-        "city": "Ashburn",
+        "city": "Staten Island",
         "country": "United States",
-        "lat": 39.0438,
-        "lon": -77.4874
+        "lat": 40.6063,
+        "lon": -74.1774
       }
     },
     {
-      "value": "https://ssra.closer.website/",
+      "value": "https://mpanjaka.weebly.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Falkenstein",
-        "country": "Germany",
-        "lat": 50.4777,
-        "lon": 12.3649
-      }
-    },
-    {
-      "value": "https://docusign-ghj.christina-parsons-charter-comm-com-s-account.workers.dev/c04099cdde3a7499",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://chetan980.github.io/spotify-chetan",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://lnk.ink/scvbn",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://kartik-324.github.io/Spotify-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://shardul1719.github.io/nike",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://abbasmatrixs.github.io/Amazon_Web_Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://facebook-clone-alpha-three.vercel.app/login",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://ca---coinsqure-cdn---auths.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://s4w.in/https-www-roblox-com-users-6293658274-profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://rohit775-ux.github.io/spotify-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://dilkesh06.github.io/Spotify_clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://inhouseplumbingcompany-sewer.pages.dev/dp/B0CP31QS6R",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.lnk.ink/kxmcn/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.lnk.ink/sewss/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dougtallmadge.github.io/amex-platinum-clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://prashantverma14.github.io/spotify-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://salaheddinena.github.io/facebook_clone_master",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.metamaskwalletcustomerservice.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Mountain View",
+        "city": "Oakland",
         "country": "United States",
-        "lat": 37.4225,
-        "lon": -122.085
+        "lat": 37.8086,
+        "lon": -122.269
       }
     },
     {
-      "value": "https://mmapphub.pages.dev/assets/%22yt3.ggpht.com/ytc/aidro_lss_0mayprfto-kpijfefydib5-rbhuzjqt_sb=s68-c-k-c0x00ffffff-no-rj%22/",
+      "value": "http://ropea.top:28313",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://storied-gecko-a22dbb.netlify.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.niike.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mansi-html.github.io/amazon-homepage-clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://amazon-js-tau.vercel.app/login.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://facebook-clone-rho-six.vercel.app/forgot",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://info.cloudinfolibrary.com/c/11JcPiL5Krfoak0ITOWfxM8XoTs",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Chicago",
+        "city": "San Jose",
         "country": "United States",
-        "lat": 41.8781,
-        "lon": -87.6298
+        "lat": 37.3394,
+        "lon": -121.895
       }
     },
     {
-      "value": "https://aether-mark.pages.dev/form_submit/*",
+      "value": "http://drymoge.biz:4192",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
       "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
+        "city": "Eygelshoven",
+        "country": "The Netherlands",
+        "lat": 50.8933,
+        "lon": 6.05805
       }
     },
     {
-      "value": "https://sso-security.com/S3yg6PnUTUoTTR4o",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://prentor-salvik-biz-grantil-vorlen-nd13kt12.pages.dev/account-support.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://sso-security.com/KDQAWOWR5vdkoD7ZrA",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://membersercivemain.wasmer.app/0ldcast1e",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://anshuman-sahu-dev.github.io/Netflix-Clone/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://governance-innovation-office.pages.dev/appeal_form",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://ahmadhussain99.github.io/javascript-amazon-project/amazon.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.lnk.ink/o8EC7/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://verifyofficedoc110640.enerprsekaha.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Dallas",
-        "country": "United States",
-        "lat": 32.7212,
-        "lon": -96.6765
-      }
-    },
-    {
-      "value": "https://sx-58.github.io/netflix.com-login/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://posta-co-ke.pics/ke",
+      "value": "http://pluspsg.org/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -1358,583 +842,3307 @@
       }
     },
     {
-      "value": "http://aditya-vrm.github.io/Netflix-Login-Page-Clone-Fully-Responsive-",
+      "value": "http://amazon-clone-taupe.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://sisayshimelash-collab.github.io/apple-clone-website",
+      "value": "http://harpreet6622singh-sketch.github.io/switchspotifyu",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://steamdoa1.duckdns.org/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Frankfurt am Main",
-        "country": "Germany",
-        "lat": 50.1169,
-        "lon": 8.6837
-      }
+      "value": "message.data",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
     },
     {
-      "value": "https://varkel-sonvik-biz-denter-halrex-sp7ct12.pages.dev/heartily_welcome?id=279147062199134&page_name=Invesco%20Mutual%20Fund",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://pub-2801359d2be54bfd8701132626efeb73.r2.dev/owoed.html",
+      "value": "https://roblox.net.pk/games/2146627/aaa?privateServerLinkCode=69480587198745324061507645478728",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://gemini.azure.liweihansweb.eu.org/",
+      "value": "http://chiemerievictor00-blip.github.io/Netflix-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://inuclo.com/wp-includes/assets/netflix/login.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Tokyo",
+        "city": "Chiyoda City",
         "country": "Japan",
-        "lat": 35.68,
-        "lon": 139.77
+        "lat": 35.6916,
+        "lon": 139.768
       }
     },
     {
-      "value": "https://sso-security.com/APGyQ7JvQ8ZS",
+      "value": "http://www.barcelona-facebook.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://amansingh930.github.io/Nike",
+      "value": "http://rajeekumarsingh.github.io/Netflix-demo",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://maintenance-center.pages.dev/appeal_form",
+      "value": "185.237.166.68",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations",
+      "geo": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.458,
+        "lon": 30.5303
+      }
+    },
+    {
+      "value": "http://tg.cloudapi.stream/get_session.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://amazon-clone-gray-omega.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
       }
     },
     {
-      "value": "http://bs-amxpj.com/",
+      "value": "https://bafkreibkrnq7vwyccyrf322eafvhql2d2sniurgizj432bqvj77qwsfr7q.ipfs.dweb.link/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://ogvishesh.github.io/Amazon-Clone",
+      "value": "185.237.166.55",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "https://www.trustwallet-connect.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "118.194.249.109",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "http://cloudapi.stream/install/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "self.run",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "North Korea's Contagious Interview Campaign Spreads Across 5 Ecosystems, Delivering Staged RAT Payloads"
+    },
+    {
+      "value": "https://www.airbnb-clone-randilw.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "bluegraintours.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Payroll pirate attacks targeting Canadian employees"
+    },
+    {
+      "value": "aurevian.cloud",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Fake recruiter campaign targets crypto developers with RAT"
+    },
+    {
+      "value": "http://sites.google.com/view/vieclam-onlineshopee/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://kucooinlogien.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://gemini.cgbingo.top/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.netflix-clone-rose-eight.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "gluckcreek.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://josegza.biz:8521",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://pacastatement2345.weebly.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "drymoge.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://www.nike-phasin.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://xpie348.online/instalador/update.xml",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "cloudapi.stream",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://roblox.com.ge/communities/6814093053/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dryvecar.com/cleaner3/update",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ClickFix Malware Uses macOS Script Editor to Deliver Atomic Stealer"
+    },
+    {
+      "value": "https://ebillfacturemail.flazio.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.226",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://krondez.com:28982",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://www.claiminvites05.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://chaitanya-92.github.io/NETFLIX-CLONE-Frontend/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://resplendent-basbousa-fc515d.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "144.172.110.228",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking an OtterCookie Infostealer Campaign Across npm"
+    },
+    {
+      "value": "texakgi.cloud",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://sekiya-souzoku.com/wp-includes/css/netflix/login.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://emanwebdv.github.io/EPICODE_M3-W4D4",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "27.102.137.38",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "https://s-10longs.ac10ao.dr-roudbaraki.ir/seys-sinspe.nunslogsn.s.l.la/ass/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "powerscrews.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New Lua-based malware LucidRook observed in targeted attacks against Taiwanese organizations"
+    },
+    {
+      "value": "https://inuclo.com/wp-includes/assets/netflix/card.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://architchaturvedi24.github.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://pub-341f5624d2bc4c8297dedbe9f6b13d25.r2.dev/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://check.nid-log.com/api/checkservice.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "http://sohamvibhandik71.github.io/amazon-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://akshatasc.github.io/Netflix_clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://tg.cloudapi.stream/save_session.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://help---cloud--ledger.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://kanishka2204.github.io/amazon-homepage-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://144.126.140.33:5000",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "https://main.mon2gate.net/modules/wallets",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "185.237.166.71",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "vpn-fortinet.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "http://llbbs.zeabur.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "noreplymail.space",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "http://aqeel8211.github.io/netflix-frontend",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/help/contact/295890604759806",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://endearing-uodatemailbox.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "en-account.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Hack-for-Hire Campaign Targets Journalists Across MENA Region"
+    },
+    {
+      "value": "38.32.68.195",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks"
+    },
+    {
+      "value": "https://www.illuminatistudios.net/mobile/viewer.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "50.16.16.211",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "rlim.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "The long road to your crypto: ClipBanker and its marathon infection chain"
+    },
+    {
+      "value": "185.237.166.243",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "connectads.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "http://shrill-credit-34ad.eugeniebenoits397.workers.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://vaasu0777.github.io/Facebook-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "88.3.137.237",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "http://ledgerdesktop.live/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://icloudrastreio.live/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "sifr-infso.club",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "serialmenot.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "CastleRAT attack first to abuse Deno JavaScript runtime to evade enterprise security"
+    },
+    {
+      "value": "http://protocolovirtual.org",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "https://www.geminui_login.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://nitroca.biz:6782",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://micminecraft1.github.io/lesson5",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://omii1707.github.io/Amazon-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://navelum.biz:3201",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://yst.remenci.cn/uipowebkd0/Earthcorenew-jp/index.php?uid=halor2@4f573b169843640676644c08f6bf260abe66.net",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "ropea.top",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://intem.lat:9592",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "krondez.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "136.0.141.138",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Obfuscation Without Effort: Breaking a GIFTEDCROOK Stealer"
+    },
+    {
+      "value": "http://ecert.am/.well-known",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "profile.name",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/174515818466/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://cahayailmukreatif.web.id/sw-content/template/hwmonitor/hwinfo_monitor_setup.exe",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "http://buccstanor.pics:28313",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "redirectingherenow.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Phishers hide scam links with IPv6 trick in 'free toothbrush' emails"
+    },
+    {
+      "value": "http://amh012-hu.github.io/Fake-Page",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://vanshika2006rajput.github.io/Netflix_Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://transitopalermo.com/config/hwmonitor-pro/hwmonitorpro_1.57_setup.exe",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "https://dwjao7388g6bysaud3465w7ayvwd73698adfbiu.pages.dev/verify.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://reemmkk.github.io/reem.github.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mansfieldpediatrics.com/ledger/b2955c54eb0c047463993b379e015e737aabed37b4",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "http://mata-masxxk-logijiiz.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://tg.cloudapi.stream/delete_session.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "185.237.166.72",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://remnane.biz:5692",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://api.mywalletsss.store/api/validate/project-env",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Polymarket Trader Funds at Risk: DPRK npm Package Steals Wallet Keys and Installs SSH Backdoor"
+    },
+    {
+      "value": "febystm.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "144.172.110.132",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking an OtterCookie Infostealer Campaign Across npm"
+    },
+    {
+      "value": "185.237.166.229",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "185.237.166.235",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://prickaz.biz:2039",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://amusing-command-177425.framer.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://coinbasebasprologin.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.rewardnow.xyz/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://94.228.161.88:443",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Leverage Claude Code Leak as Social Engineering Lure to Distribute Malicious Payloads via GitHub"
+    },
+    {
+      "value": "http://mansfieldpediatrics.com/gate?buildtxd=b2955c54eb0c047463993b379e015e737aab",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "http://chromap.biz:4219",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://sirib-24.github.io/Spotify-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "129.224.206.195",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "http://roblox-urlshare.com/people/7936348760/login",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://auth.qgtxtebl.workers.dev",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack"
+    },
+    {
+      "value": "houstongaragedoorinstallers.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "http://amazon-clone-sable-nu.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ayesha1178.github.io/deploy-project2",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.claiminvites02.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://account.apple-idd.com/sign-in/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://vatrobran.hr/en-GB/info/cpu-z/cpu-z_2.19-en.zip",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "162.243.103.246",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (Emotet)"
+    },
+    {
+      "value": "sfrclak.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack"
+    },
+    {
+      "value": "185.237.166.238",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "navelum.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "185.237.166.60",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://amnakram670.github.io/netflix",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "callnrwise.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack"
+    },
+    {
+      "value": "http://netflix-clone-responsive-brown.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.claiminvites03.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://solicitescoreprime.s3.us-east-005.backblazeb2.com/aumento.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://f.digitalmaillane.com/igit/4/ahly9m6Vh5z74o7iysV2u9VdrfextVhsxVuumV5iVyVr",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.shopee2444.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "107.189.22.20",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking an OtterCookie Infostealer Campaign Across npm"
+    },
+    {
+      "value": "162.255.119.150",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "http://www.ssra.closer.website/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.64",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "https://refundonex.com/admin/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "45.74.4.179",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "185.237.166.70",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "coox.live",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "codepool.cloud",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Fake recruiter campaign targets crypto developers with RAT"
+    },
+    {
+      "value": "http://cconnects-xfinity.weebly.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "baxe.pics",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "winup.su",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "185.237.166.230",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://divorcemenadvice.highheelsplace.com/.well-known/VR/Login.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.gnigginnlahld.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "redbluffchamber.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "https://site-rbzj79ege.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dwjao7388g6bysaud3465w7ayvwd73698adfbiu.pages.dev/verify",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "chromap.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://bank-america-ten.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://elazigyapilab.com/zmncbvcwsdkmnmlkjh/bzqq.html?eta=",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://learn-en-bridge-sso.typedream.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "zadno.run",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "carweap.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "http://xpie348.online/instalador/get_token.ps1",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "http://shashankrai-cse.github.io/First-Project",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://enbdx.net/nbg/web/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://vanshita613.github.io/AMAZON-CLONE",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://kucoinuylogin.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "103.226.132.7",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "http://chanchalkushwaha.github.io/Amazon-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://managew.biz:5902",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://cloudflare.report/forever/e/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Investigating a new Click-fix variant"
+    },
+    {
+      "value": "http://info-payeasy.com/pages/overview.html",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Canis C2 Exposed: Previously Undocumented Cross-Platform ..."
+    },
+    {
+      "value": "http://siltsoh.biz:7481",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "eshareflies.im",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "In-Memory Loader Drops ScreenConnect"
+    },
+    {
+      "value": "process.name",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Detections for the Axios supply chain compromise"
+    },
+    {
+      "value": "http://organic-essentials-958163.framer.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://courageous-eclair-45cdc4.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://robllx.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "descarga-smtr.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A new Android RAT turning infected devices into potential residential proxy nodes"
+    },
+    {
+      "value": "info-payeasy.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Canis C2 Exposed: Previously Undocumented Cross-Platform ..."
+    },
+    {
+      "value": "cisco-secure-client.es",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "http://mansfieldpediatrics.com/dynamic?txd=b2955c54eb0c047463993b379e015e737aabed",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "http://mines.cloudapi.stream/slot_test/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "visionresearch.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "http://check.nid-log.com/api/bootservice.php?tag=",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "https://pandaman.ovh/panda/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://murlikishan8-create.github.io/amazon-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://netcoinzlogin.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://144.126.140.33:3000",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "169.40.2.68",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Adobe Reader 0-day"
+    },
+    {
+      "value": "59.124.71.242",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "New Lua-based malware LucidRook observed in targeted attacks against Taiwanese organizations"
+    },
+    {
+      "value": "http://www.supremelegend.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.234.73.61",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://messages.319447.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://lkrishnaveni27990.github.io/amazon",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "dryvecar.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "ClickFix Malware Uses macOS Script Editor to Deliver Atomic Stealer"
+    },
+    {
+      "value": "http://144.126.140.33:3000/openapi.json",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "122.228.193.115",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "http://shukalbrinda-byte.github.io/portfolio",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "188.214.34.20",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Adobe Reader 0-day"
+    },
+    {
+      "value": "remnane.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "forestoaker.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "forticlient.co.uk",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "144.126.135.238",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "103.254.16.168",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "mansfieldpediatrics.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "https://claiminvites03.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.koucoinlogm.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.63",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://coox.live:28313",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "filegrowthlabs.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "ivanti-pulsesecure.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "185.237.166.56",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "94.228.161.88",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Leverage Claude Code Leak as Social Engineering Lure to Distribute Malicious Payloads via GitHub"
+    },
+    {
+      "value": "profile.email",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://senecasy2k.github.io/my-login-page/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://refundonex.com/cloud/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "http://gauravprajapati03.github.io/Netflix-UI-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://en---lldgerlive-auth.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.66",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://pt-shopee1678.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://indirasneha.github.io/Spotify-UI-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://mansfieldpediatrics.com/curl/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "80.97.160.155",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://zadno.run:4219",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://filegrowthlabs.com/s3/?c=AA-",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "https://www.claiminvites01.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "mywalletsss.store",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Polymarket Trader Funds at Risk: DPRK npm Package Steals Wallet Keys and Installs SSH Backdoor"
+    },
+    {
+      "value": "https://vatrobran.hr/en-GB/info/hwmonitor/hwmonitor_1.63.zip",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "https://endrika.weebly.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "hostroids.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Q1 2026 Malware Statistics Report for Windows Database Servers"
+    },
+    {
+      "value": "https://novel-estimate-626884.framer.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://gluckcreek.online:48261",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://vatrobran.hr/en-GB/info/hwmonitor-pro/HWMonitorPro_1.57_Setup.exe",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "nid-log.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "https://claiminvites09.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://lazzo.bet:3989",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "64.244.34.200",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "103.140.186.155",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "222.122.49.15",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks"
+    },
+    {
+      "value": "http://ilovepng.info:8444/data",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "A new Android RAT turning infected devices into potential residential proxy nodes"
+    },
+    {
+      "value": "http://pt-shopee9589.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://tg.cloudapi.stream/count_sessions.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://www.metamaskwallett.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.58",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "185.237.166.75",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://www.infohadiah431.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "forticlient-vpn.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "http://geminiloginguidexchng.github.io/en",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.roblox.com.ml/users/243671918813/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.234.73.58",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://kocindt-logixnlkg-io.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://borscer.biz:9592",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://strat--leidgre--com.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.61",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "https://www.roblox.com.ml/users/466118216128/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://yashwantpenneru.github.io/Amazon-Clone1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://147.45.197.92:443",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Leverage Claude Code Leak as Social Engineering Lure to Distribute Malicious Payloads via GitHub"
+    },
+    {
+      "value": "http://mannan2010.github.io/insta.design/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.redirect-109be65e.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/487815985866/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.231",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://uphuul-lgaan.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://secures-top-notch-site.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://deepika190207.github.io/AmazonCloneProject",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.62",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://forestoaker.com:6290",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "refundonex.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "185.237.166.246",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "ios-deviceprotect.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Canis C2 Exposed: Previously Undocumented Cross-Platform ..."
+    },
+    {
+      "value": "mrchexp.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "https://urlyte.com/y1v0v",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "woodena.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://texakgi.cloud:3849",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "109.205.211.13",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Q1 2026 Malware Statistics Report for Windows Database Servers"
+    },
+    {
+      "value": "https://reservaaurea.s3.us-east-005.backblazeb2.com/aumento.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://oy.yiygwl.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ritsbrowser.com/membership/inc/js/made.in.chine/membercenter.made-in-china.com/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "interalt.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://pemenangshopee97.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "87.121.52.71",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "ado-read-parser.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Adobe Reader 0-day"
+    },
+    {
+      "value": "https://chaseonlineacces.github.io/CHASE-BANK",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "applesecurity.pro",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Canis C2 Exposed: Previously Undocumented Cross-Platform ..."
+    },
+    {
+      "value": "nitroca.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://po.tiffnuae.online/?documents",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://shopeeid84.blogspot.com/?m=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "87.121.52.72",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "youtubepremiumapp.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Hack-for-Hire Campaign Targets Journalists Across MENA Region"
+    },
+    {
+      "value": "https://linktr.ee/semroblox",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sfrclak.com:8000",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack"
+    },
+    {
+      "value": "https://bianvanosu.sbs/two.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "forticlient-vpn.fr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "https://www.pusat-shopee1212.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.netflix-clone-ruby-beta.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "forticlient.ca",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "http://mandalacraft.ro/lop/admin%20verify",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.247",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://deepakg2.github.io/Amazon-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mosaiftech89.github.io/amazon_clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "prickaz.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://mansfieldpediatrics.com/curl/b2955c54eb0c047463993b379e015e737aabed37b456a",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "https://linkurl.pk/02-x8giU",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "149.104.29.165",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Q1 2026 Malware Statistics Report for Linux SSH Servers"
+    },
+    {
+      "value": "https://welcome.supp0v3.com/d/callback",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "64.44.154.227",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://edoctransfer.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.228",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://tusharchaudhary08.github.io/Amazon-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.225",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://sunil10das-ytmx.github.io/Netflix-clone-",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://arashonline.com/mile/secure-mail/index.php?uid=delos7@cc00a565bbe628fb5a9742450a3f1658dcae.net",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "lazzo.bet",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://mustafa-rbiah.github.io/Amazon-Full-Scale-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://homepageclone-netflix.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.claiminvites08.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "nobleckly.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://roblox.com.ge/games/920587237/Adopt-Me?privateServerLinkCode=89312345882143438185581957828435",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.kucoicnlogmnus.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://deilboy.github.io/amazon-",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ug/communities/7263805065/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://welcome.supp0v3.com/d/callback",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "forticlient.no",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "http://tigo2.business/Login/N/Myaccount.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://shopeejkt8599.blogspot.com/?m=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://api.cloudapi.stream:8443/Register",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "xpie348.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "sophos-connect.org",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "http://viktor-angelo.github.io/instagram-login-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.245",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://craftopiacraftandart-beep.github.io/paypage",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://s-10longs.ac10ao.dr-roudbaraki.ir/seys-sinspe.nunslogsn.s.l.la/ass/identifier-1.html.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "cloudflare.report",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Investigating a new Click-fix variant"
+    },
+    {
+      "value": "amanur.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "http://api.cloudapi.stream:8443/Translation",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "padaz.pics",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "microsoft-update.support",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "This fake Windows support website delivers password-stealing malware"
+    },
+    {
+      "value": "http://ilovepng.info:8443/control",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "A new Android RAT turning infected devices into potential residential proxy nodes"
+    },
+    {
+      "value": "http://usmaanali4904.github.io/SPOTIFY-CLONE",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ruangdev.com/ip/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://pub-e7b64c658d8647888de66296dd65df4a.r2.dev/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://amazon-clone-project-khaki.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ipfs.io/ipfs/bafybeifsyhukwxrdgwgifdv2gmxmronz7tadkdfzmukc7xejcddfvfd744",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.shopeecoid34.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://netflix-clone-phi-blush-77.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "parky.pics",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "x1337.cc",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities"
+    },
+    {
+      "value": "http://www.6fpe9r3r.cc/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.o-shop.com/pl/categories/ubrania-nakrycie-glowy-1231265020.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://app-io--trezr.gitbook.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://futuraitech.github.io/metamask/restore.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://woodena.biz:7821",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://shortlink.st/MP-VyC3C",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://m.fyqn9810la0y.com:9229/account/reg",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "webuk.tech",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://check.nid-log.com/api/finalservice.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "http://birtmwlogin.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://api.mywalletsss.store/api/validate/files",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Polymarket Trader Funds at Risk: DPRK npm Package Steals Wallet Keys and Installs SSH Backdoor"
+    },
+    {
+      "value": "http://mines.cloudapi.stream/auth_google",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://gigmilogeny.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.com.ge/users/8042281161/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "neremedysoft.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Stolen Service Accounts Lead to Rogue Workstations and Deep AD Compromise"
+    },
+    {
+      "value": "https://www.netflix-clone-taupe-beta.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.69",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "sfrclak.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "NPM Package Supply Chain Compromise Leads to RAT Deployment"
+    },
+    {
+      "value": "http://sfrclak.com:8000/6202033",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Detections for the Axios supply chain compromise"
+    },
+    {
+      "value": "https://mirzamuhammadjawadalikazmi.github.io/Netflix-UI-clone/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://mayank25k.github.io/netflix-showcase",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "certificadosuporte.com.br",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "64.44.154.239",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "https://netcoinlogi-account.webflow.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://abdulrahman-medhat.github.io/Netflix",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://sso-security.com/mtUi1Qcv3MpwZeaO",
+      "value": "https://wallxnet.cm-at.sbs/restore/blog/introducing-the-walletconnect-foundation.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "178.62.3.223",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "https://vatrobran.hr/en-gb/info/hwmonitor/hwinfo_monitor_setup.exe",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
     },
     {
-      "value": "http://lucas-varga.github.io/clone-instagram",
+      "value": "https://www.roblox.com.et/games/121864768012064/-Fish-It-?privateServerLinkCode=52691617027143373441640338791968",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://parky.pics:3989",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "217.156.122.75",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://auth.qgtxtebl.workers.dev",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack"
     },
     {
-      "value": "https://nike-cyan-three.vercel.app/",
+      "value": "http://storagenet.b-cdn.net/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.lnk.ink/ajAMK2/",
+      "value": "https://ipfs.io/ipfs/bafybeihfrgxaxs3mujo2k77nw6afqgr22qzlvvapruxd6c3qtyqyzk5kze?filename=Ondedriveany.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://daniquinto.github.io/streaming-platform/",
+      "value": "http://144.126.140.33:3000/api/users",
       "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "http://backbou.biz:5902",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "withheldforprivacy.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "http://noreplymail.space/BitJoker/bootservice.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "http://shopee8559.blogspot.com/",
+      "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://nike-website-landing-page.vercel.app/",
+      "value": "http://reemmkk.github.io/reem.github.io",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://chalx.live:5902",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://x0.at/qOfN.msi",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "In-Memory Loader Drops ScreenConnect"
+    },
+    {
+      "value": "http://japanroom.com/board/DATA/1288247428101.jpg",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks"
     },
     {
-      "value": "https://sso-security.com/1QSgLcdMffBPMQ",
+      "value": "devicesecurity.pro",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Canis C2 Exposed: Previously Undocumented Cross-Platform ..."
+    },
+    {
+      "value": "http://www.hadiahshopee333.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://cloudflare.report/forever/e/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Investigating a new Click-fix variant"
+    },
+    {
+      "value": "86.107.168.103",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://lnk.ink/nccvb",
+      "value": "http://suspp-abo.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://executioncopy-7f6.vpuri-outpastmgt-com-s-account.workers.dev/b22ae98a04e32aba",
+      "value": "https://roblox.gs/users/1735192530/profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://outcrol.biz:4895",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://singhanmol1866web.github.io/amz-project/",
+      "value": "https://roblox.cd/games/99567941238278/Ink-Game?privateServerLinkCode=90631813262730331057510286960013",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.music-application-flax.vercel.app/",
+      "value": "https://sureddyyashu604-art.github.io/Amazon",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "130.94.29.111",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
     },
     {
-      "value": "https://sso-security.com/6XJxKJRWki9G8IAc",
+      "value": "http://roblox.com.ge/login?returnUrl=4911999381644858",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://lnk.ink/sdxas",
+      "value": "checkpoint-vpn.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "http://padaz.pics:4219",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://info-payeasy.com/assets/index-DdmV8luQ.js",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Canis C2 Exposed: Previously Undocumented Cross-Platform ..."
+    },
+    {
+      "value": "sonicwall-netextender.nl",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "sfrclak.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Detections for the Axios supply chain compromise"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/413403384753/profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "103.140.186.149",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "144.172.116.22",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking an OtterCookie Infostealer Campaign Across npm"
     },
     {
-      "value": "https://facebook-login-app.blogspot.com/",
+      "value": "27.102.137.150",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "https://www.shopeeid84.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://guileless-mousse-759847.netlify.app/",
+      "value": "https://app-io--trezr.gitbook.io/us",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "hchdko.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "http://45.74.4.179:8080/admin/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "https://welcome.supp0v3.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "http://top.rodeo/notify.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://rti.cargomanbd.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Leverage Claude Code Leak as Social Engineering Lure to Distribute Malicious Payloads via GitHub"
     },
     {
-      "value": "http://nishasinghh.github.io/spotify-clone",
+      "value": "http://filegrowthlabs.com/s3/?c=AA-0uWlVgQUAHYwCAFVTOQASAAAAAACP",
       "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Stealer Campaign Impacting SLTT macOS Users"
+    },
+    {
+      "value": "https://www.tvnoom.net/",
+      "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://account-securecheck.com/243900728/",
+      "value": "https://akashsajwan22.github.io/amazon_clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://sso-security.com/ULBieBxVevHjsNht",
+      "value": "http://balaishatbd.com/MSK/sf_marley/sf_marley",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "buccstanor.pics",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "144.172.93.253",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking an OtterCookie Infostealer Campaign Across npm"
     },
     {
-      "value": "http://baba-jeje.github.io/Nike-YT-",
+      "value": "http://charles0781.github.io/Final-Court-Demand-On-Outstanding-Fee-Due/Final%20Court%20Demand%20On%20Outstanding%20Fee%20Due",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "josegza.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "http://pub-7d056bfeb6b04852801553620fe62c0a.r2.dev/brtw.html",
+      "value": "https://mmex-robuux2025.netlify.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://transitopalermo.com/config/hwmonitor/hwmonitor_1.63.zip",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
     },
     {
-      "value": "http://mudassirraheel.github.io/Nike-clone",
+      "value": "http://shambhaviranjan.github.io/NetflixClone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://idipakpatil.github.io/Spotify-Clone-Main",
+      "value": "http://amit005ee.github.io/netflix-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://dev-mohamedsameh.github.io/Nike-Limited-Edition",
+      "value": "http://abdullahcreate.github.io/homepage-with-bootstrap",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "myconnection.pro",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "http://baxe.pics:48261",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "51.79.185.184",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "https://files.catbox.moe/wzsjlw.dll",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack"
     },
     {
-      "value": "http://anchitabhutani.github.io/Spotify-Clone",
+      "value": "https://pub-b0533a4f25fd47429514431d6c1a1d7b.r2.dev/index.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.244",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
     },
     {
-      "value": "http://www.facebooktechnicalsupportnumber123.blogspot.com/",
+      "value": "http://ahmadtazkaragi.github.io/EasyBank",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://picodeevolucao.s3.us-east-005.backblazeb2.com/aumento.html",
+      "value": "illuminatistudios.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "1.34.253.131",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "New Lua-based malware LucidRook observed in targeted attacks against Taiwanese organizations"
+    },
+    {
+      "value": "http://web-dev-two-mu.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://cert04apr.wasmer.app/belgardcalifornia",
+      "value": "http://bafkreif53ncude4ebyiwztjytjovx4bscmgigkmy2sob27fhnassk4tcxq.ipfs.dweb.link/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "uncork.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "https://refundonex.com/cloud/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "http://vinte.online:28313",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "http://vishaltalekar05.github.io/Shoes-Brand-Nike",
+      "value": "http://rahul010620.github.io/amazon-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "cahayailmukreatif.web.id",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "adveryx.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://attcurrentlymaill.weebly.com/",
+      "value": "http://172.111.200.133:8090",
       "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "forticlient-vpn.it",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "185.237.166.57",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://kucoinnloogiin.webflow.io/",
+      "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://hr-notification.github.io/ideal-disco/",
+      "value": "http://secure-bridge-web.typedream.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://facebook-clone-rho-six.vercel.app/signin",
+      "value": "https://www.cus-tom-er-sup-port-pro-cry-pto.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "45.151.106.110",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "http://haris-dotcom-dotcode.github.io/spotify-clone-using-only-html-css-js",
+      "value": "http://naveenkumar7449.github.io/netflix-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.236",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://buccstanor.pics:48261",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "38.60.220.135",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
     },
     {
-      "value": "http://f.digitalmaillane.com/igit/4/959avj1Xhx6e4o7iysX2u9XdlegwisXhsxXwumX5iXyXr",
+      "value": "japanroom.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks"
+    },
+    {
+      "value": "https://www.pemenangshopee97.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://niike.vercel.app/",
+      "value": "http://geominnee_lougganiz.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://nike-project-kappa.vercel.app/",
+      "value": "http://facebooklogin2022.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://check.nid-log.com/api'",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
     },
     {
-      "value": "http://ai.gaohaojia.top/",
+      "value": "https://bafkreidnutv2w7w5l2pod3ckjcvp5mqfljnw2gssi52nfgxdw7vkcit7ki.ipfs.dweb.link/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://lnk.ink/NEZSw",
+      "value": "http://www.hub-allianz.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.237",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "ivanti-secure-access.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft"
+    },
+    {
+      "value": "185.237.166.67",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
     },
     {
-      "value": "http://jatingarg313.github.io/spotify-clone",
+      "value": "https://www.roblox.com.et/games/109983668079237/Steal-a-Brainrot?privateServerLinkCode=52691617027143373441640338791968",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.227",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://interxo.biz:7481",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "http://sanketk77.github.io/spotify-clone",
+      "value": "144.172.93.169",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking an OtterCookie Infostealer Campaign Across npm"
+    },
+    {
+      "value": "http://sujeetkumar3956.github.io/amazon-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://caixadirecta-sinal.com/",
+      "value": "http://auctionsyahoojapan.github.io/-1_28_2026-1-30-39-PM-",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.spotify-clone-eight-sepia.vercel.app/",
+      "value": "https://tokenclaimingsessions011.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "borscer.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://sso-security.com/r7LK9hjKuGWcNqNb",
+      "value": "http://syedasiddiqa.github.io/Netflix-Landing-page-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "chiaselinks.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "The long road to your crypto: ClipBanker and its marathon infection chain"
+    },
+    {
+      "value": "http://172.111.200.133:8080/admin/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "interxo.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://check.nid-log.com/api/bootservice.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
     },
     {
-      "value": "http://riyakharotia.github.io/Spotify-clone",
+      "value": "http://itzz-07.github.io/Happy-Birthday-",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "siltsoh.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "http://www.lnk.ink/kskds/",
+      "value": "http://faiz237.github.io/amazon-homepage-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://devansh391k.github.io/SPOTIFY-CLONE-PROJECT",
+      "value": "http://pt-shopee4559.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://kesepost.qpon/ke",
+      "value": "http://infohadiah727.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://sso-security.com/wp5U6pjeHkDA",
+      "value": "185.237.166.240",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "https://mettamaskcryptollogin.webflow.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "protocolovirtual.org",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
     },
     {
-      "value": "https://postaco.eu.cc/ke",
+      "value": "https://www.coinbasebasprologin.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://ad-account-control-center-57t.pages.dev/appeal_form",
+      "value": "64.44.154.238",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://kkoinnn_loggin.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "27.133.154.218",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
     },
     {
-      "value": "https://postaacoke.cfd/ke",
+      "value": "https://allegrolokalnie.pl-30129.lol/logowanie",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://akpk2e9aqj.us-east-2.awsapprunner.com/",
+      "value": "http://anusriyacp.github.io/amazon-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://swisborg-lgn.webflow.io/",
+      "value": "https://historic-ai.github.io/Amazon-JS-project/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://ganbangmcertinfo.wasmer.app/contact-us",
+      "value": "transitopalermo.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "vinte.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://niharika0732.github.io/Project_Sem1",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://wdmillvillagegolfclubbwsignaturecollection.spahotel.guru/",
+      "value": "https://offsai690-pixel.github.io/Amazon.Clone/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://gretor-stanvil-biz-melrix-plantor-nd13kt12.pages.dev/business.html",
+      "value": "https://capitalonem.pages.dev/lsk-wallet/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "vatrobran.hr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "CPU-Z & HWMonitor, cpuid.com, Watering Hole Attack"
+    },
+    {
+      "value": "http://bluegraintours.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Payroll pirate attacks targeting Canadian employees"
     },
     {
-      "value": "https://sso-security.com/Kf_pJ5mj-9tFpjUd",
+      "value": "https://sekiya-souzoku.com/wp-includes/css/netflix/card.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://litter.catbox.moe/zqqxb3.txt",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack"
     },
     {
-      "value": "http://961patilashwini-code.github.io/My-project",
+      "value": "http://kucoicnlogmnus.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "185.237.166.239",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "185.237.166.224",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
     },
     {
-      "value": "http://bhumikabhilkar.github.io/Mera-Spotify-clone",
+      "value": "http://pranav0923.github.io/Amazon-Clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://ldger-live-desktop.wixstudio.com/us-en",
+      "value": "185.237.166.73",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "https://www.claiminvites07.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://mehulcfz.github.io/Spotify-Clone",
+      "value": "http://shrutiilad.github.io/spotify-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.lnk.ink/muYTO/",
+      "value": "http://www.claiminvites09.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://144.126.140.33:3000/admin",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "185.237.166.74",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
     },
     {
-      "value": "https://coinsqare-logi.gitbook.io/",
+      "value": "http://kaoaoinlogi.webflow.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://spotify-clone-blue.vercel.app/",
+      "value": "http://syeds05.github.io/Facebook-",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://veduu27.github.io/spotify_clone",
+      "value": "http://auttomicwalleti.webflow.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "147.45.197.92",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Leverage Claude Code Leak as Social Engineering Lure to Distribute Malicious Payloads via GitHub"
+    },
+    {
+      "value": "ilovepng.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A new Android RAT turning infected devices into potential residential proxy nodes"
     },
     {
-      "value": "https://sharmaveer20022-ai.github.io/project-four/",
+      "value": "http://chetanbaviskar.github.io/Spotify",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://top.rodeo/server/remote.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "37.27.244.222",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day"
     },
     {
-      "value": "https://matheus0liveir4.github.io/Pagina-Inicial-Spotify/",
+      "value": "https://roblox.com.ge/games/102168567330694/Character-Talk?privateServerLinkCode=49006581650754327616444235289342",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.lnk.ink/hsnxc/",
+      "value": "http://curious-crepe-48aaec.netlify.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://utpalr533.github.io/Projects",
+      "value": "83.142.209.203",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK"
+    },
+    {
+      "value": "chalx.live",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://tolk.shorturl.lk/jRUMHL",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www-roblox.co/users/428769438/profile",
+      "value": "https://roblox.cd/users/3064645976/profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://roblox.com.ge/communities/2828180785/",
+      "value": "http://www.shopee-inc1212.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://lnk.ink/scvdd",
+      "value": "http://tg.cloudapi.stream/save_title.php",
       "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://claiminvites08.vercel.app/",
+      "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.lnk.ink/aJBzY/",
+      "value": "http://aman123443.github.io/Netflix-Clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://eshareflies.im/ad/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "In-Memory Loader Drops ScreenConnect"
     },
     {
-      "value": "http://onlinepharmacygx.com/",
+      "value": "https://www.pt-shopee4559.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://customer-support-system-case-resolution-unit.pages.dev/appeal_form",
+      "value": "http://playful-swan-62d553.netlify.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://facebook-gpt-5-recreation.pages.dev/",
+      "value": "http://kadimisettijaswanth.github.io/netflixclone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "172.111.200.133",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
     },
     {
-      "value": "https://info.cloudinfolibrary.com/c/11JcL9Pk1cEUwV7y1JNQiArcgrx",
+      "value": "https://www.claiminvites06.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.spertonstatement.weebly.com/",
+      "value": "https://roblox.com.ge/users/305636206/profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.nike-website-landing-page.vercel.app/",
+      "value": "http://microsoft-home-page-clone.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://facebook-clone-alpha-three.vercel.app/",
+      "value": "https://medical-kolbe.de/CYON-TEAM",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://ganbangmcertinfo.wasmer.app/klamathpacific",
+      "value": "http://hamzachehlaoui.github.io/login/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://91.193.17.117:443",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actor Targets Arabian Gulf Region With PlugX"
+    },
+    {
+      "value": "intem.lat",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://whats-six.vercel.app/",
+      "value": "https://ahmedsiddiqui1948-tech.github.io/Amazon-clone/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://cert04apr.wasmer.app/ritz-carlton",
+      "value": "http://www.lolk-azure.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -1946,313 +4154,223 @@
       "description": "Botnet C2 (QakBot)"
     },
     {
-      "value": "http://geminui_login.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://salipro.work/Bellnet%20with%20cover/webmail.en.bellnet.cauxindex.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://wwwnike.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://m.bet-jinsha.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.lnk.ink/sidld/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://enlive-desktop.wixstudio.com/en-desktop",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.facebook-project-seven.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.legendsdrop.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://postao.eu.cc/ke",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sebinic932-dev.github.io/amazon",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://linkurl.pk/On2MFd8d",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bafybeicdaibqcinsl5c2zhd7jgycr5pefqe3bann36wpwwqi2gmjnbzb6u.ipfs.dweb.link/newtimen.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://kucoineeloginn.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://hussenyasin.github.io/yrs/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.trezrsuiteweb.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://renjith-baby.github.io/LinkedIn/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://hr-notification.github.io/laughing-giggle",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sso-security.com/SsmBxd6J7So",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://netflixpractice-sooty.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://welcome-kucoiin-io-cdn-auth.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dyd-qhx-biz-rkp-vbn-sp3ct1.pages.dev/form_submit_appeal/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://softwaredev-ezinneo.github.io/dashnetflix/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://hamza-alikhan10.github.io/music-site",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://yungjuice777.github.io/Netflix-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://harish20046.github.io/Netflix-website",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.com.ug/users/7522076790/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://metaumasuiuicklogo.gitbook.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://executioncopy-7f6.vpuri-outpastmgt-com-s-account.workers.dev/?email=target@example.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://pub-db4d563e83a84e1ca7043c92ba3a1be2.r2.dev/bindex1.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://qenvor-biz-xarlix-3n03t26.pages.dev/system_violation_notification/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://gh057fr34k.github.io/html/facebookmobile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://ganbangmcertinfo.wasmer.app/crhprotikomunitam",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rafael-procopio.github.io/Spotify-landin-page/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.claiminvites04.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://payalahuja18.github.io/my-project",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sso-security.com/kzYP30WE1epo",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://nownerbestesreal.github.io/esrealowerbestin/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://58a5-rfki-yn4n.adobe-signature-sharedoc-mail-com-s-account.workers.dev/f6b9d752ce6dc34c?email=a",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.facebook-faq.se/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://lnk.ink/sxcsq",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "162.243.103.246",
+      "value": "129.224.207.215",
       "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (Emotet)"
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
     },
     {
-      "value": "https://ad-account-policy-check-center.pages.dev/appeal_form",
+      "value": "outcrol.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://45.74.4.179:8090/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "redirectofferid.pro",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Phishers hide scam links with IPv6 trick in 'free toothbrush' emails"
+    },
+    {
+      "value": "https://roblox.com.ge/users/1847842111/profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://pub-51f896deb233450089fc1a520e6ed957.r2.dev/kanehods.html",
+      "value": "https://litter.catbox.moe/zqqxb3.txt",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack"
+    },
+    {
+      "value": "185.237.166.249",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://www.netflix-peach-rho.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://spotify-clone-silk-rho.vercel.app/",
+      "value": "http://test1.amanur.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "https://winup.su/api/client/poll/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "https://x0.at/qOfN.msi",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "In-Memory Loader Drops ScreenConnect"
+    },
+    {
+      "value": "nashprom.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://oauth-xfinity-comm.weebly.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://spotify-clone-eight-sepia.vercel.app/",
+      "value": "https://infohadiah997.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.67282.xyz/",
+      "value": "https://www.360printsol.com/2026/alfadhalah/thumbnail?img=index.png.",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actor Targets Arabian Gulf Region With PlugX"
+    },
+    {
+      "value": "64.44.154.237",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "https://tigo2.business/Login/N/Myaccount.php/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://shivamshelke-dev.github.io/spotifyclone.githhub.io",
+      "value": "kane-consulting.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "217.156.122.57",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://zblockchainlogin.webflow.io/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://moment.wasmer.app/",
+      "value": "https://files.catbox.moe/wzsjlw.dll",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack"
+    },
+    {
+      "value": "185.237.166.233",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "backbou.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://hemasai333.github.io/Amazon-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://program-shopee14.blogspot.com/",
+      "value": "https://domisnnet.github.io/King-Domfy-Web-Essentials",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://yaserwebdev.github.io/Nike",
+      "value": "https://rblx.foo/s/IhXxdE",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://pub-21beea42d44e4f0e83b5336b9ac3900a.r2.dev/woosf.html",
+      "value": "185.237.166.248",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "http://adveryx.biz:6573",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://abhishekkumar2280.github.io/Netflix-Clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://claiminvites06.vercel.app/",
+      "value": "https://bafkreigao6ci35jjkp44vxde6fxxqeml2wzhiqfjek7e66n27ku5tglluq.ipfs.dweb.link/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://a-creator-collab.github.io/Netflix-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://amkhatri31.github.io/Netflix_clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ahmd-suhail.github.io/netflix-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "64.44.154.240",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "APT28 exploit routers to enable DNS hijacking operations"
+    },
+    {
+      "value": "https://po.tiffnuae.online/api/v1/tgKHf0r0EWqIaCb5",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "144.172.110.96",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Tracking an OtterCookie Infostealer Campaign Across npm"
+    },
+    {
+      "value": "http://bafkreidzdxongl6c7d5fsdr7rg2umh3gdv2ryrew6i52grqhpg5cn3psum.ipfs.dweb.link/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
