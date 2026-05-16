@@ -1,44 +1,104 @@
 {
-  "last_updated_utc": "2026-05-16T11:44:26.111176+00:00",
+  "last_updated_utc": "2026-05-16T12:59:21.766146+00:00",
   "indicators": [
     {
-      "value": "https://amex-doc.short.gy/BQuzdr",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "89.125.244.33",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities",
       "geo": {
-        "city": "Washington",
-        "country": "United States",
-        "lat": 38.9072,
-        "lon": -77.0369
+        "city": "Shibuya City",
+        "country": "Japan",
+        "lat": 35.6764,
+        "lon": 139.65
       }
     },
     {
-      "value": "https://www.dpdlocorl.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "211.239.157.126",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
       "geo": {
-        "city": "Singapore",
-        "country": "Singapore",
-        "lat": 1.35208,
-        "lon": 103.82
+        "city": "Seongnam-si",
+        "country": "South Korea",
+        "lat": 37.4063,
+        "lon": 127.145
       }
     },
     {
-      "value": "https://www.dpdlocoth.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "udcontest.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
       "geo": {
-        "city": "Santa Clara",
-        "country": "United States",
-        "lat": 37.353,
-        "lon": -121.9544
+        "city": "Gangdong-gu",
+        "country": "South Korea",
+        "lat": 37.5554,
+        "lon": 127.1515
       }
     },
     {
-      "value": "http://www.rktpe522666.shop/",
+      "value": "http://chromap.biz:4219",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+      "geo": {
+        "city": "Mumbai",
+        "country": "India",
+        "lat": 19.1176,
+        "lon": 72.906
+      }
+    },
+    {
+      "value": "ycpatent.co.kr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+      "geo": {
+        "city": "Seongnam-si",
+        "country": "South Korea",
+        "lat": 37.3654,
+        "lon": 127.122
+      }
+    },
+    {
+      "value": "amazoninternal.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel",
+      "geo": {
+        "city": "Warsaw",
+        "country": "Poland",
+        "lat": 52.2299,
+        "lon": 21.0093
+      }
+    },
+    {
+      "value": "http://forestoaker.com:6290",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://chalx.live:5902",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+      "geo": {
+        "city": "Lauterbourg",
+        "country": "France",
+        "lat": 48.9742,
+        "lon": 8.1851
+      }
+    },
+    {
+      "value": "https://winup.su/dashboard.html",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "https://t-mobile.fgyabx.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -50,73 +110,481 @@
       }
     },
     {
-      "value": "https://magazzineluiza.netlify.app/",
+      "value": "91.107.247.163",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "LBIOC-20260071 - The Gentlemens Leak",
+      "geo": {
+        "city": "Frankfurt Am Main",
+        "country": "Germany",
+        "lat": 50.094,
+        "lon": 8.4971
+      }
+    },
+    {
+      "value": "https://t-mobile.cqfplh.top/pay?rBI=kr35q?Riu=d7ll1",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "San Jose",
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://t-mobile.zrayfd.top/pay?nEW=LFGX2?KAU=vJYB1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "178.62.3.223",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)",
+      "geo": {
+        "city": "Slough",
+        "country": "United Kingdom",
+        "lat": 51.5177,
+        "lon": -0.6215
+      }
+    },
+    {
+      "value": "http://p210g.xyz/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Zhengzhou",
+        "country": "China",
+        "lat": 34.7208,
+        "lon": 113.794
+      }
+    },
+    {
+      "value": "http://www.robiox.com.py/users/312735203713/profile/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Belize City",
+        "country": "Belize",
+        "lat": 17.5018,
+        "lon": -88.1956
+      }
+    },
+    {
+      "value": "josegza.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+      "geo": {
+        "city": "Mumbai",
+        "country": "India",
+        "lat": 19.076,
+        "lon": 72.8777
+      }
+    },
+    {
+      "value": "kmot.co.kr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+      "geo": {
+        "city": "Seongnam-si",
+        "country": "South Korea",
+        "lat": 37.3654,
+        "lon": 127.122
+      }
+    },
+    {
+      "value": "http://acc.partner-credit-submission.com/__;!!Bt8RZUm9aw!5t7lF5Li5nfeDHSbbwOxmQgLod6rt...",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "remnane.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+      "geo": {
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8558,
+        "lon": 2.3494
+      }
+    },
+    {
+      "value": "https://www.made-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Tseung Kwan O",
+        "country": "Hong Kong",
+        "lat": 22.3119,
+        "lon": 114.257
+      }
+    },
+    {
+      "value": "https://www.agent-wg.shop/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://www.bet73019.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Hong Kong",
+        "country": "Hong Kong",
+        "lat": 22.3193,
+        "lon": 114.1693
+      }
+    },
+    {
+      "value": "winup.su",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation",
+      "geo": {
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.6695,
+        "lon": 23.2912
+      }
+    },
+    {
+      "value": "https://t-mobile.qguzjc.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "padaz.pics",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "comp.id",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Chasing an Angry Spark"
+    },
+    {
+      "value": "71.80.85.135",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities",
+      "geo": {
+        "city": "Blountville",
         "country": "United States",
-        "lat": 37.3394,
-        "lon": -121.895
+        "lat": 36.5332,
+        "lon": -82.3268
       }
     },
     {
-      "value": "https://www.dpdlocoed.shop/com/com",
+      "value": "jo2c9ada427c6-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://lazzo.bet:3989",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://t-mobile.sprftj.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Singapore",
-        "country": "Singapore",
-        "lat": 1.35208,
-        "lon": 103.82
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
       }
     },
     {
-      "value": "https://www.roblox.et/games/920587237/Adopt-Me?privateServerLinkCode=46645366241997075045841019318178",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "interxo.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
       "geo": {
-        "city": "R\u00fcmlang",
-        "country": "Switzerland",
-        "lat": 47.4505,
-        "lon": 8.5255
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.19445,
+        "lon": 106.823
       }
     },
     {
-      "value": "https://www.dpdlocoqm.top/com",
+      "value": "http://top.rodeo/server/remote.php",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocowm.cyou/com/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure",
       "geo": {
-        "city": "Singapore",
-        "country": "Singapore",
-        "lat": 1.35208,
-        "lon": 103.82
-      }
-    },
-    {
-      "value": "http://facebook-1ogin.duckdns.org/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Atlanta",
+        "city": "Dallas",
         "country": "United States",
-        "lat": 33.8541,
-        "lon": -84.3791
+        "lat": 32.7767,
+        "lon": -96.797
       }
     },
     {
-      "value": "https://hrutb.github.io/MovieTask-CRUD-/",
+      "value": "https://t-mobile.walqpm.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://velvet-parrot.com:443",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://t-mobile.szjcvg.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://amp.padisahbett.co/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://www.700685.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Fo Tan",
+        "country": "Hong Kong",
+        "lat": 22.3979,
+        "lon": 114.19
+      }
+    },
+    {
+      "value": "managew.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+      "geo": {
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "lat": 54.6876,
+        "lon": 25.2806
+      }
+    },
+    {
+      "value": "https://zyexx.com/c8b0b71ce670a345a0p97f44a91d3ccdbcd1.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://fusoforte.com.br/svhnm_file",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Vinhedo",
+        "country": "Brazil",
+        "lat": -23.0251,
+        "lon": -46.9785
+      }
+    },
+    {
+      "value": "https://t-mobile.xsetmq.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://winup.su/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "https://1a820b09-95ba-44eb-b350-417e8241b725-00-1lgwuuen9b77p.worf.replit.dev/download",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities",
+      "geo": {
+        "city": "North Charleston",
+        "country": "United States",
+        "lat": 32.8771,
+        "lon": -80.013
+      }
+    },
+    {
+      "value": "https://t-mobile.gtyjde.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://htttps-www-roblox.com/charts",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1109,
+        "lon": 8.68213
+      }
+    },
+    {
+      "value": "https://t-mobile.cljnua.top/pay?fYu=dlS5v?ooR=zpGnt",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://t-mobile.frvoni.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://mines.cloudapi.stream/auth_google",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure",
+      "geo": {
+        "city": "Lauterbourg",
+        "country": "France",
+        "lat": 48.9742,
+        "lon": 8.1851
+      }
+    },
+    {
+      "value": "89.169.12.241",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "AI-Assisted Lure Factory Targets Developers & Gamers",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1169,
+        "lon": 8.6837
+      }
+    },
+    {
+      "value": "https://t-mobile.kbteod.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://dns-providersa2.com/check",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "5 Malicious NuGet Packages Impersonate Chinese UI Libraries to Distribute Crypto Wallet and Credential Stealer",
+      "geo": {
+        "city": "Amsterdam",
+        "country": "The Netherlands",
+        "lat": 52.3676,
+        "lon": 4.90414
+      }
+    },
+    {
+      "value": "http://noorbloach.github.io/tiktokcoins",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -128,7 +596,13 @@
       }
     },
     {
-      "value": "https://bu.sync-creators.com/",
+      "value": "https://witch-skins-lip-coal.trycloudflare.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "https://www.roblox.com.bn/games/89469502395769/Kick-a-Lucky-Block?privateServerLinkCode=31931273047850503174984411075545",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -140,7 +614,25 @@
       }
     },
     {
-      "value": "http://g2lle-emeet843542456789262421.pages.dev/",
+      "value": "enrollms.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "texakgi.cloud",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+      "geo": {
+        "city": "S\u00e3o Paulo",
+        "country": "Brazil",
+        "lat": -23.5558,
+        "lon": -46.6396
+      }
+    },
+    {
+      "value": "http://galabetgiris.org/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -152,73 +644,13 @@
       }
     },
     {
-      "value": "https://homeobvindenver.cyou/repaour/asumme/codir/",
+      "value": "https://rapids-lil-lending-charleston.trycloudflare.com",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Dallas",
-        "country": "United States",
-        "lat": 32.7797,
-        "lon": -96.8022
-      }
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
     },
     {
-      "value": "https://fi-delitby.cyou/8dgcrm/page.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Stockholm",
-        "country": "Sweden",
-        "lat": 59.3293,
-        "lon": 18.0686
-      }
-    },
-    {
-      "value": "https://www.dpdlocork.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://t-mobile.zeiphyr.top/pay/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://fi-delitby.cyou/8dgcrm/?ksg=gbxODq",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://marirenono.help/a/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://57.dmca-hub.report/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocacj.top/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Singapore",
-        "country": "Singapore",
-        "lat": 1.35208,
-        "lon": 103.82
-      }
-    },
-    {
-      "value": "http://p.dongbeilaobo.com/www/",
+      "value": "https://lomfi-lotra-biz-rentra-dokli-sp19ct3bur.pages.dev/heartily_welcome?welcome=1804942259817696&id=1804942259817696&page_name=Everman%20ISD",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -230,25 +662,7 @@
       }
     },
     {
-      "value": "https://www.dpdlocavn.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://c-consultarnoatendimentobr.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Stockholm",
-        "country": "Sweden",
-        "lat": 59.3327,
-        "lon": 18.0656
-      }
-    },
-    {
-      "value": "http://meet-gooogle-us76735785946.pages.dev/",
+      "value": "https://t-mobile.oelpwv.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -260,469 +674,13 @@
       }
     },
     {
-      "value": "https://g2lle-emeet84354258763ew.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "value": "febystm.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
     },
     {
-      "value": "http://dpd.fxqtrm.cfd/com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://vieclamonline-shop-pee.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.dpdlocoes.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Santa Clara",
-        "country": "United States",
-        "lat": 37.353,
-        "lon": -121.9544
-      }
-    },
-    {
-      "value": "https://meta-id19239220.invoice-partner.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.dpdlocabx.top/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://cb.report-verify.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://restoremycreditreport.com/bniyycir/dfsj",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Buffalo",
-        "country": "United States",
-        "lat": 42.8864,
-        "lon": -78.8784
-      }
-    },
-    {
-      "value": "http://midasbuy-markets.topup-mobiles.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://www.dpdlocoed.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://t-mobile.ytmuxn.top/pay/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://qrco.de/bgnxKi",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
-        "country": "United States",
-        "lat": 37.7749,
-        "lon": -122.419
-      }
-    },
-    {
-      "value": "https://yahmobilelog.weebly.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Oakland",
-        "country": "United States",
-        "lat": 37.8086,
-        "lon": -122.269
-      }
-    },
-    {
-      "value": "https://seducerhome-xjv7v.ondigitalocean.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.dpdlocavk.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dpd.lqvzn-ie.link/track/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://meta-id17613.invoice-partner.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://bdowvip.com/ph/personal/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Singapore",
-        "country": "Singapore",
-        "lat": 1.35208,
-        "lon": 103.82
-      }
-    },
-    {
-      "value": "http://f8.strike-monitor.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.dpdlocaxv.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "27.133.154.218",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)",
-      "geo": {
-        "city": "Osaka",
-        "country": "Japan",
-        "lat": 34.706,
-        "lon": 135.493
-      }
-    },
-    {
-      "value": "https://tkiehthen.com/start.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Tokyo",
-        "country": "Japan",
-        "lat": 35.6893,
-        "lon": 139.6899
-      }
-    },
-    {
-      "value": "https://i-iniciarseuatendimentobrasil.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://c1.strike-verify.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://id240941.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://meta-id17611.invoice-partner.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocors.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocoyo.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Singapore",
-        "country": "Singapore",
-        "lat": 1.35208,
-        "lon": 103.82
-      }
-    },
-    {
-      "value": "https://p-portaldoatendimentobrasil.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocoec.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.wzwcrn.top/?bza=SMe",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://brand-050745.pages.dev/facebook.com-1039454400.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.dpdlocote.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Singapore",
-        "country": "Singapore",
-        "lat": 1.35208,
-        "lon": 103.82
-      }
-    },
-    {
-      "value": "https://osmconsultancy.com/sd/er/fe/fsa/sdf/179/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://024365vip.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Hong Kong",
-        "country": "Hong Kong",
-        "lat": 22.267,
-        "lon": 114.188
-      }
-    },
-    {
-      "value": "http://www.dpdlocabn.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocabg.top/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bafkreib2ofz55l4gjzluimk6wkhcxlj2avfmbmkjlsp442cnzirap3ckjy.ipfs.dweb.link/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
-        "country": "United States",
-        "lat": 37.79,
-        "lon": -122.401
-      }
-    },
-    {
-      "value": "https://www.dpdlocoej.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocamc.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocoyu.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://account.remote-otp.com/synchronization?rid=At9YVox",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Dublin",
-        "country": "Ireland",
-        "lat": 53.3498,
-        "lon": -6.26031
-      }
-    },
-    {
-      "value": "https://p-iniciaratendimentonlinebrasil.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://bs.dmca-strike.works/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://t-mobile.swjted.top/pay/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://t-mobile.walniut.top/pay/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://ninshavu-web.github.io/FB-Old/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dmca-notify.my/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.frtcheck.top/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.wmsdb.com/",
+      "value": "https://www.your-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -734,91 +692,145 @@
       }
     },
     {
-      "value": "https://p-iniciaratendimento.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://perfects10drywall.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "manager.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel",
       "geo": {
-        "city": "Ogden",
-        "country": "United States",
-        "lat": 41.2219,
-        "lon": -111.9631
+        "city": "Montreal",
+        "country": "Canada",
+        "lat": 45.5019,
+        "lon": -73.5674
       }
     },
     {
-      "value": "https://pessoleldept.com/?r=edbd98b8-9ecd-450f-9654-12c624da270c&rg=eu",
+      "value": "91.215.85.103",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Technical Advisory: Breach of Instructure Canvas LMS",
+      "geo": {
+        "city": "St Petersburg",
+        "country": "Russia",
+        "lat": 59.9311,
+        "lon": 30.3609
+      }
+    },
+    {
+      "value": "https://t-mobile.cygskn.top/pay?rDd=OsosR?PaM=6DUAG",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://p.dongbeilaobo.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://t-mobile.fdrsvg.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://anythinghere.woremix.icu/Viewfiles/download.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Weaponize Tiflux RMMs in Malspam Attacks",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "settingenv.cat",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "f36c2774f013-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://information.axa-benefits.com/home/71c1c40243c84819906d90540b64ea26/d42985f5ae4cf415984adac97a3b81370",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Dublin",
+        "country": "Ireland",
+        "lat": 53.3478,
+        "lon": -6.2597
+      }
+    },
+    {
+      "value": "https://t-mobile.oyedcj.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "europesignaltrust.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://45.74.4.179:8090/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria",
+      "geo": {
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1224,
+        "lon": 8.73979
+      }
+    },
+    {
+      "value": "45.86.230.112",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "LBIOC-20260071 - The Gentlemens Leak",
+      "geo": {
         "city": "Ashburn",
         "country": "United States",
-        "lat": 39.0438,
+        "lat": 39.0437,
         "lon": -77.4874
       }
     },
     {
-      "value": "https://meta-id19239217.invoice-partner.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://887772225.it.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ikumarankit.github.io/amazon-clone-frontend/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bafkreihnxifzmjyq7ateafxv5tk2ref4yuo6d4k3jguxwgjpgrauz23mcq.ipfs.dweb.link/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://potencialextranu.s3.us-east-005.backblazeb2.com/aumento.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Ashburn",
-        "country": "United States",
-        "lat": 39.0438,
-        "lon": -77.4874
-      }
-    },
-    {
-      "value": "https://bdlimon063-creator.github.io/facebook.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://p-portaldoatendimentoonline.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://5o.dmca-notify.top/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://xformnewzdnalyan.highway.biz.id/",
+      "value": "https://t-mobile.psnkji.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -830,1279 +842,1255 @@
       }
     },
     {
-      "value": "http://www.myloginprofile.com/axisbank/authentication/userDetails/auth.php",
+      "value": "internal.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel",
+      "geo": {
+        "city": "Bucharest",
+        "country": "Romania",
+        "lat": 44.4558,
+        "lon": 26.0418
+      }
+    },
+    {
+      "value": "gluckcreek.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://haber252.shop/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Mumbai",
-        "country": "India",
-        "lat": 19.0748,
-        "lon": 72.8856
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.4504,
+        "lon": 30.5245
       }
     },
     {
-      "value": "https://48e934e2-f643-4e27-8f23-f14f98ce45b8-00-2j57meopmm1qg.worf.replit.dev/",
+      "value": "https://www.choice-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "North Charleston",
-        "country": "United States",
-        "lat": 32.8771,
-        "lon": -80.013
+        "city": "Hong Kong",
+        "country": "Hong Kong",
+        "lat": 22.3193,
+        "lon": 114.169
       }
     },
     {
-      "value": "https://q.usdtw.net/jp/",
+      "value": "http://check.nid-log.com/api/checkservice.php",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger",
       "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
+        "city": "Seoul",
+        "country": "South Korea",
+        "lat": 37.5658,
+        "lon": 126.978
       }
     },
     {
-      "value": "https://www.dpdlocoeg.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocoer.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.dpdlocoru.top/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocamx.top/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bafkreigshati7dqqrv7pcc2i3a57areswxppbtjq5c4df3527scof46bhy.ipfs.dweb.link/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://xw.mediasync.cv/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
+      "value": "89.125.244.51",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities",
       "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
+        "city": "Shibuya City",
+        "country": "Japan",
+        "lat": 35.6764,
+        "lon": 139.65
       }
     },
     {
-      "value": "https://sweeply.at/",
+      "value": "http://information.axa-benefits.com/i/dc824aaf4ca2946ad96de243b25474d73",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocaxi.cyou/com",
+      "value": "https://payipay.cfd/jp",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://b35aaa.com/fish/61",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "value": "extendyourcredibility.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
     },
     {
-      "value": "https://roblotx.co/users/3160885791/profile",
+      "value": "https://t-mobile.ggzqxa.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "description": "Active Phishing URL"
     },
     {
-      "value": "https://t.dmca-check.com/",
+      "value": "https://t-mobile.umfise.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "description": "Active Phishing URL"
     },
     {
-      "value": "https://q-r.to/bgmQxO",
+      "value": "http://tr.galabet7.vip/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Francisco",
-        "country": "United States",
-        "lat": 37.7749,
-        "lon": -122.419
-      }
+      "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocorm.cyou/com",
+      "value": "https://aktifkan-fitur-danaxpay.susm.my.id/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://4x.dmca-strike.com/",
+      "value": "https://t-mobile.dbucyw.top/pay?jZN=puE6q?boF=F6BJ1",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocorn.cyou/com",
+      "value": "https://engrmansoor304.github.io/Amazon-Web-Clone/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.clickcentral.site/atendimento",
+      "value": "https://www.roblox.et/communities/6946372401/Avatar-Designers",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://bafkreigui3if64yk6aopeq2kykbvsdd2opft55oafux5adfzbeajvd7vbe.ipfs.dweb.link/",
+      "value": "http://register30.agency-partner-management.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://nycgyroking.com/",
+      "value": "http://texakgi.cloud:3849",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://scotiaonlinebank.vercel.app/global/en/global-site.html",
+      "value": "https://t-mobile.rtngwv.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
+      "description": "Active Phishing URL"
     },
     {
-      "value": "https://ye.dmca-desk.com/",
+      "value": "http://baxe.pics:48261",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://www.dpdlocoyo.shop/com",
+      "value": "https://cdn.cloudfront-js.com:8443/u",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "PCPJack | Cloud Worm Evicts TeamPCP and Steals Credentials at Scale"
     },
     {
-      "value": "https://meet-googlee46347975696.pages.dev/",
+      "value": "http://gemini.oracle.gyronee.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://survey.refassured.com/mEkpOLRB",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "drymoge.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://notifyhubss.net/dd22eb983733b3485ap8774d086252506f67.html",
+      "value": "https://t-mobile.gruqkz.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://nv.dmca.casa/",
+      "value": "http://whatspp.icu/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://wetrsn.iceiy.com/indexupdted.html",
+      "value": "https://t-mobile.ypbgdh.top/pay?DAN=OJYmI?ono=ixUus",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://yc.dmca-scan.com/",
+      "value": "https://super-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://verifyportal-edocavailableo1e2c2b4.buddyl.workers.dev/",
+      "value": "http://buccstanor.pics:48261",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://ejy.zex.mybluehostin.me/wp-admin/Santander/santa2/page/login.php",
+      "value": "https://t-mobile.ntorwy.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocane.cyou/com",
+      "value": "https://pick.storewebzone.net/assets/static/img/I4o8Pp_41.png",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Chasing an Angry Spark"
     },
     {
-      "value": "https://www.dpdlocamw.cyou/com",
+      "value": "https://t-mobile.buzqij.top/pay?hHb=foqc3?slp=5MerI",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://c-consulteagorabrasil.shop/",
+      "value": "https://www.tomaskaraba.com/category/news/page/9/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://confidentialitydocsignpreviewhbnz45h.pages.dev/",
+      "value": "https://habertry1453.shop/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://goglle-emeet83862847355.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "adveryx.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://l.ead.me/bgncVF",
+      "value": "https://rashithakoppurouthu.github.io/amazonclone/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://pay-cashapp.com/",
+      "value": "http://top.rodeo/server/remote3.php",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
     },
     {
-      "value": "https://inspired-track-124107.framer.app/",
+      "value": "http://tg.cloudapi.stream/get_sessions.php",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
     },
     {
-      "value": "https://www.dpdlocabe.cyou/com",
+      "value": "http://vinte.online:28313",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "http://og.id240941.icu/",
+      "value": "https://www.open-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://messenger-three-azure.vercel.app/",
+      "value": "http://check.nid-log.com/api/bootservice.php",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
     },
     {
-      "value": "http://bafkreifjwfze2ce74zbj6xilrzf3wixlub5w7ixt2iofzkd72vtndj7c2a.ipfs.dweb.link/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "hchdko.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
     },
     {
-      "value": "https://mmarquetti4-ui.github.io/cn",
+      "value": "http://information.axa-benefits.com/form/734bbcc2d0874e0ebf838d09bd8c6d05/dc824aaf4ca2946ad96de243b25474d73",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://owa-authentication.adjust.workers.dev/",
+      "value": "http://interxo.biz:7481",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "http://www.shoshituktukrestaurant.com/wp-admin/Vista_Legal_Services/",
+      "value": "https://caribemexico.com/.accountingspreadsheet/docusign.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://meta-id17608.invoice-partner.com/",
+      "value": "http://blaze-bet365.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://eastern247hospital.co.zw/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "38.181.52.89",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities"
     },
     {
-      "value": "https://rw.dmca.forum/",
+      "value": "https://t-mobile.ycgusr.top/pay?PeQ=ybHH6?ojV=YqBc1",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://4e.sweeply.agency/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "newjo-imd.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Disclosing new PebbleDash-based tools"
+    },
+    {
+      "value": "visionresearch.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
     },
     {
-      "value": "http://dmcatracker.com/",
+      "value": "https://t-mobile.kvhbqa.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://m33t-eeuugogole8537897809.pages.dev/",
+      "value": "https://bgta-cy3si.sevalla.page/bancolombia",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://aicc108-demo.pages.dev/title/80133042.html",
+      "value": "https://t-mobile.lhxkmi.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://t-mobile.aqyhnz.top/pay/",
+      "value": "http://bafybeifj7ml3mxg7ubs72fupwmnabu6sx7bbtwqsh6isqpbviyw6alwv4m.ipfs.dweb.link/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "attiferstudio.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "uncork.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
     },
     {
-      "value": "http://yj.sweeply.blog/",
+      "value": "http://shokofee.github.io/tiktok-coin-page",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://s.team-lj.cc/pqw/ouqw/qwiw-sows/",
+      "value": "https://ec2-100-24-254-151.compute-1.amazonaws.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocoed.cyou/com/com",
+      "value": "https://t-mobile.rjnpwl.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://c-consulteaquiportal.shop/",
+      "value": "https://www.360printsol.com/2026/alfadhalah/thumbnail?img=index.png.",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Threat Actor Targets Arabian Gulf Region With PlugX"
     },
     {
-      "value": "https://a.okwokw.de/",
+      "value": "https://www.major-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocowf.shop/com",
+      "value": "https://t-mobile.oxinsr.top/pay?NCi=mMP5b?sVv=L8SNs",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://p-portaldoatendimento.shop/",
+      "value": "https://t-mobile.icmbop.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://vilario.ir/Landing.html",
+      "value": "https://ldrsimnxcg9.rodric05.workers.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "certificadosuporte.com.br",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "83.229.126.195",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities"
+    },
+    {
+      "value": "104.233.156.1",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities"
     },
     {
-      "value": "http://pnelcds.ezzzybos.us/",
+      "value": "217.119.129.122",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "AI-Assisted Lure Factory Targets Developers & Gamers"
+    },
+    {
+      "value": "digitalreliability.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "addoktapasskey.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "http://adveryx.biz:6573",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://thewanderwave.github.io/Phisis",
+      "value": "ezvm.kr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "https://www.algocompliance.co/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocabw.top/com",
+      "value": "http://check.nid-log.com/api/bootservice.php?tag=",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "ropea.top",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "91.92.242.30",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw"
     },
     {
-      "value": "https://meta-id17610.invoice-partner.com/",
+      "value": "http://www.ngsports-tiyu.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocorg.cyou/com",
+      "value": "https://136.0.141.138:8406/rcv/",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Obfuscation Without Effort: Breaking a GIFTEDCROOK Stealer"
     },
     {
-      "value": "https://hbrhh-kewy-2tqz.jack-0a3.workers.dev/lp/r_hMz3tujEI",
+      "value": "http://galabet.adresii.vip/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocaxw.top/com",
+      "value": "https://t-mobile.hubxji.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://eb.support-dmca.click/",
+      "value": "https://t-mobile.grfqmb.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "183.111.174.69",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
     },
     {
-      "value": "https://sharepoint.onebrive.com/rel/c2VTewRqeGdjamXO1dblCjStOX3cIopC",
+      "value": "http://144.126.140.33:3000/admin",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "kohlhoff-edelstahlverarbeitung.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
     },
     {
-      "value": "http://meet-googlee463446729.pages.dev/",
+      "value": "http://www.xpjuu.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://meet-googlee767585876.pages.dev/",
+      "value": "https://www.yespp.co.kr/common/include/code/out.php",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Disclosing new PebbleDash-based tools"
     },
     {
-      "value": "https://qrco.de/bgmQxO",
+      "value": "http://check.nid-log.com/api'",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
     },
     {
-      "value": "https://i-iniciarseuatendimentonline.shop/",
+      "value": "https://here-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://meta-id19239219.invoice-partner.com/",
+      "value": "ee10bbf6c689-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://t-mobile.xnvaof.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocoqc.cyou/com",
+      "value": "https://t-mobile.enxgaf.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "217.119.129.76",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "AI-Assisted Lure Factory Targets Developers & Gamers"
     },
     {
-      "value": "http://meet-goooglew48938395878.pages.dev/",
+      "value": "strapness.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "ClickFix Evolves with PySoxy Proxying"
+    },
+    {
+      "value": "http://woodena.biz:7821",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://p-iniciaratendimentobrasil.shop/",
+      "value": "https://confirm-address-changing.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://brand-050745.pages.dev/facebook.com-1039454400",
+      "value": "https://install.app-distribution.net/setup/",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw"
     },
     {
-      "value": "http://mfacebookk.com.vn/timnguoinaygap14052026a",
+      "value": "https://t-mobile.bqstzy.top/pay?Hwp=zRKto?sNz=GucKh",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "parky.pics",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://sso-security.com/E.OMl9CHZAIBUI8w?=userid",
+      "value": "211.169.73.104",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "38.60.214.92",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities"
+    },
+    {
+      "value": "https://t-mobile.wocvsp.top/pay?lqO=YuX78?vLH=jlSeB",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://l.ead.me/bgmQxO",
+      "value": "https://t-mobile.rvqhgm.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocore.cyou/com",
+      "value": "https://toolbox-bet365.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://t-mobile.zwkypm.top/pay/",
+      "value": "https://t-mobile.hsjydk.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://mediasync.sh/",
+      "value": "http://prickaz.biz:2039",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "dns-providersa2.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "5 Malicious NuGet Packages Impersonate Chinese UI Libraries to Distribute Crypto Wallet and Credential Stealer"
     },
     {
-      "value": "http://xnindodlyandanaa.safaather.biz.id/",
+      "value": "http://b35aaa.com/casino",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://novacontratacao.s3.us-east-005.backblazeb2.com/aumento.html",
+      "value": "019d442a-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "crediblebizextension.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://t-mobile.qmozyd.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://itsuppports.com/?r=e2a792bd-e5fd-4b13-9da5-b8a4930b50ec&rg=eu",
+      "value": "http://parky.pics:3989",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://janataintgroup.com/lisacompany",
+      "value": "https://t-mobile.eaftdu.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://oe.id240941.com/",
+      "value": "https://rti.cargomanbd.com",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Leverage Claude Code Leak as Social Engineering Lure to Distribute Malicious Payloads via GitHub"
     },
     {
-      "value": "https://t-mobile.zoietic.top/pay/",
+      "value": "https://glot.io/snippets/hfdxv8uyaf",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw"
     },
     {
-      "value": "http://dpd.cxrmvw.cfd/com/",
+      "value": "https://meinerechnungen.flazio.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://chitransh27309-crypto.github.io/My-Projects/",
+      "value": "https://verificar-emailmxx.iceiy.com/?i=1",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocanl.top/com",
+      "value": "https://pick.storewebzone.net/prod/vUcLWuZF/8363/asb2dz_1dd4.php",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Chasing an Angry Spark"
     },
     {
-      "value": "https://www.dpdlocotg.shop/com",
+      "value": "https://sunrise-rechnung.flazio.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocoeh.cyou/com",
+      "value": "https://meta-id17615.invoice-partner.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://khankhaznavik-spec.github.io/Face-Book-Authentucate-Project/create%20new%20page/index.html",
+      "value": "https://www.robiox.com.gr/users/1062443811/profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://bagadoi101-code.github.io/Leger/",
+      "value": "https://t-mobile.qyegpm.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
+    },
+    {
+      "value": "zadno.run",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "borjumaniya.store",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
     },
     {
-      "value": "https://www.dpdlocorf.cyou/com",
+      "value": "http://m.imtoken-chinese.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://checkfort.top/",
+      "value": "https://t-mobile.khyvaw.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://scotiaonlinebank.vercel.app/signinfolder/login.html",
+      "value": "yaga9b286ae2c101-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "94.154.172.43",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers"
+    },
+    {
+      "value": "http://api.cloudapi.stream:8443/Register",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
     },
     {
-      "value": "https://www.dpdlocora.cyou/com/com",
+      "value": "https://t-mobile.athcgf.top/pay?PpB=AhtEw?mqZ=3g5pa",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://7l.dmca-notify.casa/",
+      "value": "http://siltsoh.biz:7481",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "50.16.16.211",
+      "value": "27.133.154.218",
       "type": "IPv4",
       "source": "Feodo Tracker",
       "description": "Botnet C2 (QakBot)"
     },
     {
-      "value": "http://bafkreia7tn2zkgorgvqihnjxfmqpvrekdrhs5mh5ppffpuyp43opdkrar4.ipfs.dweb.link/",
+      "value": "https://t-mobile.zxbwga.top/pay?PMN=sskxa?PJH=B5Bjf",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://i-iniciarseuatendimento.shop/",
+      "value": "https://s4w.in/roblox-com-users-328195390493-profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://2n.dmca-notify.my/",
+      "value": "https://www.max-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://dmcaverify.com/",
+      "value": "019d442e-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://nila777.net/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://7u.strike-check.com/",
+      "value": "sunlin.org",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "https://t-mobile.euvgyr.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocory.shop/com",
+      "value": "cloudapi.stream",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "hostroids.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Q1 2026 Malware Statistics Report for Windows Database Servers"
+    },
+    {
+      "value": "illuminatistudios.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "https://copilot.028426.com/c35c9f/e4e59e05-3a09-4367-9197-0ec18d774784",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocanz.top/com",
+      "value": "https://t-mobile.hkgfsx.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://meta-id17614.invoice-partner.com/",
+      "value": "https://t-mobile.cjmsgx.top/pay?iqC=PsKpW?RnH=hGO3Q",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://7t.dmca-strike.team/",
+      "value": "https://t-mobile.qcybjh.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://ohavsholom.org/sec/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "connectads.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
     },
     {
-      "value": "https://c-consultarnoatendimento.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "value": "webuk.tech",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
     },
     {
-      "value": "http://www.to.lk/AGdxsV/",
+      "value": "https://winup.su/api/client/poll/",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
     },
     {
-      "value": "https://meet-googles.com/",
+      "value": "http://intem.lat:9592",
       "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
     },
     {
-      "value": "https://8n.dmca-notify.rest/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://scotiaonlinebank.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://lgdxt-kbmb-m5yy.c-0ijbhkyh.workers.dev/l/ROITgEM910Y/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://meta-id17609.invoice-partner.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://b35aaa.com/fish/197",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://aq.dmca-report.click/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://c-consulteaqui.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://c-consultarnoatendimentobrasil.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://155aes.senes.at/mining/yet2commis.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://1z.mediasync-cooperation.info/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://i-iniciarseuatendimentobr.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://meet-gooogle-us767496537936.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://wavellen.github.io/Microsoft-Clone-Home-Page",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://securityawareness.cc/landing/form/916d1b4a-b927-40a5-b9e6-abeff110bfd2",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://yf.eco-gear.club/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.dpdlocoeg.shop/com/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://t-mobile.ynpzul.top/pay/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://dmca-notify.xyz/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://xyfvvfyy.elementor.cloud/AA/A/AR/ES/argentina/ar/ES9D303ESS/ESS4Z3499SES/82CFGU2554/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://aicc108-demo.pages.dev/title/70301870.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://yx.abuse-hub.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rai606.github.io/system/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://meta-id19239218.invoice-partner.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://amex-doc-collection.idmission.com/es-mx/soporte/programas-de-tarjeta/journey/begin?name=JOSUE&PCN=2026135TM00066MXN&amexCardId=gold_rcp&jobId=019e2c3f-cb26-600c-1b3a-1468fed0c9ec",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://meet-gooogle-us65745874789.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "178.62.3.223",
+      "value": "96.9.125.147",
       "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
+      "source": "AlienVault OTX",
+      "description": "Abuse of Cloud-Native Infrastructure in Modern Phishing Campaigns"
     },
     {
-      "value": "https://gmeet.authroad.com/",
+      "value": "nid-log.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "http://tg.cloudapi.stream/delete_session.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "haeundaejugong.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "reliableinteractions.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://www.yh2513.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.forthex.top/",
+      "value": "https://t-mobile.whlbus.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://websitedana.bantuan-resmi.biz.id/",
+      "value": "http://www.mega-bet365.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://meta-id17607.invoice-partner.com/",
+      "value": "https://www.sim-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://shopee-pusat1212.blogspot.com/?m=1",
+      "value": "http://144.126.140.33:3000/openapi.json",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "http://navelum.biz:3201",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://wap.imtoken-chinese.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://meet-gooogle-us65783389343989.pages.dev/",
+      "value": "http://45.74.4.179:3000/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "https://t-mobile.fagvhe.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.dmcastrike.com/",
+      "value": "http://mines.cloudapi.stream/slot_test/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://file.bigcloud.n-e.kr/index.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Disclosing new PebbleDash-based tools"
+    },
+    {
+      "value": "7ctelegram.me",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking a Multi-Stage Loader: AutoIt Abuse Leading to Vidar Stealer Command-and-Control Communication"
+    },
+    {
+      "value": "chromap.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://ahmed-bytes.github.io/login-demo",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocoej.cyou/com",
+      "value": "http://t-mobile.ckopvf.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://fluid-footprint-036602.framer.app/",
+      "value": "http://t-mobile.bkjcng.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://superofertasdalu.netlify.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bill.remote-otp.com/portal-access/verifica/documento?rid=pTlu4xf",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocavr.top/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://meta-id17612.invoice-partner.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sso-ca-netcoins-com-ca.webflow.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://t.mediasync.one/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocorw.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://aicc108-demo.pages.dev/title/80238738.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocoqx.top/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bafkreifdr7lz6qv44cqosz75kwam7x6gta3izhq5vqxyyeharddpacresi.ipfs.dweb.link/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://p-portaldoatendimentohoje.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bafkreifkavk6dpo5xne7o6n274hvgi34gkefoqxdqgyy6tezqb46jyuucq.ipfs.dweb.link/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocach.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://3j.mediasync.blog/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mfacebock.com.vn/can-tim-gap-nguoi-nay-ngay-15-thang-05-nam-2026",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.roblox.et/users/7836461843/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocacz.top/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocamq.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocoen.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://a-atendimentonlineportal.shop/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://6c.dmca-notify.xyz/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ab.winkleoa.com/my1rd/kchrtd.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.roblotx.co/share?code=17193233448607162638584389087070&type=Profile&source=ProfileShare&gameid=13379208636",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://meet-googlee7563454656.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://strikeverify.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://dmca-notify.click/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mediasync.cv/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://meet-gooogle-us6764848955945.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocorn.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://tarvex.top/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://57.dmca-notify.ink/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://1t.abuse-desk.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://re-netlfix.com/captcha.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocoea.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://confirm-address-changing.vercel.app/register/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocoei.cyou/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocord.shop/com/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.dpdlocant.shop/com",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "34.204.119.63",
+      "value": "209.99.185.221",
       "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
+      "source": "AlienVault OTX",
+      "description": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America"
     },
     {
-      "value": "http://66.dmcatracker.com/",
+      "value": "https://life-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://meet-gooogle-us7846597567673.pages.dev/",
+      "value": "http://managew.biz:5902",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "consistentdigital.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://147.45.197.92:443",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Leverage Claude Code Leak as Social Engineering Lure to Distribute Malicious Payloads via GitHub"
+    },
+    {
+      "value": "http://www.dilliverythyme.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://l.ead.me/bgmQwN",
+      "value": "amanur.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "http://my-site-108633-104003.weeblysite.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://7e.dmca-strike.casa/",
+      "value": "kane-consulting.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "fe01.co.kr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "http://wallpapermacos.com/download/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "A new Mac stealer targeting $10K+ crypto wallets"
+    },
+    {
+      "value": "http://991.1kes.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://bafkreifuoxe5ui52yeaoha3vensn3jvttbrf24pr7x7encyojmyfdidvqy.ipfs.dweb.link/",
+      "value": "https://t-mobile.sjhbdv.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://connect-hub.partner-programhub.com/",
+      "value": "https://new-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://jeona36.github.io/amazon-clone-js/",
+      "value": "https://t-mobile.vdtkpz.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "47.104.248.7",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities"
+    },
+    {
+      "value": "http://www.xpjzz.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.scpiek.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://great-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://api.cloudapi.stream:8443/Translation",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://www.oydyui.top/?iYE=dlH",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://cloudapi.stream/install/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://t-mobile.mxyver.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://20-251-144-161.cprapid.com/eu/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "lenwillfilenetwork.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Weaponize Tiflux RMMs in Malspam Attacks"
+    },
+    {
+      "value": "http://172.111.200.133:8080/admin/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "woodena.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "epicgamessso.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "https://roblox.et/communities/4718596343/KittyWalker",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://female-disorder-beta-metropolitan.trycloudflare.com/index.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Disclosing new PebbleDash-based tools"
+    },
+    {
+      "value": "https://t-mobile.dcaflu.top/pay?LPl=eSYN2?Iku=N7iUq",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://walt-messaging-affairs-occurring.trycloudflare.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "uninterruptedperformance.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "digitalcontinuity.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://20-251-144-161.cprapid.com/eu/track.php?5yj4fxutlyy7s8dz7nj5",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -2114,103 +2102,2041 @@
       "description": "Botnet C2 (Emotet)"
     },
     {
-      "value": "https://meet-googlee7823629056.pages.dev/",
+      "value": "interalt.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://zadno.run:4219",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "carweap.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "nobleckly.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://t-mobile.uhjdkq.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.robiox.com.gr/users/4288016669/profile",
+      "value": "https://www.what-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://p-iniciaratendimentonline.shop/",
+      "value": "https://t-mobile.wtdqxk.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocorq.cyou/com",
+      "value": "https://kiranbuilds.github.io/netflix-website-design/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://roblox.com.bi/users/936669441272/profile",
+      "value": "mysonossso.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "http://144.126.140.33:3000",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "http://mines.cloudapi.stream/user_info",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://svc.wompworthy.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign"
+    },
+    {
+      "value": "34.204.119.63",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "https://jeona36.github.io/amazon-clone-js/checkout.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://tagssemparar.com/",
+      "value": "http://www.39apm.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://bafkreigdm2txbgx2janmzdmdnezvdfa7i5kiajzltxpx7tj5nvjxikqvhq.ipfs.dweb.link/",
+      "value": "withheldforprivacy.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "http://drymoge.biz:4192",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "outcrol.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "217.119.129.118",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "AI-Assisted Lure Factory Targets Developers & Gamers"
+    },
+    {
+      "value": "kumdo.org",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "https://t-mobile.bqxgmj.top/pay?osi=HU7gm?Aol=McpSW",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://meishijia.pages.dev/",
+      "value": "194.87.92.109",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files"
+    },
+    {
+      "value": "94.156.154.6",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "AI-Assisted Lure Factory Targets Developers & Gamers"
+    },
+    {
+      "value": "https://www.full-bet365.com.cn/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocoer.shop/com/com",
+      "value": "https://t-mobile.fdzboe.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://as.strikeverify.com/",
+      "value": "http://tr.galabet6.vip/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://effortless-unicorn-56ea7a.netlify.app/",
+      "value": "http://83.229.126.195:8081/config.json",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities"
+    },
+    {
+      "value": "http://tr.galabetguncelgirisadresi.icu/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocoea.top/com",
+      "value": "https://ktayyaba302-stack.github.io/amazon-clone/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://meet-googlee4567898089.pages.dev/",
+      "value": "https://www.pyrotech.co.kr/common/include/tech/default.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Disclosing new PebbleDash-based tools"
+    },
+    {
+      "value": "passkeysetup.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "https://t-mobile.dhugft.top/pay?Vie=9Hw1W?DbJ=BHCqs",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://bafkreiekxbe276h45arvmn4phimwdoqhmapypu56rkjcbhibrwfmhm3lxe.ipfs.dweb.link/",
+      "value": "server-sys.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Chasing an Angry Spark"
+    },
+    {
+      "value": "https://duyenbt.com/mailbox",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://detailed-process-086156.framer.app/",
+      "value": "45.148.10.212",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers"
+    },
+    {
+      "value": "https://cakto.app/7Tm34cP/?affiliate=SdGmu2Xt",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.dpdlocora.cyou/com",
+      "value": "mrchexp.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "https://t-mobile.ckvrxy.top/pay?WHQ=s1UFP?Jwk=2xmn5",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.scotiaonlinebank.vercel.app/",
+      "value": "213.176.73.80",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "AI-Assisted Lure Factory Targets Developers & Gamers"
+    },
+    {
+      "value": "7806d4cf9366-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://t-mobile.xsucvt.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://app.sttarkprontaresposta.com.br/storage/cgi-ent",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://refundonex.com/admin/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "http://c.3656vip4726.cc/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "sjem.co.kr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "4daa2aea93db-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://check.nid-log.com/api/finalservice.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "218.150.78.198",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "nitroca.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "euromarketsignal.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "209.99.185.223",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America"
+    },
+    {
+      "value": "http://www.xpjll.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.wqgazi.top/pay?zrv=mo8ro?gGf=cGMLJ",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://test1.amanur.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "50.16.16.211",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "167.148.195.53",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America"
+    },
+    {
+      "value": "https://meta-id17616.invoice-partner.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.ntgdba.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.cash-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "wallpapermacos.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A new Mac stealer targeting $10K+ crypto wallets"
+    },
+    {
+      "value": "https://t-mobile.hdgwxr.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "versonnex74.fr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "borscer.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://t-mobile.inztau.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "luminix.kr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "http://103.177.110.202/bot_x64.exe",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers"
+    },
+    {
+      "value": "https://myallseasonsinsulation.com/artcraft/management.html.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mode-exit-legendary-trusted.trycloudflare.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "http://roblox.com.et/communities/521834202410/shoTeRKeTu-%7C-Giveaways",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://pandoraconstruction.com/artcraftmanagement",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.super-bet365.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.bwhodc.top/pay?JbU=QjkOB?qUs=2hjIi",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "ado-read-parser.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Adobe Reader 0-day"
+    },
+    {
+      "value": "https://afford-effect-construct-tricks.trycloudflare.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "https://support-acctek.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "wpsock.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Mysterious hacker organization operating secretly for 6 years is exploiting critical cPanel vulnerability to deploy backdoor trojans"
+    },
+    {
+      "value": "http://japanroom.com/board/DATA/1288247428101.jpg",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks"
+    },
+    {
+      "value": "130.12.180.135",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Needle: Inside a Modular Crypto-Stealing C2 That Left Its Keys in the Malware"
+    },
+    {
+      "value": "https://t-mobile.mnhofz.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://engrmansoor304.github.io/netflix-clone/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "lastpass-login-help.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "PCPJack | Cloud Worm Evicts TeamPCP and Steals Credentials at Scale"
+    },
+    {
+      "value": "intobiz.kr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "coockie.pro",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A new Mac stealer targeting $10K+ crypto wallets"
+    },
+    {
+      "value": "http://t-mobile.mwuzkg.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.htlygq.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://robloxt.cv/users/526531808/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "myxerointernal.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "http://www.betwwww.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.xbtqgm.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://copilot.028426.com/c35c9f/2b8db1cc-b068-4e49-933e-ca36cdd66b41",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "ableinfo.co.kr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "103.177.110.202",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers"
+    },
+    {
+      "value": "noreplymail.space",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "https://t-mobile.kjeqrh.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.okafpv.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "claude-pro.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Donuts and Beagles: Fake Claude site spreads backdoor"
+    },
+    {
+      "value": "https://entered-medications-motherboard-advanced.trycloudflare.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "https://coteaqui.planosparavc.com.br/consorciocx/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.bet73066.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://backbou.biz:5902",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://www.shopee-pusat1212.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.facebook-1ogin.duckdns.org/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://bafkreibmvluyhqkdscm56yjdmnwikelvmj52u2jxprwvnurz5ugw3babaa.ipfs.dweb.link/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "sifr-infso.club",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "passkeyportalsetup.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "velvet-parrot.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw"
+    },
+    {
+      "value": "https://t-mobile.gczqos.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://b35aaa.com/sport/19",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.vzimgd.top/pay?qzH=c5tuv?ZoA=2pnB2",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "krondez.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://t-mobile.zgvsnd.top/pay?sfP=32hRg?FJA=bcQn2",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://danaa-iindonesiaa.olgk.my.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://protocolovirtual.org",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "powerscrews.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "New Lua-based malware LucidRook observed in targeted attacks against Taiwanese organizations"
+    },
+    {
+      "value": "0fdba029e6a5-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://josegza.biz:8521",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://lenwillfilenetwork.com/downloads/Network%20Solutions%20Agreement.msi",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Weaponize Tiflux RMMs in Malspam Attacks"
+    },
+    {
+      "value": "http://tg.cloudapi.stream/get_session.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://xpie348.online/instalador/update.xml",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "https://www.skill-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.tsligx.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dns-providersa2.com/upload",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "5 Malicious NuGet Packages Impersonate Chinese UI Libraries to Distribute Crypto Wallet and Credential Stealer"
+    },
+    {
+      "value": "reliablesupport.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://netflix-clone-fff8b.web.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "forestoaker.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "vinte.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "wrned.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Mysterious hacker organization operating secretly for 6 years is exploiting critical cPanel vulnerability to deploy backdoor trojans"
+    },
+    {
+      "value": "https://t-mobile.hxndgv.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.shop-bet365.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://144.126.140.33:3000/api/users",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "redbluffchamber.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "https://www.communitypoprefs.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://m.galabet-guncelqiris.vip/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "marketcredibilitysignals.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://t-mobile.dcliyk.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://144.126.140.33:5000",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "213.176.73.159",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "AI-Assisted Lure Factory Targets Developers & Gamers"
+    },
+    {
+      "value": "chalx.live",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://in-spark-bet365.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://tg.cloudapi.stream/save_session.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://www.robloxt.cv/users/559211103/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://91.92.242.30/6wioz8285kcbax6v",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw"
+    },
+    {
+      "value": "https://t-mobile.wngakm.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "2dc62559e005-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://galabet.turkiyeresmi.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.dhugft.top/pay?nMl=24Inz?rmB=7HcTJ",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://cartermobilmadiun.com/yessolarsolution",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "navelum.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://91.92.242.30/1v07y9e1m6v7thl6",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw"
+    },
+    {
+      "value": "http://ropea.top:28313",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://t-mobile.ljfocr.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://m.tica-wx.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://refundonex.com/cloud/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "http://91.215.85.103/pay_or_leak/instructure_affected_schools_list.txt",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Technical Advisory: Breach of Instructure Canvas LMS"
+    },
+    {
+      "value": "http://www.amazshnd.lat/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "213.176.73.130",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "AI-Assisted Lure Factory Targets Developers & Gamers"
+    },
+    {
+      "value": "http://information.axa-benefits.com/i/d42985f5ae4cf415984adac97a3b81370",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.betffff.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://yarelosa.github.io/instagram/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://newjo-imd.com/common/include/library/default.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Disclosing new PebbleDash-based tools"
+    },
+    {
+      "value": "http://duyenbt.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://git-tanstack.com/transformers.pyz",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "TanStack npm Packages Compromised in Ongoing Supply-Chain Attack"
+    },
+    {
+      "value": "https://dbs-form.info/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://borscer.biz:9592",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://www.xpjvv.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "nashprom.info",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://172.111.200.133:8090",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "https://t-mobile.jymgax.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://throbbing-hill-724e.kwugolimcitctmxikwunoej.workers.dev/meta-loginaccount/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.illuminatistudios.net/mobile/viewer.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Tracking MiniDionis: CozyCar's New Ride Is Related to Seaduke"
+    },
+    {
+      "value": "stablewebsystems.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://krondez.com:28982",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "23.27.143.170",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities"
+    },
+    {
+      "value": "http://www.geodnetcompliance.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://tg.cloudapi.stream/count_sessions.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://outcrol.biz:4895",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://raffiahmad.fu11.biz.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "114.207.246.156",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "wallspaceapp.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "A new Mac stealer targeting $10K+ crypto wallets"
+    },
+    {
+      "value": "http://galabet.girisler-2026.vip/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.huflsi.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://t-mobile.cnadkh.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "buccstanor.pics",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "overlateise.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "ClickFix Evolves with PySoxy Proxying"
+    },
+    {
+      "value": "cheekiez.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://www.dpdlocoty.top/com",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "g8way.io",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "https://seasonal-estimation-heating-necessarily.trycloudflare.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "http://krasnodar-nextrehab.ru/specialists/sunbsadman/yattscott",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://confirm-address-changing.vercel.app/landing",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.znhusm.top/pay?XSF=XrTP8?kbO=5fA6X",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://top.rodeo/notify.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://www.assets-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "choisy.fr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "cloudapi.stream",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://high-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "profile.name",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://mett-amuske-olglin.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "passkeywork.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "japanroom.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks"
+    },
+    {
+      "value": "https://when-architectural-cdna-faster.trycloudflare.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "https://t-mobile.oulcdb.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "intem.lat",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "http://padaz.pics:4219",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://t-mobile.meydio.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.enjoy-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "019d6860-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "206.206.103.120",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "ClickFix Evolves with PySoxy Proxying"
+    },
+    {
+      "value": "http://www.confirm-address-changing.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "sonosinternal.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "https://t-mobile.qgkzxr.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://fields-pct-easier-vancouver.trycloudflare.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "http://totplh.xyz/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "mydropboxinternal.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "servicewithoutinterruption.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "http://slot117login.net/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "keyokta.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "message.data",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "hanainternational.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "https://t-mobile.ilobxf.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.jushzn.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.qcggme.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://htttps-www-roblox.com/login?returnUrl=110995730",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "220.73.160.23",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "http://noreplymail.space/BitJoker/bootservice.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Live C2 Dump Recovering Every Stage of the Kill Chain: CHM Dropper, VBScript Stager, PowerShell Keylogger"
+    },
+    {
+      "value": "http://vercel7c0d7509f3a41bdd.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://gluckcreek.online:48261",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "profile.email",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://coox.live:28313",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://t-mobile.doezbg.top/pay?hXN=tNpcE?Tuc=Kwp5d",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.rvmggy.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "methodicalness.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "backbou.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://rblx.asia/jnUbsHK",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rasebitseirie-maker.github.io/Netflix-Project",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://84.54.33.192:8040/Bin/ScreenConnect.ClientSetup.msi",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Weaponize Tiflux RMMs in Malspam Attacks"
+    },
+    {
+      "value": "xpie348.online",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "https://ccne-hbfkg4d3aweycth0.z03.azurefd.net/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://refundonex.com/cloud/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "http://45.74.4.179:8080/admin/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "https://t-mobile.qmggae.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "ed5ce47d835f-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "heilbronner-fruehlingssymposium.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://habertry1453.shop/auth",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.with-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://robinhood-desk.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://cloudapi.stream/uninstall/",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "https://t-mobile.htfbxv.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "siltsoh.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "6dd5fd945b34-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://www.real-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.vekglo.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://haber252.shop/auth",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.brhsav.top/pay?rtb=ja1w7?hbf=WVakl",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "marktkarree-langenfeld.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://velvet-parrot.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw"
+    },
+    {
+      "value": "coox.live",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://www.robiox.com.py/users/328195390493/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://aicc108-demo.pages.dev/title/80238738.html/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.zwysti.top/pay?jqE=n0T40?Jsf=NYn5f",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.cgndop.top/pay?zPI=luppe?ydI=13C9b",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://howto-tar-naturals-coordination.trycloudflare.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "lazzo.bet",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "abledom.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "ClickFix Evolves with PySoxy Proxying"
+    },
+    {
+      "value": "http://tg.cloudapi.stream/save_title.php",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure"
+    },
+    {
+      "value": "http://www.cutt.ly/https-roblox-com-games-733884224862-Privateserver/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://timetrakr.cloud/sp.ps1'",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign"
+    },
+    {
+      "value": "https://www.hffjdf.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "printory.kr",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign"
+    },
+    {
+      "value": "git-tanstack.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "TanStack npm Packages Compromised in Ongoing Supply-Chain Attack"
+    },
+    {
+      "value": "infra-telemetry.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America"
+    },
+    {
+      "value": "https://t-mobile.xringu.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://fibercom-laboratory.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "prickaz.biz",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "refundonex.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "REFUNDEE: Inside a Shadow Panel Phishing-as-a-Service Operation"
+    },
+    {
+      "value": "https://t-mobile.hkpevd.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://94.228.161.88:443",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actors Leverage Claude Code Leak as Social Engineering Lure to Distribute Malicious Payloads via GitHub"
+    },
+    {
+      "value": "http://172.111.200.133:8090/login",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "ASO RAT: Arabic-Language Android Surveillance Platform Targeting Syria"
+    },
+    {
+      "value": "https://t-mobile.lxgndo.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://vim-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://bt-101437.weeblysite.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://vmi3235429.contaboserver.net/tkdp2/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.uygolr.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "protocolovirtual.org",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "http://remnane.biz:5692",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "mydisneysso.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "https://dpd.bmvxtrq.cyou/com",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "timetrakr.cloud",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign"
+    },
+    {
+      "value": "http://buccstanor.pics:28313",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://glot.io/snippets/hfd3x9ueu5",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw"
+    },
+    {
+      "value": "myadyeninternal.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Inside a phishing panel"
+    },
+    {
+      "value": "https://t-mobile.gigksw.top/pay?bhE=quYqI?DGR=zVDFb",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.imtoken-chinese.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.trip-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.ckjobt.top/pay?IDo=KoozE?zPP=nBVrO",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "justdotrip.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "5 Malicious NuGet Packages Impersonate Chinese UI Libraries to Distribute Crypto Wallet and Credential Stealer"
+    },
+    {
+      "value": "https://t-mobile.secpzf.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "206.206.103.106",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "ClickFix Evolves with PySoxy Proxying"
+    },
+    {
+      "value": "storewebzone.net",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Chasing an Angry Spark"
+    },
+    {
+      "value": "https://t-mobile.zmlnec.top/pay?Xlh=EYdJn?bZK=7LEtS",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.fdnjsv.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.sdhwuz.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.roblox.com.et/users/191896003627/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://tr.galabet-2026-giris-adresiniz.org/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.fiexat.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://master4d.co/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://esyun25.github.io/UFJ/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://cozy-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://nitroca.biz:6782",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://91.193.17.117:443",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Threat Actor Targets Arabian Gulf Region With PlugX"
+    },
+    {
+      "value": "z6e43e5886fe-endpoint.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://t-mobile.uwqirh.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://aumentosim001.s3.us-east-005.backblazeb2.com/aumento.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.wap-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.aavecompliance.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "europetrustwave.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://t-mobile.txcznd.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://nini4d.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://beta-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.mkicjg.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.nxdjwi.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://workshop-lighting-protective-customs.trycloudflare.com",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+    },
+    {
+      "value": "baxe.pics",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer"
+    },
+    {
+      "value": "https://t-mobile.vhimgp.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://lcloud.com-appleid.com/static/pass_map2024/script/code6.php?auth=bd0b9&ID=&mode=iPhone+16+Pro+Max",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "217.119.129.121",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "AI-Assisted Lure Factory Targets Developers & Gamers"
+    },
+    {
+      "value": "http://xpie348.online/instalador/get_token.ps1",
+      "type": "URL",
+      "source": "AlienVault OTX",
+      "description": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open"
+    },
+    {
+      "value": "https://streamcapably.com/index.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.kcpnah.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.pkjvud.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "176.65.139.31",
+      "type": "IPv4",
+      "source": "AlienVault OTX",
+      "description": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities"
+    },
+    {
+      "value": "http://t-mobile.avisxp.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "trustedengagement.de",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Device Code Phishing is an Evolution in Identity Takeover"
+    },
+    {
+      "value": "https://t-mobile.rzsmpd.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.ghmsjl.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dream-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://prime-bet365.com.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://t-mobile.rhzeyf.top/pay/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "cloudservbr.com",
+      "type": "domain",
+      "source": "AlienVault OTX",
+      "description": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America"
+    },
+    {
+      "value": "https://t-mobile.mspakc.top/pay/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
