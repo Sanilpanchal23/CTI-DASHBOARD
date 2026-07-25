@@ -1,248 +1,8 @@
 {
-  "last_updated_utc": "2026-07-25T18:53:50.430040+00:00",
+  "last_updated_utc": "2026-07-25T20:06:48.809809+00:00",
   "indicators": [
     {
-      "value": "http://servicionatural.webcindario.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Madrid",
-        "country": "Spain",
-        "lat": 40.4327,
-        "lon": -3.621
-      }
-    },
-    {
-      "value": "http://sp3ct-barnik-biz8-fesqor-mulad.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.roblox.com.bi/users/971999892083/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "R\u00fcmlang",
-        "country": "Switzerland",
-        "lat": 47.4505,
-        "lon": 8.5255
-      }
-    },
-    {
-      "value": "http://sp3ct-xavlor-biz8-ranqik-pused.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://zjstr5bpzgobk-qcfzk98plsi-3e4f7a-fyn2c.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://galabetbet.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://www.instagramlogin24.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Quer\u00e9taro City",
-        "country": "Mexico",
-        "lat": 20.5888,
-        "lon": -100.39
-      }
-    },
-    {
-      "value": "https://www.html-vs-markdown-llm.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "http://kucein-log.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Montreal",
-        "country": "Canada",
-        "lat": 45.5019,
-        "lon": -73.5674
-      }
-    },
-    {
-      "value": "http://sp3ct-harsik-biz8-pelqor-muden.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://ma.khwgrf.com/2vite/outlook/index.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Madrid",
-        "country": "Spain",
-        "lat": 40.4167,
-        "lon": -3.70329
-      }
-    },
-    {
-      "value": "http://sp3ct-hersak-biz8-lovqen-pudal.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-morsel-biz8-havqik-lorex.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://kioxcoinlogxno.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-mavnik-biz8-kolqor-hufem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-durnik-biz8-velqas-forem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://tr.ee/o5ac4yG32F",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Montreal",
-        "country": "Canada",
-        "lat": 45.5019,
-        "lon": -73.5674
-      }
-    },
-    {
-      "value": "https://facebookverifyyouraccount.blogspot.com/?m=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-rolqas-biz8-farnik-vusem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://aumentocupo-transaccional.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "http://sp3ct-yorsak-biz8-pelqik-rumen.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-parnik-biz8-kovqem-hused.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-tolvak-biz8-fersik-pudam.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -266,67 +26,7 @@
       }
     },
     {
-      "value": "http://sp3ct-forsak-biz8-lenqor-hidem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-vesnik-biz8-parqor-hufad.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp5ct-burex-biz8-falon-kirev.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-kelqas-biz8-ramvik-foden.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://cn.mpmxzu.com/home/register?code=49438",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.bybitamlchecker.com/connect",
+      "value": "http://maxispointsredemption.us.cc/4g/home.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -335,6 +35,132 @@
         "country": "Singapore",
         "lat": 1.35208,
         "lon": 103.82
+      }
+    },
+    {
+      "value": "http://basitgiris.one/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Amsterdam",
+        "country": "The Netherlands",
+        "lat": 52.3716,
+        "lon": 4.8883
+      }
+    },
+    {
+      "value": "http://padisahbet.enyenigirisi2.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Amsterdam",
+        "country": "The Netherlands",
+        "lat": 52.3716,
+        "lon": 4.8883
+      }
+    },
+    {
+      "value": "http://ylhrii-7shvr3-pdzmo-2gv-cz1y.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://sp5ct-ronik-biz8-falem-vurex.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://heasrty.respay.web.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://xelzavi-gld-belxora-c2x6hp45.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://g5.lu/wyfb4",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "R\u00fcmlang",
+        "country": "Switzerland",
+        "lat": 47.4505,
+        "lon": 8.5255
+      }
+    },
+    {
+      "value": "http://sp3ct-farqem-biz8-kurnik-dosel.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://facebook-community.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
+      }
+    },
+    {
+      "value": "http://sp3ct-veslor-biz8-purnik-fosem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://kuikanxllognn.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Montreal",
+        "country": "Canada",
+        "lat": 45.5019,
+        "lon": -73.5674
       }
     },
     {
@@ -350,7 +176,7 @@
       }
     },
     {
-      "value": "http://sp3ct-qeslor-biz8-harnak-fuvil.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-karsel-biz8-henqik-povur.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -362,7 +188,7 @@
       }
     },
     {
-      "value": "http://sp3ct-rensak-biz8-felqik-movad.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-delvak-biz8-harqik-mured.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -374,7 +200,7 @@
       }
     },
     {
-      "value": "http://sp3ct-felqor-biz8-zurnel-luhad.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://xelnita-gld-lentora-c1m7hq86.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -386,7 +212,7 @@
       }
     },
     {
-      "value": "http://sp3ct-savqor-biz8-lurnak-fimed.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-renvak-biz8-folqor-mudam.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -398,31 +224,43 @@
       }
     },
     {
-      "value": "http://maxispointsredemption.us.cc/4g/home.html",
+      "value": "http://koiicinglllcoig.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.vipjyff.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Singapore",
-        "country": "Singapore",
-        "lat": 1.35208,
-        "lon": 103.82
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
       }
     },
     {
-      "value": "https://secure-index-editor--lorenaadelaidav.replit.app/forgotpassword.html/forgotpassword.html/",
+      "value": "http://telvora-gld-felmari-a5v1hp98.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ledger-wallets-auth-edges.vercel.app/ledger%20form/verify.html/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Kansas City",
+        "city": "Walnut",
         "country": "United States",
-        "lat": 39.0997,
-        "lon": -94.5785
+        "lat": 34.0119,
+        "lon": -117.86
       }
     },
     {
-      "value": "https://pegaixa.sbs/offer/",
+      "value": "http://sp3ct-hersak-biz8-lovqen-pudal.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -434,7 +272,7 @@
       }
     },
     {
-      "value": "http://sp3ct-ransik-biz8-zelqem-fudor.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://xelzora-gld-belxemi-c2x3hp92.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -446,7 +284,13 @@
       }
     },
     {
-      "value": "http://sp3ct-dorsak-biz8-felqor-luden.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://barclays-bank.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-belvak-biz8-korsel-funed.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -458,115 +302,31 @@
       }
     },
     {
-      "value": "https://jwforum.net/",
+      "value": "http://uuploddlygghd.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.roblox.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=67182664163045927889367614191580",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Tampa",
-        "country": "United States",
-        "lat": 28.0109,
-        "lon": -82.4948
+        "city": "R\u00fcmlang",
+        "country": "Switzerland",
+        "lat": 47.4505,
+        "lon": 8.5255
       }
     },
     {
-      "value": "http://www.bhhgfgf.weebly.com/",
+      "value": "https://www.facebookloginguidance.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Oakland",
-        "country": "United States",
-        "lat": 37.8086,
-        "lon": -122.269
-      }
+      "description": "Active Phishing URL"
     },
     {
-      "value": "http://sp3ct-lorqik-biz8-furnel-mosed.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-telqor-biz8-harnik-lufem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://sp3ct-polqik-biz8-farnel-lusem.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-havrik-biz8-korqas-polen.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-folvak-biz8-mesqik-duran.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-norqas-biz8-pelvik-durem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://telzora-gld-fentora-r9t6hk55.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://green-month-640647.framer.app/",
+      "value": "http://jubilant-travelers-314515.framer.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -578,46 +338,10 @@
       }
     },
     {
-      "value": "http://telmora-gld-fentela-r8t9dq33.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-kesnik-biz8-malqem-rudor.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://kucio-nloggn.godaddysites.com/",
+      "value": "http://kuciounlognjus.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://started-dekstop.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
     },
     {
       "value": "http://xelvora-gld-belquza-c6x2hp78.pages.dev/appeals/submit-appeal-form/return",
@@ -632,55 +356,7 @@
       }
     },
     {
-      "value": "http://kuciounlognjus.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://rwan1122.github.io/amazon-project",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://kkkukoimlgnn.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://metamask-docs-45ta0ykbu-consensys-ddffed67.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://ubiquitous-fox-1d2094.netlify.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Jose",
-        "country": "United States",
-        "lat": 37.3394,
-        "lon": -121.895
-      }
-    },
-    {
-      "value": "http://super-starburst-f65f7e.netlify.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "San Jose",
-        "country": "United States",
-        "lat": 37.3394,
-        "lon": -121.895
-      }
-    },
-    {
-      "value": "http://sp3ct-vesqor-biz8-darnik-polam.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://telvora-gld-felquro-r1t2hq56.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -692,13 +368,7 @@
       }
     },
     {
-      "value": "http://www.facebook-di.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://telvora-gld-felmita-r6t4hp36.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-vorsik-biz8-helqor-puden.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -710,109 +380,7 @@
       }
     },
     {
-      "value": "https://facebook-viideos-app-2.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Mountain View",
-        "country": "United States",
-        "lat": 37.4225,
-        "lon": -122.085
-      }
-    },
-    {
-      "value": "http://kucoini-uvslogn.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-zorvak-biz8-felqor-dasin.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://instagramlogin77.blogspot.com/?m=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Dallas",
-        "country": "United States",
-        "lat": 32.7767,
-        "lon": -96.797
-      }
-    },
-    {
-      "value": "http://sp3ct-jasqel-biz8-murnak-lovid.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-rovnik-biz8-falqem-luden.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://offers-codanews.mpayz.biz.id/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://telmora-gld-felmita-r2t3hq51.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.facebook-viideos-app-1.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://guitar-photograph-maintaining-realized.trycloudflare.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-bavlor-biz8-mersik-fudan.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-qarnik-biz8-lovqas-furem.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -836,25 +404,19 @@
       }
     },
     {
-      "value": "http://sp3ct-farnol-biz8-zelqik-rudan.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://www.facebook-di.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
       }
     },
     {
-      "value": "https://g5.lu/wyfb4",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://telvora-gld-felquro-r1t2hq56.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-jasqel-biz8-murnak-lovid.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -878,19 +440,7 @@
       }
     },
     {
-      "value": "http://sp3ct-tersak-biz8-lovqor-hufem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-norsel-biz8-kavqor-fidam.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-zavlor-biz8-merqik-hufan.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -905,7 +455,109 @@
       "value": "http://www.win-rblox.blogspot.com/?m=1",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
+      }
+    },
+    {
+      "value": "http://sp3ct-forsak-biz8-lenqor-hidem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://sp3ct-felqor-biz8-zurnel-luhad.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://vormora-gld-belmita-c3x4hp76.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://started-dekstop.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://sp3ct-lersak-biz8-fonqor-videm.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://sp3ct-furnor-biz8-kelqik-dasem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://qervexa-gld-lentora-a9v6fc25.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://tr.ee/o5ac4yG32F",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Montreal",
+        "country": "Canada",
+        "lat": 45.5019,
+        "lon": -73.5674
+      }
     },
     {
       "value": "http://xelveta-gld-belquro-c7x5hp40.pages.dev/appeals/submit-appeal-form/return",
@@ -920,289 +572,43 @@
       }
     },
     {
-      "value": "https://www.roblox.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=67182664163045927889367614191580",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "R\u00fcmlang",
-        "country": "Switzerland",
-        "lat": 47.4505,
-        "lon": 8.5255
-      }
-    },
-    {
-      "value": "http://server1341.github.io/chase1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.free1instagramfollowers.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-furnik-biz8-darsel-povad.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-neslor-biz8-dravik-pasem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://telmora-gld-felmora-r2t3hp51.pages.dev/send_appeal_request",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://ylhrii-7shvr3-pdzmo-2gv-cz1y.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-farqem-biz8-kurnik-dosel.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-zolvak-biz8-parqik-fudem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://sp3ct-damvor-biz8-hurnik-pasek.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://streaming-ui-react.netlify.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.all-set-invitaionhere.surge.sh/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://maxcxis.us.cc/5g/home.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-murnak-biz8-kelqas-hovem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://kuikanxllognn.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-holnik-biz8-renqel-fudam.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.djflslfjflslfikrorie.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://m.ezhj2znh069c.com:9229/account/reg?code=49438",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-zarnel-biz8-forsik-lupad.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-porsel-biz8-havqik-fudan.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://vormela-gld-fentora-r4m9hq58.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://uuploddlldghu.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.amazon-clone-rukhaam.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://padisahbet.enyenigirisi2.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://365365y.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.facebook-login-be.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://facebook-community.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-vorqem-biz8-larnik-fudal.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://vormora-gld-fentixa-r1p7dw25.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.lifetime-markapplynow-bluebadge.surge.sh/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-kornel-biz8-ravqem-fudor.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-lersak-biz8-fonqor-videm.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://jubilant-travelers-314515.framer.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "34.204.119.63",
+      "value": "178.62.3.223",
       "type": "IPv4",
       "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
+      "description": "Botnet C2 (QakBot)",
+      "geo": {
+        "city": "Slough",
+        "country": "United Kingdom",
+        "lat": 51.5177,
+        "lon": -0.6215
+      }
     },
     {
-      "value": "http://sp3ct-renqem-biz8-zarnik-ludor.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-holqik-biz8-varsel-munod.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://barclays-bank.vercel.app/",
+      "value": "https://sp5ct-hurev-biz8-lorem-safik.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://koiicinglllcoig.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-korvik-biz8-zarnel-mudok.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.bqnbsix.rumahsakit.de/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.deogooddk.net/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-kavrik-biz8-morsel-huden.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://roblox.com.bi/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -1211,88 +617,124 @@
       "value": "http://sp5ct-tavro-biz8-selun-pravik.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://instagramlogin99.blogspot.com/?m=1",
+      "value": "http://sp3ct-lemqor-biz8-durnak-hovel.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://ma.khwgrf.com/2vite/outlook/index.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.4167,
+        "lon": -3.70329
+      }
+    },
+    {
+      "value": "http://kocin-logiiuixnlkg-io.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://aligma.sbs/offer/",
+      "value": "http://www.djflslfjflslfikrorie.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
+      }
+    },
+    {
+      "value": "https://www.facebooke-login.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
+      }
+    },
+    {
+      "value": "http://sp3ct-qovrik-biz8-farsel-muden.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://sp3ct-qovsak-biz8-harnik-mufed.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://server1341.github.io/chase1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
+    },
+    {
+      "value": "http://sp3ct-tersak-biz8-lovqor-hufem.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://sp3ct-favrik-biz8-lorqor-mused.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://vormavi-gld-belquni-c4x2dw98.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://sp3ct-porqas-biz8-delnik-fuvem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://maxcxis.us.cc/5g",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-karsel-biz8-henqik-povur.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ledger-wallets-auth-edges.vercel.app/ledger%20form/verify.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://azam-crush.github.io/subhan/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-velnik-biz8-morqor-lused.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://roblox.et/communities/6946372401/avatar-designers",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-larnik-biz8-movqem-husor.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://support-uphold-auths-secure.typedream.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://secure-page-creator--george-x-x.replit.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-basqor-biz8-kelvik-luned.pages.dev/appeals/submit-appeal-form/return",
+      "value": "https://basitgiris2.one/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -1304,256 +746,34 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://telmora-gld-felmora-r2t3hp51.pages.dev/thn-yjm-uio-lkh?welcome=1437569073145374&stt=1437569073145374&name_stt=Mehta%20Publishing%20House",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-torlem-biz8-karsik-voden.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-lurqas-biz8-zarnik-fodem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://yftp-cx1ewi-pe9-4the-xwf2sg.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://gemnini-login.gitbook.io/sign-up",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.shardocmn.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-havqik-biz8-polren-mudem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-holqik-biz8-varsel-munod.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-halqik-biz8-renvak-lusor.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-polrem-biz8-harnik-fovel.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://facebooksecure.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://galyabet.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-lavsel-biz8-korqor-mufed.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-hurnik-biz8-fesqel-lorud.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
       "value": "https://huzaifafarooqq.github.io/spotify-clone",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://en-desktop-ledgeer.pages.dev/",
+      "value": "http://www.bhhgfgf.weebly.com/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Oakland",
+        "country": "United States",
+        "lat": 37.8086,
+        "lon": -122.269
+      }
     },
     {
-      "value": "https://www.facebooklogin01.blogspot.com/",
+      "value": "https://www.youstandom38.info/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.teyhgdghdd.weebly.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.vipjyff.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.facebooke-login.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://srvicepromigrogershaweb-81d327.netlify.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://tsnhtfsdx.eu.cc/es",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.roblox.com.ml/users/245633510667/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://xelquna-gld-belquza-c5x9hc66.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-hesrik-biz8-qolvak-durem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-zurnak-biz8-telqor-lovem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-qurnik-biz8-zelqas-horud.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sp4ct-qarvulen-biz8-surem-kafix.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://klmqw4251lk-yhnujpli-8ce96c-klm63c.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://facebook-viideos-app-1.blogspot.com/?m=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://mkrjb641kf-pldwfpdrf-5e0a8b-vzk14n.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-tolvak-biz8-fersik-pudam.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-bornak-biz8-helqik-vured.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "178.62.3.223",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
-    },
-    {
-      "value": "http://pentlowe-health-au.kosteradredging.workers.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://uphoolduslogii.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://xelquna-gld-belmora-c5x2hk89.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://xelzora-gld-belxemi-c2x3hp92.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://facebookloginapp.blogspot.com/?m=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-tarnik-biz8-polqor-fused.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-qovsak-biz8-harnik-mufed.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-porvik-biz8-delqen-hosar.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "New York",
+        "country": "United States",
+        "lat": 40.7399,
+        "lon": -73.9905
+      }
     },
     {
       "value": "http://uphloll-xlugnm-io.godaddysites.com/",
@@ -1562,256 +782,64 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://xelnita-gld-lentora-c1m7hq86.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.facebookloginss.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://x4ri3o-m26vjq-z9bf-ptav58.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-tarnik-biz8-hesqor-ludem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://koiocionlogox.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://simple-security-page--kelvinmartins81.replit.app/forgotpassword.html/forgotpassword.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://upholide-nvlrigin.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://vormora-gld-belmita-c3x4hp76.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-qarnik-biz8-lovqas-furem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://suppor-tecni.webcindario.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://uuploddlygghd.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.bybitamlchecker.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://telmora-gld-fentora-r8t7hq18.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sp4ct-zarvulen-biz8-durem-fasok.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "162.243.103.246",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (Emotet)"
-    },
-    {
-      "value": "http://sp3ct-borsel-biz8-qavrik-hudor.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-lernak-biz8-polqor-fudem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-melrik-biz8-korqas-huvon.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://koicimlogimn.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "27.133.154.218",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
-    },
-    {
       "value": "http://sp3ct-torvak-biz8-helqik-pusen.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-furnik-biz8-velqas-domar.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-belvak-biz8-korsel-funed.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://cbdsh11lkwg-gfnzpplx-3a5d4e-cbd77w.pages.dev/welcome_aboard?welcome=1000045790640960&token248=1000045790640960&name_token136=626%20Night%20Market%20-%20Bay%20Area",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://gemnini-login.gitbook.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-keslor-biz8-mavrik-fuden.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-zemlar-biz8-korvex-finul.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://telvora-gld-felmari-a5v1hp98.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://maxispointsredemption.us.cc/4g/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp6ct-kelmor-biz8-zintar-luvek.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-hesqen-biz8-morvik-ladep.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
       "value": "https://instagramlogin124.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
+      }
     },
     {
-      "value": "http://sp3ct-horsel-biz8-qavrik-fudem.pages.dev/appeals/submit-appeal-form/return",
+      "value": "https://www.html-vs-markdown-llm.vercel.app/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
     },
     {
-      "value": "http://sp3ct-mavlor-biz8-forsik-zuden.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://xelzora-gld-belquro-c9x7dw60.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://sp3ct-rovsel-biz8-kelqor-mufed.pages.dev/appeals/submit-appeal-form/return",
+      "value": "https://secure-index-editor--lorenaadelaidav.replit.app/forgotpassword.html/forgotpassword.html/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://telvora-gld-zormela-r1x6dp47.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://vormixa-gld-fentora-r4v6hp35.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://xelzavi-gld-belxora-c2x6hp45.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://weak-jade-xwgjmbeh.edgeone.dev/?naps",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-ramnik-biz8-zelqas-hudor.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.facebooksecure.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.facebook-benjamin.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Kansas City",
+        "country": "United States",
+        "lat": 39.0997,
+        "lon": -94.5785
+      }
     },
     {
       "value": "http://win-rblox.blogspot.com/",
@@ -1820,259 +848,229 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://sp3ct-morvak-biz8-kelqor-lusen.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://www.teyhgdghdd.weebly.com/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Oakland",
+        "country": "United States",
+        "lat": 37.8086,
+        "lon": -122.269
+      }
     },
     {
-      "value": "http://sp3ct-varnik-biz8-pelqen-horex.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-durnik-biz8-velqas-forem.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "https://sp4ct-galmurex-biz8-forel-kasok.pages.dev/",
+      "value": "http://sp3ct-bornak-biz8-helqik-vured.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://roblox.com.bi/",
+      "value": "http://vormixa-gld-fentora-r4v6hp35.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://zyq-ri6yyz-lg0b2n-rhgjv-v9k9.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-hesqen-biz8-morvik-ladep.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://sp3ct-lorvak-biz8-mesqor-zudan.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-barsel-biz8-kavqor-fudem.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://sp3ct-holnar-biz8-vesqik-lutem.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-farnik-biz8-zelqas-murad.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://vormavi-gld-belquni-c4x2dw98.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-tarnik-biz8-polqor-fused.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://tur-nnb.global.ssl.fastly.net/index",
+      "value": "http://sp3ct-harsik-biz8-pelqor-muden.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://www.netflix-clone-gold-nine.vercel.app/",
+      "value": "http://sp3ct-xavlor-biz8-ranqik-pused.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://daniel-spk.github.io/SPOTIFY/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://xelquna-gld-zelmora-c6v3hp91.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://xelzora-gld-belquro-c9x7dw60.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://upelofexzqling-us.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://netfflixui.netlify.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-vorsik-biz8-helqor-puden.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-qovrik-biz8-farsel-muden.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-havqor-biz8-larnik-dusem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-renvak-biz8-folqor-mudam.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://kocin-logiiuixnlkg-io.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp29ct-pronsik-biz-kelvak-homtor.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://globals-trackings.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-hurnor-biz8-kesqel-rudam.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://metaaii-memetamusk-log-in.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://fugusa.sbs/offer/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.facebookloginguidance.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-lemqor-biz8-durnak-hovel.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-delvak-biz8-harqik-mured.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-delqem-biz8-farnik-mused.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://feratyxz.faydnx.web.id/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-yolvak-biz8-harsel-ludem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://heasrty.respay.web.id/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-yavlor-biz8-mesrik-qodan.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://facebook-loginacc.blogspot.com/?m=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-lovrik-biz8-hurqor-fased.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.codelogr-two.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.youstandom38.info/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
       "value": "http://sp3ct-qelvak-biz8-farsik-loden.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "http://up-holddlugun.godaddysites.com/",
+      "value": "https://www.lifetime-markapplynow-bluebadge.surge.sh/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.709,
+        "lon": -79.4057
+      }
+    },
+    {
+      "value": "http://sp3ct-favrik-biz8-lorqor-mused.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://specmaiil.vercel.app/",
+      "value": "http://instagramlogin99.blogspot.com/?m=1",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://sp5ct-hurev-biz8-lorem-safik.pages.dev/",
+      "value": "https://support-uphold-auths-secure.typedream.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://telzora-gld-fentora-r9t6hk55.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://sp3ct-mavnik-biz8-kolqor-hufem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://sp3ct-kornel-biz8-ravqem-fudor.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://aktf-dnaid.adrnt.my.id/",
+      "value": "https://suppor-tecni.webcindario.com/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.4327,
+        "lon": -3.621
+      }
     },
     {
-      "value": "https://basitgiris2.one/",
+      "value": "http://sp3ct-yorsak-biz8-pelqik-rumen.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://sp3ct-delqem-biz8-farnik-mused.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -2084,193 +1082,49 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://sp3ct-brelik-biz8-torqas-moden.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://streaming-ui-react.netlify.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://xelzora-gld-lentora-c1x2dk87.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-torlem-biz8-karsik-voden.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://silly-cannoli-f9521c.netlify.app/",
+      "value": "http://en-desktop-ledgeer.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://sp3ct-navrik-biz8-horsel-fidam.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://sp3ct-bavlor-biz8-mersik-fudan.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://sp3ct-pavlor-biz8-zesqik-horun.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://uphoolduslogii.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://sp3ct-zalqik-biz8-ternak-lovur.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://tsnhtfsdx.eu.cc/es",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://sp3ct-selvak-biz8-fornik-darem.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://metaaii-memetamusk-log-in.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://inicio-cad.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-qesnik-biz8-harnel-fudam.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-barsel-biz8-kavqor-fudem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-lurvak-biz8-fornel-midam.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://ycnxuf-jug-ak4-g0npqm-21fa8y.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-vasrik-biz8-kelqen-horad.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp5ct-ronik-biz8-falem-vurex.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-kersel-biz8-movqik-hurad.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://qervexa-gld-lentora-a9v6fc25.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.facebook-hack-accounts.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-larnex-biz8-vesqor-pidam.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://help-us-secure-web-uphold-login.typedream.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-veslor-biz8-purnik-fosem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-velrik-biz8-hosqor-mudan.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-nurqik-biz8-porsel-fidem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-kavlor-biz8-mesqor-pufem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-furnor-biz8-kelqik-dasem.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://3ex3x3x3x.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-zavlor-biz8-merqik-hufan.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-raskel-biz8-vormek-lanqu.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-farnik-biz8-zelqas-murad.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-velqas-biz8-parnik-husod.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-venqor-biz8-raskin-polad.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://sp3ct-morsak-biz8-helqen-vudam.pages.dev/appeals/submit-appeal-form/return",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://basitgiris.one/",
+      "value": "http://sp3ct-ramnik-biz8-zelqas-hudor.pages.dev/appeals/submit-appeal-form/return",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -2282,13 +1136,1177 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://sp3ct-tavlor-biz8-furnak-qidem.pages.dev/appeals/submit-appeal-form/return",
+      "value": "http://www.netflix-clone-gold-nine.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-rovsel-biz8-kelqor-mufed.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://facebook-loginacc.blogspot.com/?m=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-larnex-biz8-vesqor-pidam.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://facebooksecure.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://facebook-viideos-app-1.blogspot.com/?m=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-havrik-biz8-korqas-polen.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://specmaiil.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-pavlor-biz8-zesqik-horun.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://koicimlogimn.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-qeslor-biz8-harnak-fuvil.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://weak-jade-xwgjmbeh.edgeone.dev/?naps",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-zorvak-biz8-felqor-dasin.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-nurqik-biz8-porsel-fidem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-lernak-biz8-polqor-fudem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-furnik-biz8-darsel-povad.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-vesqor-biz8-darnik-polam.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-morsak-biz8-helqen-vudam.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.facebook-viideos-app-1.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ycnxuf-jug-ak4-g0npqm-21fa8y.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-zarnel-biz8-forsik-lupad.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-rovnik-biz8-falqem-luden.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://facebookloginapp.blogspot.com/?m=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://facebook-viideos-app-2.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://facebookverifyyouraccount.blogspot.com/?m=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-damvor-biz8-hurnik-pasek.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-furnik-biz8-velqas-domar.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://zyq-ri6yyz-lg0b2n-rhgjv-v9k9.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://daniel-spk.github.io/SPOTIFY/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://up-holddlugun.godaddysites.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
       "value": "https://mcisxasx.us.cc/5g",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://guitar-photograph-maintaining-realized.trycloudflare.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "27.133.154.218",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "http://sp3ct-hesrik-biz8-qolvak-durem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.codelogr-two.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-zurnak-biz8-telqor-lovem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://globals-trackings.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp29ct-pronsik-biz-kelvak-homtor.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://fugusa.sbs/offer/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://xelquna-gld-belmora-c5x2hk89.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-havqik-biz8-polren-mudem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://jwforum.net/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.facebooklogin01.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-velrik-biz8-hosqor-mudan.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-morvak-biz8-kelqor-lusen.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.roblox.com.ml/users/245633510667/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://kioxcoinlogxno.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.amazon-clone-rukhaam.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.bybitamlchecker.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-farnol-biz8-zelqik-rudan.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.facebook-benjamin.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://telvora-gld-felmita-r6t4hp36.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://help-us-secure-web-uphold-login.typedream.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://pentlowe-health-au.kosteradredging.workers.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-kavrik-biz8-morsel-huden.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://xelquna-gld-belquza-c5x9hc66.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://kucoini-uvslogn.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-lovrik-biz8-hurqor-fased.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://metamask-docs-45ta0ykbu-consensys-ddffed67.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-keslor-biz8-mavrik-fuden.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://secure-page-creator--george-x-x.replit.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://klmqw4251lk-yhnujpli-8ce96c-klm63c.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://cbdsh11lkwg-gfnzpplx-3a5d4e-cbd77w.pages.dev/welcome_aboard?welcome=1000045790640960&token248=1000045790640960&name_token136=626%20Night%20Market%20-%20Bay%20Area",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://silly-cannoli-f9521c.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-dorsak-biz8-felqor-luden.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-porqas-biz8-delnik-fuvem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://telmora-gld-felmora-r2t3hp51.pages.dev/send_appeal_request",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://simple-security-page--kelvinmartins81.replit.app/forgotpassword.html/forgotpassword.html/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-murnak-biz8-kelqas-hovem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://vormora-gld-fentixa-r1p7dw25.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://kucein-log.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-basqor-biz8-kelvik-luned.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-vesnik-biz8-parqor-hufad.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-yolvak-biz8-harsel-ludem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://xelquna-gld-zelmora-c6v3hp91.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://3ex3x3x3x.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://rwan1122.github.io/amazon-project",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.shardocmn.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-brelik-biz8-torqas-moden.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://upholide-nvlrigin.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-varnik-biz8-pelqen-horex.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.free1instagramfollowers.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://sp4ct-galmurex-biz8-forel-kasok.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-velnik-biz8-morqor-lused.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://telmora-gld-fentora-r8t7hq18.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://aumentocupo-transaccional.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://super-starburst-f65f7e.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-lurqas-biz8-zarnik-fodem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://kucio-nloggn.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://srvicepromigrogershaweb-81d327.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://green-month-640647.framer.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://m.ezhj2znh069c.com:9229/account/reg?code=49438",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-tarnik-biz8-hesqor-ludem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-kesnik-biz8-malqem-rudor.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-hurnik-biz8-fesqel-lorud.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-rolqas-biz8-farnik-vusem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://tur-nnb.global.ssl.fastly.net/index",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://galabetbet.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-lorvak-biz8-mesqor-zudan.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://mkrjb641kf-pldwfpdrf-5e0a8b-vzk14n.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://upelofexzqling-us.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://maxcxis.us.cc/5g/home.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-barnik-biz8-fesqor-mulad.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-hurnor-biz8-kesqel-rudam.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://instagramlogin77.blogspot.com/?m=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-parnik-biz8-kovqem-hused.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-renqem-biz8-zarnik-ludor.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.facebook-hack-accounts.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://maxcxis.us.cc/5g",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ubiquitous-fox-1d2094.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://feratyxz.faydnx.web.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://xelzora-gld-lentora-c1x2dk87.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-porsel-biz8-havqik-fudan.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://sp4ct-qarvulen-biz8-surem-kafix.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://roblox.et/communities/6946372401/avatar-designers",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-horsel-biz8-qavrik-fudem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-norqas-biz8-pelvik-durem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-velqas-biz8-parnik-husod.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp6ct-kelmor-biz8-zintar-luvek.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-yavlor-biz8-mesrik-qodan.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://aktf-dnaid.adrnt.my.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://uuploddlldghu.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://gemnini-login.gitbook.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-zemlar-biz8-korvex-finul.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.all-set-invitaionhere.surge.sh/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-raskel-biz8-vormek-lanqu.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-lorqik-biz8-furnel-mosed.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-neslor-biz8-dravik-pasem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.instagramlogin24.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-lavsel-biz8-korqor-mufed.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://inicio-cad.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-telqor-biz8-harnik-lufem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://offers-codanews.mpayz.biz.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-tavlor-biz8-furnak-qidem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.bybitamlchecker.com/connect",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-navrik-biz8-horsel-fidam.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-morsel-biz8-havqik-lorex.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "162.243.103.246",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (Emotet)"
+    },
+    {
+      "value": "http://vormela-gld-fentora-r4m9hq58.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-norsel-biz8-kavqor-fidam.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://telmora-gld-felmita-r2t3hq51.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-rensak-biz8-felqik-movad.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-vorqem-biz8-larnik-fudal.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-venqor-biz8-raskin-polad.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-borsel-biz8-qavrik-hudor.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://aligma.sbs/offer/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-porvik-biz8-delqen-hosar.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-qurnik-biz8-zelqas-horud.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://telvora-gld-zormela-r1x6dp47.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-folvak-biz8-mesqik-duran.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-polrem-biz8-harnik-fovel.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-havqor-biz8-larnik-dusem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.facebooksecure.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://kkkukoimlgnn.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.roblox.com.bi/users/971999892083/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.deogooddk.net/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-larnik-biz8-movqem-husor.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.bqnbsix.rumahsakit.de/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://zjstr5bpzgobk-qcfzk98plsi-3e4f7a-fyn2c.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-lurvak-biz8-fornel-midam.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-melrik-biz8-korqas-huvon.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-kersel-biz8-movqik-hurad.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-zalqik-biz8-ternak-lovur.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://sp4ct-zarvulen-biz8-durem-fasok.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://gemnini-login.gitbook.io/sign-up",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://sp3ct-polqik-biz8-farnel-lusem.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-holnik-biz8-renqel-fudam.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://telmora-gld-fentela-r8t9dq33.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://servicionatural.webcindario.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://netfflixui.netlify.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-qesnik-biz8-harnel-fudam.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-vasrik-biz8-kelqen-horad.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://pegaixa.sbs/offer/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://maxispointsredemption.us.cc/4g/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://yftp-cx1ewi-pe9-4the-xwf2sg.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-zolvak-biz8-parqik-fudem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-kelqas-biz8-ramvik-foden.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-halqik-biz8-renvak-lusor.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://galyabet.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-korvik-biz8-zarnel-mudok.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://365365y.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp5ct-burex-biz8-falon-kirev.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "34.204.119.63",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "http://x4ri3o-m26vjq-z9bf-ptav58.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://koiocionlogox.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-ransik-biz8-zelqem-fudor.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://telmora-gld-felmora-r2t3hp51.pages.dev/thn-yjm-uio-lkh?welcome=1437569073145374&stt=1437569073145374&name_stt=Mehta%20Publishing%20House",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://cn.mpmxzu.com/home/register?code=49438",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-holnar-biz8-vesqik-lutem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-savqor-biz8-lurnak-fimed.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-mavlor-biz8-forsik-zuden.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-kavlor-biz8-mesqor-pufem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://azam-crush.github.io/subhan/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp3ct-selvak-biz8-fornik-darem.pages.dev/appeals/submit-appeal-form/return",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.facebook-login-be.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.facebookloginss.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
