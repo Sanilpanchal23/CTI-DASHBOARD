@@ -1,326 +1,8 @@
 {
-  "last_updated_utc": "2026-08-11T13:51:19.289933+00:00",
+  "last_updated_utc": "2026-08-11T14:51:03.083915+00:00",
   "indicators": [
     {
-      "value": "https://www.claimed-gifts.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Mountain View",
-        "country": "United States",
-        "lat": 37.4225,
-        "lon": -122.085
-      }
-    },
-    {
-      "value": "https://rpc.polygon-zkevm.gateway.fm",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
-      "geo": {
-        "city": "Haarlem",
-        "country": "The Netherlands",
-        "lat": 52.3803,
-        "lon": 4.6422
-      }
-    },
-    {
-      "value": "198.255.70.210",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources",
-      "geo": {
-        "city": "Los Angeles",
-        "country": "United States",
-        "lat": 34.0483,
-        "lon": -118.255
-      }
-    },
-    {
-      "value": "https://004e3a.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Curic\u00f3",
-        "country": "Chile",
-        "lat": -34.9826,
-        "lon": -71.2344
-      }
-    },
-    {
-      "value": "https://bnc-flb.web.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Mountain View",
-        "country": "United States",
-        "lat": 37.4225,
-        "lon": -122.085
-      }
-    },
-    {
-      "value": "makepasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-      "geo": {
-        "city": "Belmopan",
-        "country": "Belize",
-        "lat": 17.2523,
-        "lon": -88.7641
-      }
-    },
-    {
-      "value": "92.118.112.181",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
-      "geo": {
-        "city": "Atlanta",
-        "country": "United States",
-        "lat": 33.7485,
-        "lon": -84.3871
-      }
-    },
-    {
-      "value": "js-mirror.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Inside a Self-Propagating npm Worm"
-    },
-    {
-      "value": "setpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://loginfacebookverification.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Mountain View",
-        "country": "United States",
-        "lat": 37.4225,
-        "lon": -122.085
-      }
-    },
-    {
-      "value": "https://a31cf6.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.xfinityrefunds.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Quincy",
-        "country": "United States",
-        "lat": 47.233,
-        "lon": -119.852
-      }
-    },
-    {
-      "value": "170.33.128.5",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Haidian",
-        "country": "China",
-        "lat": 39.9999,
-        "lon": 116.315
-      }
-    },
-    {
-      "value": "38.46.219.163",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources",
-      "geo": {
-        "city": "Draper",
-        "country": "United States",
-        "lat": 40.5247,
-        "lon": -111.8638
-      }
-    },
-    {
-      "value": "update-launcher.xyz",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications"
-    },
-    {
-      "value": "45.125.35.231",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Mong Kok",
-        "country": "Hong Kong",
-        "lat": 22.3205,
-        "lon": 114.168
-      }
-    },
-    {
-      "value": "http://www.icloud-cdn.net/checksum.bin",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Hong Kong",
-        "country": "Hong Kong",
-        "lat": 22.3193,
-        "lon": 114.169
-      }
-    },
-    {
-      "value": "https://solthere.net/justacoolkat10",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Fake Xeno Roblox Cheats Deliver Powerful Java Stealer Through Discord and Forums",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetAddresse",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Mong Kok",
-        "country": "Hong Kong",
-        "lat": 22.3205,
-        "lon": 114.168
-      }
-    },
-    {
-      "value": "https://a95e7b.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "bovetewa.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://www.icloud-cdn.net/GetSlaver",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "bkofamerica.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Phishing Email Delivers ScreenConnect Malware",
-      "geo": {
-        "city": "Dallas",
-        "country": "United States",
-        "lat": 32.7797,
-        "lon": -96.8022
-      }
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetProxies",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "San Po Kong",
-        "country": "Hong Kong",
-        "lat": 22.3378,
-        "lon": 114.198
-      }
-    },
-    {
-      "value": "https://www.mouvementacced.app/core/client/rbcroyal/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetEndpoints",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "derrspecial-onlinedmin.live",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "ScreenConnect RMM Abuse, Cloudflare Tunnels, and Trusted Software Lures Threat Intelligence, Threat Research, Threat Security"
-    },
-    {
-      "value": "http://cdns3.51quickfox.cn/script/firebase-app-compat.js",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://8be6e8.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://1rpc.io/matic",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://s4w.in/www-roblox-com-users-950717396-profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://s4w.in/www-roblox-com-users-9501716396-profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://7d7be1.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.roblox.com.et/games/5846386835/RetroStudio?privateServerLinkCode=28004710692762680520098075779654&game_id=5846386835&game_name=RetroStudio",
+      "value": "https://g5.lu/uk3ga",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -332,49 +14,43 @@
       }
     },
     {
-      "value": "filerubyfolder.sbs",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://www.frontend-eight-gamma-89.vercel.app/",
+      "value": "https://accountservicescenter.co.za/?r=2936e486-3960-4b99-9e03-f1a94bfde3ae&rg=eu",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Atlanta",
+        "city": "Ashburn",
         "country": "United States",
-        "lat": 33.8541,
-        "lon": -84.3791
+        "lat": 39.0438,
+        "lon": -77.4874
       }
     },
     {
-      "value": "https://df9709.arcadejafet.cl/",
+      "value": "http://b000e9.winnicart.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
       "geo": {
-        "city": "Santiago",
-        "country": "Chile",
-        "lat": -33.4521,
-        "lon": -70.6536
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "lat": 23.8672,
+        "lon": 90.3927
       }
     },
     {
-      "value": "http://www.icloud-cdn.net/Client.dll",
+      "value": "https://431b3d.icefactory.cl/",
       "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Curic\u00f3",
+        "country": "Chile",
+        "lat": -34.9826,
+        "lon": -71.2344
+      }
     },
     {
-      "value": "https://shopeeinc1111.blogspot.com/",
+      "value": "https://www.accountfacebook.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -386,16 +62,76 @@
       }
     },
     {
-      "value": "https://center.verifiblueaccountstatusai.click/index.php",
+      "value": "http://33dbae.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "casinosec.info",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases",
+      "value": "https://8f93ee.icefactory.cl/plQZiQcKliKJpcE0vLiUXtZ0xra45CerGQA00X13RWRPAqIHuyMpMD4oHxJ7BaLt/?rotated=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.mouvementacced.app/core/client/rbcroyal/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://0dddf4.arcadejafet.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Santiago",
+        "country": "Chile",
+        "lat": -33.4521,
+        "lon": -70.6536
+      }
+    },
+    {
+      "value": "https://5e20c6.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://zkbsicherung.com/login",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "lat": 64.147,
+        "lon": -21.9408
+      }
+    },
+    {
+      "value": "http://www.binance-referral-code-btcbonus.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "http://www.cashprolivedesk.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://faq-public-trezro-us.typedream.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
       "geo": {
         "city": "Toronto",
         "country": "Canada",
@@ -404,13 +140,193 @@
       }
     },
     {
-      "value": "mcagov.cc",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
+      "value": "http://apps-ledgerr.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "https://msjihasx.us.cc/5g/home.html",
+      "value": "https://alok-kumar-sing.github.io/Amazon-Clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
+    },
+    {
+      "value": "https://dfrespay.fdnk.biz.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://inlnk.co/JULBW",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://779a0e.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://8bf1b6.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://facebooksupportphonenumber12300.blogspot.com/?m=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
+      }
+    },
+    {
+      "value": "https://grespayw.grespay.web.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://shopeeinc1111.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Miami",
+        "country": "United States",
+        "lat": 25.7617,
+        "lon": -80.1918
+      }
+    },
+    {
+      "value": "https://1ecdb5.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://81ef2a.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://efe794.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://srv1888708.hstgr.cloud/rew/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "lat": 54.6876,
+        "lon": 25.2806
+      }
+    },
+    {
+      "value": "http://secure-app-tre-jor.wasmer.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Hillsboro",
+        "country": "United States",
+        "lat": 45.526,
+        "lon": -122.9874
+      }
+    },
+    {
+      "value": "https://net16ct-toru-biz-vemi-zano.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://a0330c.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://8d073d.winnicart.com/Gm6LsNjhFl7AmAOqY4Z3yCIdBk39z8cURNcefd3tgecgnhKFIdhPPqlaUtwICbnW/?rotated=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.facebookloginf.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://yjbcei4l.rqug4s3.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Minkler",
+        "country": "United States",
+        "lat": 36.7783,
+        "lon": -119.418
+      }
+    },
+    {
+      "value": "https://338874.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rbcode.net/v/837472845362c642183e731ccf5c32a3",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Amsterdam",
+        "country": "The Netherlands",
+        "lat": 52.3716,
+        "lon": 4.8883
+      }
+    },
+    {
+      "value": "https://mxhaisyx.us.cc/5g/home.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -420,6 +336,312 @@
         "lat": 1.35208,
         "lon": 103.82
       }
+    },
+    {
+      "value": "http://bai.infura-ipfs.io/ipfs/bafkreifg5u6op7zz6su3tg53j6ftrg3brcaiphlilet2wwqgobzziiunha",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Ashburn",
+        "country": "United States",
+        "lat": 39.0438,
+        "lon": -77.4874
+      }
+    },
+    {
+      "value": "https://97ee8.catex.at/cnbcard/signin.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8558,
+        "lon": 2.3494
+      }
+    },
+    {
+      "value": "https://b268b9.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dc488c.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://a1a4ab.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://0ficinavirttual4.site/index1.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://3c5d30.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ask-ledgr-live.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://5b0307.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://msjihasx.us.cc/5g/home.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://4d2582.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://alon-live-ledgr.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://f73f3c.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://instagramfollowers146.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
+      }
+    },
+    {
+      "value": "https://app-ledgr-downlod.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://d51b01.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://10920c.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://6062fd.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://d482fb.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://facebookloginreview.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Mountain View",
+        "country": "United States",
+        "lat": 37.4225,
+        "lon": -122.085
+      }
+    },
+    {
+      "value": "http://0f1bfe.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://97ee8.catex.at/cnbcard/cab3994js.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://advance-ledgr-live.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://rakuten-two.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://97479b.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://staticfile-kimkaro66.wasmer.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Hillsboro",
+        "country": "United States",
+        "lat": 45.526,
+        "lon": -122.9874
+      }
+    },
+    {
+      "value": "https://appleservices.alwaysdata.net/ref/?_fm=71a724b20779",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8558,
+        "lon": 2.3494
+      }
+    },
+    {
+      "value": "http://web-trezor-io-start-app.typedream.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.roblox.com.pt/games/103372023280442/Brainrot-Tag?privateServerLinkCode=99382535900423182128231632453729&game_id=103372023280442&game_name=Brainrot-Tag",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://app---ledger-live.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://binance-referral-code-btcbonus.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "https://53cfaf.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://plaermoxred.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Walnut",
+        "country": "United States",
+        "lat": 34.0119,
+        "lon": -117.86
+      }
+    },
+    {
+      "value": "https://newbreedlifearts.org/font/korea.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Phoenix",
+        "country": "United States",
+        "lat": 33.4656,
+        "lon": -111.9956
+      }
+    },
+    {
+      "value": "http://los108.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Chicago",
+        "country": "United States",
+        "lat": 41.8781,
+        "lon": -87.6298
+      }
+    },
+    {
+      "value": "http://www.shopeeinc1111.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
       "value": "178.62.3.223",
@@ -434,49 +656,25 @@
       }
     },
     {
-      "value": "83.97.20.150",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Fake AI Tools Deliver Infostealer",
-      "geo": {
-        "city": "Bucharest",
-        "country": "Romania",
-        "lat": 44.4268,
-        "lon": 26.1025
-      }
-    },
-    {
-      "value": "47.88.21.252",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Minkler",
-        "country": "United States",
-        "lat": 36.7783,
-        "lon": -119.418
-      }
-    },
-    {
-      "value": "https://a1a4ab.icefactory.cl/",
+      "value": "https://aea1d5.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "passkeycenter.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetResources",
+      "value": "https://1fba23.icefactory.cl/",
       "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
-      "value": "http://apps-ledgre-live.pages.dev/",
+      "value": "https://23aa9d.arcadejafet.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://app-ledgrs-live.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -488,37 +686,109 @@
       }
     },
     {
-      "value": "https://7b591c.icefactory.cl/",
+      "value": "http://binance-trading-bot-36q.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://ffacebooklogin.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "churnbot.co",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers",
+      "value": "https://ask-ledgrwalet-liv.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
       "geo": {
-        "city": "Nuremberg",
-        "country": "Germany",
-        "lat": 49.4527,
-        "lon": 11.0783
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
       }
     },
     {
-      "value": "passkeymfa.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
+      "value": "https://assets-ledgrlive-eng.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
     },
     {
-      "value": "registerpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
+      "value": "https://www.roblox.com.et/users/437042725645/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
-      "value": "https://2897d4.icefactory.cl/",
+      "value": "https://8be6e8.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://apps-ledgger-li.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://access-ledger-live-desktop.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://www.me-ta-ma-sk-log-in.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Montreal",
+        "country": "Canada",
+        "lat": 45.5019,
+        "lon": -73.5674
+      }
+    },
+    {
+      "value": "https://sock-zizifn-jp.ludea-lau.workers.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://c08923.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -530,13 +800,25 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "npm-cache.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages"
+      "value": "https://www.roblox.com.mu/users/9813657376/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "R\u00fcmlang",
+        "country": "Switzerland",
+        "lat": 47.4505,
+        "lon": 8.5255
+      }
     },
     {
-      "value": "https://perturbed-univer-d5a135.bestoptiontrade1.workers.dev/373d5a135.xlsx",
+      "value": "https://5f98ad.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://yetteli.sbs/flights/index.html",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -548,27 +830,21 @@
       }
     },
     {
-      "value": "https://567536.icefactory.cl/",
+      "value": "https://0b2cdc.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://fecb46.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "sectioncompil.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Phishing Email Delivers ScreenConnect Malware",
+      "value": "34.204.119.63",
+      "type": "IPv4",
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)",
       "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
+        "city": "Ashburn",
+        "country": "United States",
+        "lat": 39.0438,
+        "lon": -77.4874
       }
     },
     {
@@ -584,109 +860,7 @@
       }
     },
     {
-      "value": "https://aktivasi-fiturxdana-pay3.yums.my.id/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "gmailpva.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers",
-      "geo": {
-        "city": "Arifwala",
-        "country": "Pakistan",
-        "lat": 30.2896,
-        "lon": 73.0749
-      }
-    },
-    {
-      "value": "202.181.25.71",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "San Po Kong",
-        "country": "Hong Kong",
-        "lat": 22.3378,
-        "lon": 114.198
-      }
-    },
-    {
-      "value": "https://binance-referral-code-btcbonus.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "116.105.166.148",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources",
-      "geo": {
-        "city": "Da Nang",
-        "country": "Vietnam",
-        "lat": 16.0685,
-        "lon": 108.2215
-      }
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetInstances",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://www.icloud-cdn.net/vshost.exe",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "123.254.106.148",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Mong Kok",
-        "country": "Hong Kong",
-        "lat": 22.3205,
-        "lon": 114.168
-      }
-    },
-    {
-      "value": "https://www.roblox.com.pt/games/88519281604403/Build-a-Baddie?privateServerLinkCode=99382535900423182128231632453729&game_id=88519281604403&game_name=Build-a-Baddie",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://21c52f.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://c38a9f.arcadejafet.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://17cbf5.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ce953a0eb08246617b7f849486c4b26a7af37e9d2e8f0e13b3ae1bf0da8a70a.xyz",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Powercat malware campaign: Fake game cheats deliver infostealer"
-    },
-    {
-      "value": "http://app-ledgr-livedoc.pages.dev/",
+      "value": "http://began-ledger-live-desktop-eng-us.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -698,28 +872,112 @@
       }
     },
     {
-      "value": "keyokta.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
+      "value": "https://www.roblox.ly/users/9623724172/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
-      "value": "87.120.107.33",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Almost Half of Malware Samples Communicate Direct to IP",
+      "value": "https://bb2f98.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://bing-ledgrhardwear.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
       "geo": {
-        "city": "Helsinki",
-        "country": "Finland",
-        "lat": 60.1719,
-        "lon": 24.9347
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
       }
     },
     {
-      "value": "checkpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
+      "value": "http://relay-fr-me.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Tirana",
+        "country": "Albania",
+        "lat": 41.3275,
+        "lon": 19.8187
+      }
+    },
+    {
+      "value": "https://f6676d.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://18aafc.winnicart.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://loginfacebookverification.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://df4f2f.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://blog.ubair.com/anotherday/app/captcha.php?redirect=%2Fanotherday%2Fapp%2Findex.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://0ee24f.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://fccc69.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://netrajs.github.io/spotify_clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "San Francisco",
+        "country": "United States",
+        "lat": 37.7823,
+        "lon": -122.391
+      }
+    },
+    {
+      "value": "https://nutritious-amethyst-jy6c7lj2.edgeone.dev/home",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Singapore",
+        "country": "Singapore",
+        "lat": 1.28408,
+        "lon": 103.853
+      }
     },
     {
       "value": "https://misilabario.cl/alibaba/alibaba/",
@@ -734,13 +992,55 @@
       }
     },
     {
-      "value": "http://www.google-apis.net/dfsvc.exe.config",
+      "value": "http://tariasnot.duckdns.org/Docsign00.html",
       "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "lat": 54.6872,
+        "lon": 25.2797
+      }
     },
     {
-      "value": "http://sp13ct-vormik-biz-frandel-kazdor.pages.dev/",
+      "value": "https://filmistanstudios.com/mails/alibaba/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Phoenix",
+        "country": "United States",
+        "lat": 33.4656,
+        "lon": -111.9956
+      }
+    },
+    {
+      "value": "https://robiox.com.gr/users/1062443811/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://7d7be1.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://ecf7d6.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://2fa6a4.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://connecte-bridge.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL",
@@ -752,178 +1052,28 @@
       }
     },
     {
-      "value": "http://www.icloud-cdn.net:8080/GetSlaver",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://www.rebrand.ly/548abc/",
+      "value": "https://7ddc0a.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "description": "Active Phishing URL"
     },
     {
-      "value": "activatemypasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "myssopasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "154.223.58.142",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Hong Kong",
-        "country": "Hong Kong",
-        "lat": 22.3193,
-        "lon": 114.169
-      }
-    },
-    {
-      "value": "38.42.59.171",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-      "geo": {
-        "city": "Los Angeles",
-        "country": "United States",
-        "lat": 34.0769,
-        "lon": -118.2076
-      }
-    },
-    {
-      "value": "gmailshop.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers",
-      "geo": {
-        "city": "Los Angeles",
-        "country": "United States",
-        "lat": 34.0549,
-        "lon": -118.243
-      }
-    },
-    {
-      "value": "desk-azureft.info",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases"
-    },
-    {
-      "value": "154.223.54.159",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Hong Kong",
-        "country": "Hong Kong",
-        "lat": 22.3193,
-        "lon": 114.169
-      }
-    },
-    {
-      "value": "37.153.90.88",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
-      "geo": {
-        "city": "Valencia",
-        "country": "Spain",
-        "lat": 39.5012,
-        "lon": -0.4313
-      }
-    },
-    {
-      "value": "62.60.179.230",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Almost Half of Malware Samples Communicate Direct to IP",
-      "geo": {
-        "city": "Charlotte",
-        "country": "United States",
-        "lat": 35.2296,
-        "lon": -80.843
-      }
-    },
-    {
-      "value": "npm-cache.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "ChainDrop npm Attack Compromises Hundreds of Packages"
-    },
-    {
-      "value": "43.240.12.34",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Mong Kok",
-        "country": "Hong Kong",
-        "lat": 22.3205,
-        "lon": 114.168
-      }
-    },
-    {
-      "value": "http://www.zohoapis.com/workdrive/api/v1/files",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
-      "geo": {
-        "city": "Portland",
-        "country": "United States",
-        "lat": 45.5152,
-        "lon": -122.678
-      }
-    },
-    {
-      "value": "178.16.54.31",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Almost Half of Malware Samples Communicate Direct to IP",
-      "geo": {
-        "city": "Amsterdam",
-        "country": "The Netherlands",
-        "lat": 52.3716,
-        "lon": 4.8883
-      }
-    },
-    {
-      "value": "passkeyregistration.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "deploypasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://cf.1689888.xyz/",
+      "value": "https://81cc79.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://004e3a.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ce5e30.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
       "value": "https://access-ledgr-desktop.pages.dev/",
@@ -938,1195 +1088,19 @@
       }
     },
     {
-      "value": "http://www.wangmeng66.top/GetTargets",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Mong Kok",
-        "country": "Hong Kong",
-        "lat": 22.3205,
-        "lon": 114.168
-      }
-    },
-    {
-      "value": "45.125.15.100",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "Mong Kok",
-        "country": "Hong Kong",
-        "lat": 22.3205,
-        "lon": 114.168
-      }
-    },
-    {
-      "value": "https://2fa6a4.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "addmypasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "mypasskeyid.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://www.rakuten-two.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "https://00hwee-9rck-fuj-bvii3-y210am.pages.dev/qaz-wsx-edc-rfv?welcome=106906109377741&token248=106906109377741&name_token136=Lippert%20Marine",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://www.roblox.com.bi/users/244432464839/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetEndpoints",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://81ef2a.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "enablepasskey2fa.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "enablepasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://www.roblox.com.mu/users/9813657376/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "R\u00fcmlang",
-        "country": "Switzerland",
-        "lat": 47.4505,
-        "lon": 8.5255
-      }
-    },
-    {
-      "value": "https://4bc19e.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "178.16.54.109",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Almost Half of Malware Samples Communicate Direct to IP",
-      "geo": {
-        "city": "Amsterdam",
-        "country": "The Netherlands",
-        "lat": 52.3716,
-        "lon": 4.8883
-      }
-    },
-    {
-      "value": "77.110.122.58",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-      "geo": {
-        "city": "Charlotte",
-        "country": "United States",
-        "lat": 35.2296,
-        "lon": -80.843
-      }
-    },
-    {
-      "value": "https://advance-li-ledgrr.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "http://netflix-clone-steel-three-83.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Walnut",
-        "country": "United States",
-        "lat": 34.0119,
-        "lon": -117.86
-      }
-    },
-    {
-      "value": "207.174.0.143",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "ScreenConnect RMM Abuse, Cloudflare Tunnels, and Trusted Software Lures Threat Intelligence, Threat Research, Threat Security",
-      "geo": {
-        "city": "Phoenix",
-        "country": "United States",
-        "lat": 33.4383,
-        "lon": -112.018
-      }
-    },
-    {
-      "value": "buyaccounts.net",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://97ee8.catex.at/cnbcard/cardentw.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Paris",
-        "country": "France",
-        "lat": 48.8558,
-        "lon": 2.3494
-      }
-    },
-    {
-      "value": "https://www.refund-paylater.online/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://web-trezor-io-start-app.typedream.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "buyawsaccounts.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers",
-      "geo": {
-        "city": "Rajshahi",
-        "country": "Bangladesh",
-        "lat": 24.3749,
-        "lon": 88.622
-      }
-    },
-    {
-      "value": "cdnjsdelivr.beer",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
-      "geo": {
-        "city": "Amsterdam",
-        "country": "The Netherlands",
-        "lat": 52.3716,
-        "lon": 4.8883
-      }
-    },
-    {
-      "value": "https://6062fd.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "mypasskeysso.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://sectioncompil.com/wkudpl/notarize.php",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Phishing Email Delivers ScreenConnect Malware"
-    },
-    {
-      "value": "https://powercat.dog/cool",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Powercat malware campaign: Fake game cheats deliver infostealer",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "koramate.fun",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "103.231.15.135",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
-      "geo": {
-        "city": "San Po Kong",
-        "country": "Hong Kong",
-        "lat": 22.3378,
-        "lon": 114.198
-      }
-    },
-    {
-      "value": "cloudsendhub.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
-      "geo": {
-        "city": "Toronto",
-        "country": "Canada",
-        "lat": 43.6532,
-        "lon": -79.3832
-      }
-    },
-    {
-      "value": "https://733ef5.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://8feed4.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://awqhnjewqjkl.icu/cdn-cgi/rum",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Inside a Self-Propagating npm Worm"
-    },
-    {
-      "value": "https://3c5d30.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://center.verifiblueprofilesecureai.cfd/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetWorkers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "ce953a0eb08246617b7f849486c4b26a7af37e9d2e8f0e13b3ae1bf0da8a70a.xyz",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake Xeno Roblox Cheats Deliver Powerful Java Stealer Through Discord and Forums"
-    },
-    {
-      "value": "secureauthpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://dc488c.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "cristiantirira.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases"
-    },
-    {
-      "value": "createpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://1ecdb5.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.walletcoinbase-zeta.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://metamuxsklogen.gitbook.io/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://bf5893.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://relay-fr-me.com/connexion.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://53cfaf.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://npm-cache.com:443/router",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Inside a Self-Propagating npm Worm"
-    },
-    {
-      "value": "https://sp15ct-zorqel-biz-melven-qavix.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://aedaa5.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://imhrithik.github.io/Sound-Vibe/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "js-mirror.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "ChainDrop npm Attack Compromises Hundreds of Packages"
-    },
-    {
-      "value": "37.153.90.88",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Security Update \u2013 August 2, 2026"
-    },
-    {
-      "value": "https://f73f3c.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://vrushali-janbhare.github.io/amazon-clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "27.102.137.159",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM"
-    },
-    {
-      "value": "https://accss-metamsk-lgn.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "47.86.14.22",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
       "value": "https://validarm1c-0s00.webcindario.com/",
       "type": "URL",
       "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "npm-cache.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "npm Packages Hijacked in Supply Chain Attack"
-    },
-    {
-      "value": "http://yuhvgbzsa66biqeatbmdvfo5b5jjefcmz5t2vjuvco5qtdkshfpabyid.onion:50051",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Fake AI Tools Deliver Infostealer"
-    },
-    {
-      "value": "https://www.roblox.com.et/users/437042725645/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://faq-public-trezro-us.typedream.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "47.107.224.89",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "ENDLESSDOORS Is Phoning Home. Pick Up."
-    },
-    {
-      "value": "http://gitnikit.github.io/phisingsitefacebook",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "209.99.184.223",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Abyssos: Technical Analysis of a New Modular RAT"
-    },
-    {
-      "value": "casinolegit.fun",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases"
-    },
-    {
-      "value": "passkeydeploy.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "gouvn.me",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "http://193.29.224.151/92392991a0cca55?force=1",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam"
-    },
-    {
-      "value": "http://connecte-bridge.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "servgate.me",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetServers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://zkbsicherung.com/login",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "50.114.167.112",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "resumeacceptable.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "https://www.ffacebooklogin.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "138.124.118.69",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam"
-    },
-    {
-      "value": "117.72.74.48",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources"
-    },
-    {
-      "value": "http://staticfile-kimkaro66.wasmer.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "buytwitteraccounts.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
-    },
-    {
-      "value": "fileoceanhammer.sbs",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "https://8bf1b6.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://grespayw.grespay.web.id/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://yetteli.sbs/packages.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.techcheck1.com/wangmeng.dll",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://access-ledger-live-desktop.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetServers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "claudeopus.shop",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "How fake signups drive AI fraud"
-    },
-    {
-      "value": "http://secure-nexo.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://1df173.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://93bb9e.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "startpasskeysetup.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "193.29.224.151",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam"
-    },
-    {
-      "value": "https://portal-de-desembolso-pc--agzc3668.replit.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://0ficinavirttual4.site/index1.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "45.158.180.250",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://express-dhl-dpe3103d2mga.edgeone.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "ce953a0eb08246617b7f849486c4b26a7af37e9d2e8f0e13b3ae1bf0da8a70a.xyz",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Powercat malware campaign: Fake game cheats deliver infostealer"
-    },
-    {
-      "value": "kleinschnitg.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Phishing Email Delivers ScreenConnect Malware"
-    },
-    {
-      "value": "https://facebookloginid.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "passkeyokta.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetMachines",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://ce5e30.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "activatepasskeyportal.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://ae1d2c.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "77.110.126.46",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "addyourpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://www.techcheck1.com/config.etl",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "passkeyactivation.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "ssopasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "bananafastfile.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "https://www.roblox.com.bn/games/2753915549/-Blox-Fruits?privateServerLinkCode=86312608205244302093175058016356",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://779a0e.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "27.133.154.218",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
-    },
-    {
-      "value": "https://bd2de7.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "37.19.210.32",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild"
-    },
-    {
-      "value": "http://bai.infura-ipfs.io/ipfs/bafkreifg5u6op7zz6su3tg53j6ftrg3brcaiphlilet2wwqgobzziiunha",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://instagramfollowers146.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://alok-kumar-sing.github.io/Amazon-Clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "94.156.154.48",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Fake AI Tools Deliver Infostealer"
-    },
-    {
-      "value": "https://g5.lu/uk3ga",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "217.77.6.50",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Analysis of a Phishing Email Attack Case"
-    },
-    {
-      "value": "https://sectioncompil.com/wkudpl/windows/download/AccountGuardSetup.zip",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Phishing Email Delivers ScreenConnect Malware"
-    },
-    {
-      "value": "https://5b0307.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://app-x-desktop-ledgre.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetServers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "213.145.86.42",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Abyssos: Technical Analysis of a New Modular RAT"
-    },
-    {
-      "value": "http://deanschneideroasis.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://sock-zizifn-jp.ludea-lau.workers.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "77.221.152.34",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam"
-    },
-    {
-      "value": "setupsso.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://18aafc.winnicart.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://robiox.top/home",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "amutes.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources"
-    },
-    {
-      "value": "https://skilled-gold-etzyiudb.edgeone.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "add-passkey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "emezonhe.me",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "http://access-en-ledger-live-download.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "mspasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://us-support-ledgor-en.pages.dev/page4.html/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "76.103.148.180",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "keysyncos.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "pypi-get.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "npm Packages Hijacked in Supply Chain Attack"
-    },
-    {
-      "value": "103.246.244.20",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "dumps-cc-best.ru",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
-    },
-    {
-      "value": "passkeyms.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://8f93ee.icefactory.cl/plQZiQcKliKJpcE0vLiUXtZ0xra45CerGQA00X13RWRPAqIHuyMpMD4oHxJ7BaLt/?rotated=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "abwxjp5.me",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "https://23aa9d.arcadejafet.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://creditopichinchaecuador-2026--creditoenline3.replit.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://kleinschnitg.com/F3bebOag/?id=email",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Phishing Email Delivers ScreenConnect Malware"
-    },
-    {
-      "value": "https://sp13ct-pravdor-biz-kersik-frandel.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://clicks-ledger-live.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://4233e0.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetRoutes",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://cdn.uploadtourl.com/3b154d8e-61be-4521-b3c3-75efb845a2e2_msi_base64.txt",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Phishing Email Delivers ScreenConnect Malware"
-    },
-    {
-      "value": "https://e702a1.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.roblox.ly/users/9623724172/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "154.223.24.158",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "passkey-portal.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://8b0c57.icefactory.cl/oprdlbcMyNhisYOpw3W5LPYwcpB24Psl47ukBVyjHcY2Q3EgH7yuA19j0qnAHdlU/?rotated=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "mainsec.site",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of a Phishing Email Attack Case"
-    },
-    {
-      "value": "142.202.191.225",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "ScreenConnect RMM Abuse, Cloudflare Tunnels, and Trusted Software Lures Threat Intelligence, Threat Research, Threat Security"
-    },
-    {
-      "value": "hesenorm.info",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases"
-    },
-    {
-      "value": "https://netrajs.github.io/spotify_clone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetPeers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "50.16.16.211",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
-    },
-    {
-      "value": "serverdock.online",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of a Phishing Email Attack Case"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetBackends",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://34711b.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ecf7d6.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "154.92.19.71",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Almost Half of Malware Samples Communicate Direct to IP"
-    },
-    {
-      "value": "filecedarwallet.online",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "193.233.202.17",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "http://start-io-trezr-public-cdn.typedream.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "38.110.228.33",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "https://e52f7e.icefactory.cl/",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.4327,
+        "lon": -3.621
+      }
+    },
+    {
+      "value": "https://efe114.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -2135,13 +1109,61 @@
       "value": "https://forthit.top/",
       "type": "URL",
       "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "http://metamuxsklogen.gitbook.io/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL",
+      "geo": {
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "value": "https://1b0466.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "createmypasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
+      "value": "https://www.roblox.com.mu/users/3929354400/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.frontend-eight-gamma-89.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://4255e4.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://s4w.in/Blox-Fruits-private-Server-Code-86312608205244302093175058016356",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://8b3a0a.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
       "value": "https://www.roblox.com.bi/communities/894988425313/One-Time-YT",
@@ -2150,175 +1172,37 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.wangmengsb.com/GetVips",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "aonexa.shop",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of a Phishing Email Attack Case"
-    },
-    {
-      "value": "http://bridallehenga.shop/",
+      "value": "https://a31cf6.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.facebookloginf.blogspot.com/",
+      "value": "https://2897d4.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "193.221.200.219",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications"
-    },
-    {
-      "value": "http://tariasnot.duckdns.org/Docsign00.html",
+      "value": "https://733ef5.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.chain-swap-interface-v2.vercel.app/",
+      "value": "https://8bfe2e.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.wangmengsb.com/GetHosts",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://accountservicescenter.co.za/?r=2936e486-3960-4b99-9e03-f1a94bfde3ae&rg=eu",
+      "value": "https://perturbed-univer-d5a135.bestoptiontrade1.workers.dev/373d5a135.xlsx",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "test-steve.cyou",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications"
-    },
-    {
-      "value": "https://ffacebooklogin.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://app-ledgrs-live.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://fccc69.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://secure-nexo.com/review.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetWorkers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://7ddc0a.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "217.60.195.167",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Phishing Email Delivers ScreenConnect Malware"
-    },
-    {
-      "value": "http://logan-blokiie-us.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "mysecurepasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://promt-dpem7p8ov9s7.edgeone.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetHosts",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "portalpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://78v6786v8.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "34.204.119.63",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (QakBot)"
-    },
-    {
-      "value": "http://connec-treoz-bridge.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "92.118.112.181",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Security Update \u2013 August 2, 2026"
-    },
-    {
-      "value": "secure-passkey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://f65299.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.roblox.com.bi/games/80576062127494/HOT-Catgirl-Obby-Surprise-at-the-end-?privateServerLinkCode=89585493089521937689667490122223",
+      "value": "https://us-support-ledgor-en.pages.dev/page4.html/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -2330,1333 +1214,19 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.techcheck1.com/GetClusterNodes",
+      "value": "http://0ficinavirttual4.site/",
       "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://sp15ct-vurvex-biz-nurzen-zorli.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://b32aaf.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "addssopasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://8d073d.winnicart.com/Gm6LsNjhFl7AmAOqY4Z3yCIdBk39z8cURNcefd3tgecgnhKFIdhPPqlaUtwICbnW/?rotated=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://d90a71.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "185.117.72.215",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "syncdatavault.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "myoktasso.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://a2007f.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetAgents",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://base-ledger-app.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "91.92.243.29",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Almost Half of Malware Samples Communicate Direct to IP"
-    },
-    {
-      "value": "https://97ee8.catex.at/cnbcard/cab3994js.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "zbtwifi.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "ENDLESSDOORS Is Phoning Home. Pick Up."
-    },
-    {
-      "value": "filemarblegarden.sbs",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "https://rakuten-two.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://97ee8.catex.at/cnbcard/signin.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://df4f2f.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "casinolegit.info",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases"
-    },
-    {
-      "value": "passkeyadd.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetRoutes",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://cms.balochistanpolice.gov.pk/client%20scripts/cms_plugin.exe",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "One Target, Two Flags | Rival Espionage Actors Converge On Pakistani Law Enforcement"
-    },
-    {
-      "value": "powercat.dog",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Powercat malware campaign: Fake game cheats deliver infostealer"
-    },
-    {
-      "value": "idokta.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "ratixq.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "How fake signups drive AI fraud"
-    },
-    {
-      "value": "berapt-medii.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
-    },
-    {
-      "value": "https://bb2f98.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "couldinstallup.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON"
-    },
-    {
-      "value": "https://net16ct-toru-biz-vemi-zano.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.robiox.com.ps/users/8151803013/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetIps",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://ask-ledgr-live.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://micr0sft.github.io/fdgdfg/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "limefilescope.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "77.110.122.137",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "filecrimsonsignal.online",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "mangocloudfile.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetNodes",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://xfinityverifynow.weebly.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "addpasskey2fa.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "ntsgo.name",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases"
-    },
-    {
-      "value": "portalsetuphub.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://qualitybh.art.br/fil/sd",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://641f8e.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "skycloudcenter.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "https://alon-live-ledgr.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetWorkers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetAgents",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "87.249.138.34",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Security Update \u2013 August 2, 2026"
-    },
-    {
-      "value": "http://www.cashprolivedesk.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://bing-ledgrhardwear.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://coderkubes.com/duke/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://facebooklogin21.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "passkeyrollout.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://www.facebooksupportphonenumber12300.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://mass-orange-drrrexhk.edgeone.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://app---ledger-live.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "27.102.137.126",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM"
-    },
-    {
-      "value": "pypi-get.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable"
-    },
-    {
-      "value": "47.83.122.51",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetReplicas",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://s4w.in/Blox-Fruits-private-Server-Code-86312608205244302093175058016356",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://207.189.11.170/Bin/working_payload.cs",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "ScreenConnect RMM Abuse, Cloudflare Tunnels, and Trusted Software Lures Threat Intelligence, Threat Research, Threat Security"
-    },
-    {
-      "value": "https://sp15ct-kavrex-biz-zunven-tavri.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "lemonfilewave.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "filecopperbasket.sbs",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetReplicas",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetNodes",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "45.125.35.225",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "passkey-connect.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://vnzkt819m-msprq341k-2a4e-xlb59p.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "45.125.35.235",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetRoutes",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://75dbd9.arcadejafet.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://virat-kohli10.github.io/paybox-demo",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "47.239.93.49",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://a-desktop-live-ledgr.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://kuocnminlogox.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ucdgxfhcgjhvkjblk-dp6se8xlrpxx.edgeone.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "jiejie.net",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://www.accountfacebook.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://0b2cdc.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://chain-swap-interface-v2.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "43.240.12.35",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "zamstats.me",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "createssopasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://b1a4fd.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "awqhnjewqjkl.icu",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Inside a Self-Propagating npm Worm"
-    },
-    {
-      "value": "207.189.11.170",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "ScreenConnect RMM Abuse, Cloudflare Tunnels, and Trusted Software Lures Threat Intelligence, Threat Research, Threat Security"
-    },
-    {
-      "value": "https://a004ef.icefactory.cl/z1fDlFv2ERntwcitD5KbGNZK4XsGAfD7mMGadbVv9bmihF3xzQrpO30EKqkZDuJd/?rotated=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetPeers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "newpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetTargets",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "103.231.15.248",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetEndpoints",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "45.125.35.230",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://los108.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://d51b01.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "oskeyconnect.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://access-ledgr-dextop-en.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "passkeycreate.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://inlnk.co/JULBW",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://xfinityservice.godaddysites.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://rbcode.net/v/837472845362c642183e731ccf5c32a3",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "112.216.9.171",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM"
-    },
-    {
-      "value": "jufewine.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
-    },
-    {
-      "value": "https://0dddf4.arcadejafet.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "applefilevault.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "https://fortnate.top/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "2.26.98.67",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Almost Half of Malware Samples Communicate Direct to IP"
-    },
-    {
-      "value": "47.239.4.179",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "passkeyset.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://33dbae.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://fab207.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "apricotfilepoint.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "oskeysync.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "202.181.25.73",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetReplicas",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "gpsfinance.co.id",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "http://binance-trading-bot-36q.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetGateways",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://began-ledger-live-desktop-eng-us.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://06249e.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.techcheck1.com/Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://robiox.com.gr/users/1062443811/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "154.223.75.206",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://anirudhsajeesh0.github.io/Siteclone",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "cloudfilebridge.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "crestmarkhq.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "ScreenConnect RMM Abuse, Cloudflare Tunnels, and Trusted Software Lures Threat Intelligence, Threat Research, Threat Security"
-    },
-    {
-      "value": "simultaneouslypower.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "https://facebooksupportphonenumber12300.blogspot.com/?m=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dorenzaa.com/",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Investigating a Multi-Stage PowerShell Loader"
-    },
-    {
-      "value": "https://a0330c.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://welcome-begin-trezo-en.typedream.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetInstances",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "scorenetsystems.pro",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
-    },
-    {
-      "value": "https://assets-ledgrolive-learn.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "27.102.138.44",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM"
-    },
-    {
-      "value": "103.231.15.219",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "passkeyportalsetup.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://21064b.arcadejafet.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://relay-fr-me.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "passkeyregister.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "passkeyportal.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://52b7b2.arcadejafet.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://7f55ef.icefactory.cl/",
-      "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://3009de.icefactory.cl/htp4NS9mxacptre8XAgCjYiV4xQBm0F6YKIPhgOSaazIP4RZWyGpCO7tAstUGSpp/?rotated=1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://ask-ledgrwalet-liv.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "43.248.136.125",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "ENDLESSDOORS Is Phoning Home. Pick Up."
-    },
-    {
-      "value": "https://fbf1d9.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "gowixese.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
-    },
-    {
-      "value": "https://rbcode.net/v/d892a96d2f3b76c82c157b1b2433d712",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "47.238.64.56",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://www.icloud-cdn.net/dnscfg.dll",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://www.shopeeinc1111.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://d6dc84.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "buyaccounts.co",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
-    },
-    {
-      "value": "154.223.58.64",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://efe794.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "msonline.help",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetMachines",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://assets-ledgrlive-eng.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "track2ccdumps.ru",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
-    },
-    {
-      "value": "https://appleservices.alwaysdata.net/ref/?_fm=71a724b20779",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://plaermoxred.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "awqhnjewqjkl.icu",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetVips",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://yjbcei4l.rqug4s3.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://dbea2c.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "pozeny.shop",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of a Phishing Email Attack Case"
-    },
-    {
-      "value": "pypi-get.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Inside a Self-Propagating npm Worm"
-    },
-    {
-      "value": "http://www.techcheck1.com/dfsvc.exe.config",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "45.125.35.233",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://newbreedlifearts.org/font/korea.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "vniir-info.space",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations"
-    },
-    {
-      "value": "45.125.15.104",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://im-use-whatapp.hl.cn/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://nutritious-amethyst-jy6c7lj2.edgeone.dev/home",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://c67030.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://guide-library-30bd.siti111856.workers.dev/privacy-information-center/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "startpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "pypi-get.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "ChainDrop npm Attack Compromises Hundreds of Packages"
-    },
-    {
-      "value": "myaccountsecurity.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "q74vn.live",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "https://d44bd3.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "passkeysupport.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://431b3d.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "npm-cache.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable"
-    },
-    {
-      "value": "passkeyuser.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "38.46.219.162",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources"
-    },
-    {
-      "value": "thepaygate.store",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
-    },
-    {
-      "value": "dorenzaa.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Investigating a Multi-Stage PowerShell Loader"
-    },
-    {
-      "value": "https://10920c.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://robloxc.com.es/login?returlUrl=190934801",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "passkeystatus.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://cdn.zoom.com.kg/bin/zoomMacArm&ts=",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Fake Zoom Installer Delivers Overlord RAT on macOS"
-    },
-    {
-      "value": "http://www.google-apis.net/dfsvc.exe",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://yetteli.sbs/flights/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://app-ledgrslive-en-us.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://f784a5.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmengsb.com/GetAddresses",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://solthere.net/api/v1/redeem",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Fake Xeno Roblox Cheats Deliver Powerful Java Stealer Through Discord and Forums"
-    },
-    {
-      "value": "https://robloxcondo.my.id/jun7x1",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://f6676d.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://bogodukhov.com.ua/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "162.243.103.246",
-      "type": "IPv4",
-      "source": "Feodo Tracker",
-      "description": "Botnet C2 (Emotet)"
-    },
-    {
-      "value": "https://aea1d5.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "87.249.138.34",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild"
-    },
-    {
-      "value": "https://www.roblox.com.mu/users/3929354400/profile",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://www.shopeeid547.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://motiva-rodoviadigital.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://www.wangmeng.xyz/GetMembers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://auth.verifibluebusinesscentermetaai.click/index.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "yuhvgbzsa66biqeatbmdvfo5b5jjefcmz5t2vjuvco5qtdkshfpabyid.onion",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake AI Tools Deliver Infostealer"
-    },
-    {
-      "value": "https://nhzn-ju8-gh5-64ls-gfewy-4vo.pages.dev/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "45.125.35.236",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "zrheblirsy.me",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "https://4d2582.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "pofezaf.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
     },
     {
-      "value": "http://apps-ledgerr.pages.dev/",
+      "value": "https://8b0c57.icefactory.cl/oprdlbcMyNhisYOpw3W5LPYwcpB24Psl47ukBVyjHcY2Q3EgH7yuA19j0qnAHdlU/?rotated=1",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://vormora-zxt-lenqumi-c8x1fc67.pages.dev/",
+      "value": "https://s4w.in/www-roblox-com-users-950717396-profile",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -3668,274 +1238,10 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "45.125.35.226",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "38.110.228.43",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "https://8b3a0a.icefactory.cl/",
+      "value": "https://75dbd9.arcadejafet.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://cdn.zoom.com.kg/bin/zoomMacX64&ts=",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Fake Zoom Installer Delivers Overlord RAT on macOS"
-    },
-    {
-      "value": "https://efe114.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://creditoecuador-2026--creditopichi38.replit.app/?monto=10000",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "146.103.127.44",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "http://0f1bfe.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "orangesmartfile.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "http://io-public-trzors-com.typedream.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "47.76.92.73",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://b268b9.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://5f98ad.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "185.45.193.151",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "http://www.binance-referral-code-btcbonus.vercel.app/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "zbtlink.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "ENDLESSDOORS Is Phoning Home. Pick Up."
-    },
-    {
-      "value": "passkeyhelpdesk.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://5e20c6.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "js-mirror.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "npm Packages Hijacked in Supply Chain Attack"
-    },
-    {
-      "value": "https://sectioncompil.com/wkudpl/main.php",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Phishing Email Delivers ScreenConnect Malware"
-    },
-    {
-      "value": "oktaportalsso.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "wiselystarting.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "https://dovessrbx.blogspot.com/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://biturbo.com.pk/Inbox/online.html",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "179.61.227.46",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Fake Zoom Installer Delivers Overlord RAT on macOS"
-    },
-    {
-      "value": "https://1b0466.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://48a2ba.arcadejafet.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "binonelola.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
-    },
-    {
-      "value": "https://laibakhan139.github.io/netflix-home-page",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "enrollpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "45.125.15.115",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "passkeyenroll.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://0ficinavirttual4.site/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "dog3rj.tech",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "https://97479b.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://666c8b.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "https://1fba23.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "dutabuz.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
-    },
-    {
-      "value": "45.125.15.111",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://8bfe2e.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure"
-    },
-    {
-      "value": "38.46.219.166",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources"
-    },
-    {
-      "value": "roldco.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "https://blog.ubair.com/anotherday/app/index.php",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "http://cms.balochistanpolice.gov.pk/client%20scripts/",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "One Target, Two Flags | Rival Espionage Actors Converge On Pakistani Law Enforcement"
     },
     {
       "value": "https://smilling-long-pannel.edgeone.dev/?eta=torikpro@0f52f931ef5f3d9424a897162d0e1cfba9c2.com",
@@ -3944,91 +1250,115 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "38.110.228.125",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "https://bd3685.icefactory.cl/",
+      "value": "https://ucdgxfhcgjhvkjblk-dp6se8xlrpxx.edgeone.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "23.237.196.170",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources"
-    },
-    {
-      "value": "https://zanquro-zxt-melvani-p5t8dk31.pages.dev/",
+      "value": "https://dovessrbx.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://28610d.icefactory.cl/",
+      "value": "https://g5.lu/p5tku",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "107.128.45.122",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://mxhaisyx.us.cc/5g/home.html",
+      "value": "http://access-ledgr-dextop-en.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "ntsgo-corp.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases"
-    },
-    {
-      "value": "pickupweb.me",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "https://81cc79.icefactory.cl/",
+      "value": "https://robloxcondo.my.id/jun7x1",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "setupssopasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://45.150.109.151.sslip.io:23088/app/js/jquery.min.js",
+      "value": "https://97ee8.catex.at/cnbcard/cardentw.php",
       "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "One Email Closer to the Edge: UNK_MassTraction & the Physics of Exploitation"
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
-      "value": "buyaccounts.store",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
+      "value": "http://app-ledgr-livedoc.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
-      "value": "wel1.ru",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages"
+      "value": "http://clicks-ledger-live.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://imhrithik.github.io/Sound-Vibe/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.shopeeid547.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
       "value": "https://cloud-desktop-en-ledgr.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://sp13ct-pravdor-biz-kersik-frandel.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://dbea2c.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://567536.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://auth.verifibluebusinesscentermetaai.click/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://welcome-begin-trezo-en.typedream.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://logan-blokiie-us.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://xfinityverifynow.weebly.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://creditopichinchaecuador-2026--creditoenline3.replit.app/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -4040,178 +1370,40 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "abb1.life",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources"
-    },
-    {
-      "value": "https://sectioncompil.com/wkudpl/windows/manage.html",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Phishing Email Delivers ScreenConnect Malware"
-    },
-    {
-      "value": "vimemug.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
-    },
-    {
-      "value": "ghostaudit.io",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
-    },
-    {
-      "value": "http://www.google-apis.net/wangmeng.dll",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://930898.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "myconnectkey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://338874.icefactory.cl/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "profitnow.io",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam"
-    },
-    {
-      "value": "createmfa.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "redditaccounts.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
-    },
-    {
-      "value": "https://dfrespay.fdnk.biz.id/",
-      "type": "URL",
-      "source": "OpenPhish",
-      "description": "Active Phishing URL"
-    },
-    {
-      "value": "123.254.105.38",
+      "value": "162.243.103.246",
       "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (Emotet)"
     },
     {
-      "value": "http://access-us-ledger.pages.dev/",
+      "value": "http://motiva-rodoviadigital.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://df63ff.icefactory.cl/ksiernCZ4HYpjtK68wPm52ZTufIAomjS1w79usIbBVc5J3nhoAQa4dqRKO0GKdyp/?rotated=1",
+      "value": "http://deanschneideroasis.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://facebookloginreview.blogspot.com/",
+      "value": "https://bd3685.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://hub.zoom.com.kg:5173",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Fake Zoom Installer Delivers Overlord RAT on macOS"
-    },
-    {
-      "value": "passkey-check.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "bulkaccounts.shop",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
-    },
-    {
-      "value": "pr0fu5a.me",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Indonesian Banking Sector Threat Landscape"
-    },
-    {
-      "value": "https://d9854f.icefactory.cl/",
+      "value": "https://www.xfinityrefunds.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "213.176.72.223",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Fake AI Tools Deliver Infostealer"
-    },
-    {
-      "value": "https://www.me-ta-ma-sk-log-in.godaddysites.com/",
+      "value": "https://df9709.arcadejafet.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
-    },
-    {
-      "value": "passkeycreator.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "45.125.35.227",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "23.234.94.43",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Security Update \u2013 August 2, 2026"
-    },
-    {
-      "value": "http://cdns3.51quickfox.cn/script/firebase-analytics-compat.js",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "socialaccountshop.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
-    },
-    {
-      "value": "solidlinkpro.info",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
     },
     {
       "value": "https://rootmadhav.github.io/Netflix-clone-2023/",
@@ -4220,199 +1412,199 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "45.125.35.229",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://srv1888708.hstgr.cloud/rew/",
+      "value": "http://base-ledger-app.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://a0c31f.icefactory.cl/",
+      "value": "https://fecb46.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "103.245.236.146",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Almost Half of Malware Samples Communicate Direct to IP"
-    },
-    {
-      "value": "http://www.icloud-cdn.net:8080/GetCluster",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://www.xfinityservice.godaddysites.com/",
+      "value": "https://9d16d5.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "38.60.142.56",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://0ee24f.icefactory.cl/",
+      "value": "https://fortnate.top/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://cms.balochistanpolice.gov.pk/client%20scripts/cms_plugin.exe",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "One Target, Two Flags | Rival Espionage Actors Converge On Pakistani Law Enforcement"
-    },
-    {
-      "value": "https://g5.lu/p5tku",
+      "value": "https://c38a9f.arcadejafet.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://facebook-carol.blogspot.com/",
+      "value": "https://d90a71.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://mksjidux.us.cc/5g/home.html",
+      "value": "https://vormora-zxt-lenqumi-c8x1fc67.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://b000e9.winnicart.com/",
+      "value": "https://mass-orange-drrrexhk.edgeone.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "45.125.35.234",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://d482fb.icefactory.cl/",
+      "value": "https://a004ef.icefactory.cl/z1fDlFv2ERntwcitD5KbGNZK4XsGAfD7mMGadbVv9bmihF3xzQrpO30EKqkZDuJd/?rotated=1",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "npm-cache.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Inside a Self-Propagating npm Worm"
-    },
-    {
-      "value": "filevelvettractor.sbs",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
-    },
-    {
-      "value": "http://ccer-hfa0fmdue4ebhcbd.z03.azurefd.net/",
+      "value": "http://access-en-ledger-live-download.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://app-ledgr-downlod.pages.dev/",
+      "value": "https://7f55ef.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "mynewpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "reviewassignment.in",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake AI Tools Deliver Infostealer"
-    },
-    {
-      "value": "68.235.46.214",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild"
-    },
-    {
-      "value": "http://www.techcheck1.com/GetPeers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "riwitamo.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
-    },
-    {
-      "value": "http://cdns3.51quickfox.cn/2025090411/update.zip",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://cdn.zoom.com.kg/bin/zoomX64&ts=",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Fake Zoom Installer Delivers Overlord RAT on macOS"
-    },
-    {
-      "value": "vniir-avia.space",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations"
-    },
-    {
-      "value": "http://www.wangmeng66.top/GetAddresses",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "http://apps-ledgger-li.pages.dev/",
+      "value": "https://www.roblox.com.bi/games/80576062127494/HOT-Catgirl-Obby-Surprise-at-the-end-?privateServerLinkCode=89585493089521937689667490122223",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "194.76.227.94",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Almost Half of Malware Samples Communicate Direct to IP"
-    },
-    {
-      "value": "https://advance-ledgr-live.pages.dev/",
+      "value": "https://e702a1.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://filmistanstudios.com/mails/alibaba/",
+      "value": "https://www.claimed-gifts.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://blog.ubair.com/anotherday/app/captcha.php?redirect=%2Fanotherday%2Fapp%2Findex.php",
+      "value": "https://portal-de-desembolso-pc--agzc3668.replit.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.rebrand.ly/548abc/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://gitnikit.github.io/phisingsitefacebook",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://app-ledgrslive-en-us.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://advance-li-ledgrr.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://relay-fr-me.com/connexion.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://secure-nexo.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://guide-library-30bd.siti111856.workers.dev/privacy-information-center/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://promt-dpem7p8ov9s7.edgeone.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.walletcoinbase-zeta.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.roblox.com.et/games/5846386835/RetroStudio?privateServerLinkCode=28004710692762680520098075779654&game_id=5846386835&game_name=RetroStudio",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://1df173.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://io-public-trzors-com.typedream.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.roblox.com.pt/games/88519281604403/Build-a-Baddie?privateServerLinkCode=99382535900423182128231632453729&game_id=88519281604403&game_name=Build-a-Baddie",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://28610d.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://930898.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://im-use-whatapp.hl.cn/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://micr0sft.github.io/fdgdfg/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://17cbf5.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
@@ -4424,130 +1616,154 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://www.roblox.com.pt/games/103372023280442/Brainrot-Tag?privateServerLinkCode=99382535900423182128231632453729&game_id=103372023280442&game_name=Brainrot-Tag",
+      "value": "https://c67030.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "92.118.112.181",
+      "value": "https://sp15ct-zorqel-biz-melven-qavix.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.robiox.com.ps/users/8151803013/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://start-io-trezr-public-cdn.typedream.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.xfinityservice.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://chain-swap-interface-v2.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://3009de.icefactory.cl/htp4NS9mxacptre8XAgCjYiV4xQBm0F6YKIPhgOSaazIP4RZWyGpCO7tAstUGSpp/?rotated=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://yetteli.sbs/packages.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.chain-swap-interface-v2.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.roblox.com.bi/users/244432464839/profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://34711b.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://zanquro-zxt-melvani-p5t8dk31.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://biturbo.com.pk/Inbox/online.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://vnzkt819m-msprq341k-2a4e-xlb59p.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://skilled-gold-etzyiudb.edgeone.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://virat-kohli10.github.io/paybox-demo",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://qualitybh.art.br/fil/sd",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://secure-nexo.com/review.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "50.16.16.211",
       "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "Security Update \u2013 August 2, 2026"
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
     },
     {
-      "value": "http://www.wangmeng66.top/GetPeers",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://9d16d5.icefactory.cl/",
+      "value": "https://b32aaf.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "https://c08923.icefactory.cl/",
+      "value": "https://641f8e.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "activatepasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://access-ledgrlive-io.pages.dev/",
+      "value": "https://666c8b.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "hubpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "https://powercat.dog/watermelon5",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "Powercat malware campaign: Fake game cheats deliver infostealer"
-    },
-    {
-      "value": "https://194.213.18.133.sslip.io:23088/app/js/jquery.min.js",
-      "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "One Email Closer to the Edge: UNK_MassTraction & the Physics of Exploitation"
-    },
-    {
-      "value": "js-mirror.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable"
-    },
-    {
-      "value": "https://4255e4.icefactory.cl/",
+      "value": "http://access-us-ledger.pages.dev/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "accountstore.net",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "SecuritySnack - Account Farmers and Sellers"
-    },
-    {
-      "value": "assignpasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://secure-app-tre-jor.wasmer.app/",
+      "value": "https://www.ffacebooklogin.blogspot.com/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "passkeyenable.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "zuwufag.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire"
-    },
-    {
-      "value": "publisherresolution.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
-    },
-    {
-      "value": "oktaenroll.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "45.125.15.114",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "47.238.240.219",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
+      "value": "https://7b591c.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
       "value": "https://amazon-opfq.vercel.app/",
@@ -4556,46 +1772,64 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "passkey-enable.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "51quickfox.cn",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
-    },
-    {
-      "value": "https://f29f9b.icefactory.cl/",
+      "value": "https://93bb9e.icefactory.cl/",
       "type": "URL",
       "source": "OpenPhish",
       "description": "Active Phishing URL"
     },
     {
-      "value": "http://www.techcheck1.com/vshost.exe",
+      "value": "https://ae1d2c.icefactory.cl/",
       "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant"
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
-      "value": "sqfepjvmrd.xyz",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
+      "value": "http://express-dhl-dpe3103d2mga.edgeone.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
-      "value": "addoktapasskey.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
+      "value": "https://aedaa5.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
-      "value": "itemrange.com",
-      "type": "domain",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
+      "value": "https://d44bd3.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://e52f7e.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://center.verifiblueaccountstatusai.click/index.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://sp13ct-vormik-biz-frandel-kazdor.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://laibakhan139.github.io/netflix-home-page",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.refund-paylater.online/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
       "value": "http://mailer6-ver.mdbgo.io/?eta=3mail@a.b.c0/",
@@ -4604,22 +1838,370 @@
       "description": "Active Phishing URL"
     },
     {
-      "value": "47.218.103.146",
-      "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-    },
-    {
-      "value": "http://193.233.202.17:9001",
+      "value": "http://robiox.top/home",
       "type": "URL",
-      "source": "AlienVault OTX",
-      "description": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2"
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     },
     {
-      "value": "47.100.190.96",
+      "value": "http://bridallehenga.shop/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://4233e0.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://aktivasi-fiturxdana-pay3.yums.my.id/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://app-x-desktop-ledgre.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://fab207.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://access-ledgrlive-io.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://52b7b2.arcadejafet.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://f65299.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://vrushali-janbhare.github.io/amazon-clone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://a95e7b.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://21064b.arcadejafet.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://facebooklogin21.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://robloxc.com.es/login?returlUrl=190934801",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://sp15ct-vurvex-biz-nurzen-zorli.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://bogodukhov.com.ua/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://anirudhsajeesh0.github.io/Siteclone",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://nhzn-ju8-gh5-64ls-gfewy-4vo.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://8feed4.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://mksjidux.us.cc/5g/home.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://kuocnminlogox.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://sp15ct-kavrex-biz-zunven-tavri.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://blog.ubair.com/anotherday/app/index.php",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://a2007f.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://a0c31f.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://creditoecuador-2026--creditopichi38.replit.app/?monto=10000",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://b1a4fd.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://fbf1d9.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://df63ff.icefactory.cl/ksiernCZ4HYpjtK68wPm52ZTufIAomjS1w79usIbBVc5J3nhoAQa4dqRKO0GKdyp/?rotated=1",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://netflix-clone-steel-three-83.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://d9854f.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "27.133.154.218",
       "type": "IPv4",
-      "source": "AlienVault OTX",
-      "description": "ENDLESSDOORS Is Phoning Home. Pick Up."
+      "source": "Feodo Tracker",
+      "description": "Botnet C2 (QakBot)"
+    },
+    {
+      "value": "https://4bc19e.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://f29f9b.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://78v6786v8.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://rbcode.net/v/d892a96d2f3b76c82c157b1b2433d712",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://s4w.in/www-roblox-com-users-9501716396-profile",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://www.roblox.com.bn/games/2753915549/-Blox-Fruits?privateServerLinkCode=86312608205244302093175058016356",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://accss-metamsk-lgn.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://cf.1689888.xyz/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://f784a5.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://facebook-carol.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://bd2de7.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://connec-treoz-bridge.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://xfinityservice.godaddysites.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://06249e.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://ccer-hfa0fmdue4ebhcbd.z03.azurefd.net/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://coderkubes.com/duke/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://bf5893.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://facebookloginid.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://d6dc84.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://bnc-flb.web.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://a-desktop-live-ledgr.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://center.verifiblueprofilesecureai.cfd/index.html",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://48a2ba.arcadejafet.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.rakuten-two.vercel.app/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://00hwee-9rck-fuj-bvii3-y210am.pages.dev/qaz-wsx-edc-rfv?welcome=106906109377741&token248=106906109377741&name_token136=Lippert%20Marine",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://21c52f.icefactory.cl/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "https://assets-ledgrolive-learn.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://www.facebooksupportphonenumber12300.blogspot.com/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
+    },
+    {
+      "value": "http://apps-ledgre-live.pages.dev/",
+      "type": "URL",
+      "source": "OpenPhish",
+      "description": "Active Phishing URL"
     }
   ]
 }
